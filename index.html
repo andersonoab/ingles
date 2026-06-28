@@ -1,0 +1,358 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#0083CA" />
+  <title>Lousa da Fluência — Ponte PT + EN</title>
+  <link rel="manifest" href="manifest.webmanifest" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Rufina:wght@400;700&family=Roboto:wght@300;400;500;700&display=swap" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div id="liveRegion" class="sr-only" role="status" aria-live="polite" aria-atomic="true"></div>
+
+  <div class="onboarding" id="onboarding" hidden>
+    <div class="onboarding-inner">
+      <p class="eyebrow">Como usar em 10 segundos</p>
+      <h2>Fale primeiro, corrija depois</h2>
+      <ol>
+        <li>Toque em <strong>Nova frase</strong> e leia o erro real.</li>
+        <li>Avance pela ponte: português, mistura, blocos, inglês.</li>
+        <li>Tente falar e marque <strong>Acertei</strong>, <strong>Quase</strong> ou <strong>Errei</strong>.</li>
+      </ol>
+      <p class="muted">Atalhos: Espaço ouve, 1/2/3 avalia, N traz nova frase, F favorita.</p>
+      <button id="btnOnboardingDone">Entendi, começar</button>
+    </div>
+  </div>
+
+  <header class="app-header">
+    <div>
+      <p class="eyebrow">Inglês falado para brasileiros</p>
+      <h1>Lousa da Fluência</h1>
+      <p class="subtitle">Use a frase errada como ponte: tentativa real → português claro → português/inglês → inglês natural.</p>
+    </div>
+    <div class="header-actions">
+      <button class="ghost" id="btnInstall" hidden>Instalar</button>
+      <button class="ghost" id="btnExport">Exportar progresso</button>
+      <button class="ghost" id="btnImportProgress">Importar progresso</button>
+      <input type="file" id="progressFile" accept="application/json,.json" hidden />
+    </div>
+  </header>
+
+  <main class="layout">
+    <section class="panel coach-panel" aria-label="Painel de progresso">
+      <div class="coach-title">
+        <div>
+          <p class="eyebrow">Coach do dia</p>
+          <h2 id="coachHeadline">Comece por uma frase simples.</h2>
+        </div>
+        <span class="badge" id="dailyMode">Erro vira ponte</span>
+      </div>
+
+      <div class="stats-grid">
+        <article>
+          <strong id="statStudied">0</strong>
+          <span>estudadas</span>
+        </article>
+        <article>
+          <strong id="statMastered">0</strong>
+          <span>dominadas</span>
+        </article>
+        <article>
+          <strong id="statReview">0</strong>
+          <span>revisar</span>
+        </article>
+        <article>
+          <strong id="statErrors">0</strong>
+          <span>erros salvos</span>
+        </article>
+      </div>
+
+      <div class="track-progress" id="trackProgress">
+        <div class="track-progress-head">
+          <span id="trackProgressLabel">Progresso da trilha</span>
+          <strong id="trackProgressPct">0%</strong>
+        </div>
+        <div class="track-progress-bar" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0" aria-label="Progresso de frases dominadas na trilha">
+          <span id="trackProgressFill"></span>
+        </div>
+      </div>
+
+      <div class="filters">
+        <label for="trackSelect">Trilha</label>
+        <select id="trackSelect"></select>
+      </div>
+
+      <div class="quick-actions">
+        <button id="btnNext">Nova frase</button>
+        <button id="btnReview" class="secondary">Revisar erros</button>
+        <button id="btnWorst" class="secondary">Piores frases</button>
+        <button id="btnSaveCurrentError" class="secondary">Salvar erro atual</button>
+      </div>
+    </section>
+
+    <section class="board" aria-label="Lousa principal">
+      <div class="board-top">
+        <div>
+          <p class="eyebrow" id="cardMeta">Nível básico</p>
+          <h2 id="cardTitle">Carregando frase...</h2>
+        </div>
+        <button class="small ghost" id="btnFavorite" title="Favoritar frase" aria-label="Favoritar frase" aria-pressed="false">☆</button>
+      </div>
+
+      <div class="bridge-steps" aria-label="Etapas da ponte">
+        <button class="step active" data-step="error">1. Erro real</button>
+        <button class="step" data-step="pt">2. Português</button>
+        <button class="step" data-step="mix">3. Português/inglês</button>
+        <button class="step" data-step="blocks">4. Blocos</button>
+        <button class="step" data-step="en">5. Inglês</button>
+      </div>
+
+      <div class="phrase-stack">
+        <article class="phrase-card error" id="errorCard">
+          <span>Frase errada real — ponto de partida</span>
+          <p id="errorText"></p>
+        </article>
+        <article class="phrase-card" id="ptCard">
+          <span>Português claro</span>
+          <p id="ptText"></p>
+        </article>
+        <article class="phrase-card mix" id="mixCard">
+          <span>Frase ponte — pode misturar sem vergonha</span>
+          <p id="mixText"></p>
+        </article>
+        <article class="phrase-card hidden" id="blocksCard">
+          <span>Blocos para montar na cabeça</span>
+          <div class="blocks" id="blocksList"></div>
+        </article>
+        <article class="phrase-card en" id="enCard">
+          <span>Inglês natural</span>
+          <p id="enText"></p>
+        </article>
+      </div>
+
+      <div class="notes">
+        <p><strong>Pronúncia aproximada:</strong> <span id="pronunciationText"></span></p>
+        <p><strong>Uso real:</strong> <span id="usageText"></span></p>
+        <p><strong>Correção lógica:</strong> <span id="tipText"></span></p>
+      </div>
+
+      <div class="speak-box">
+        <div class="speak-actions">
+          <button id="btnSpeakEn">Ouvir inglês</button>
+          <button id="btnSpeakSlow" class="secondary">Ouvir devagar</button>
+          <button id="btnRevealEn" class="secondary">Revelar inglês</button>
+          <button id="btnStartSpeech" class="secondary">Treinar minha fala</button>
+          <button id="btnGuidedRead" class="secondary">Leitura guiada</button>
+          <button id="btnWalkQuick" class="secondary">Modo caminhada</button>
+        </div>
+        <div class="audio-options">
+          <label class="toggle-inline">
+            <input id="toggleHoverSpeak" type="checkbox" checked />
+            Tocar palavra/bloco ao passar ou tocar
+          </label>
+        </div>
+        <p id="speechSupport" class="muted">No celular, o reconhecimento de voz depende do navegador. A leitura em voz alta funciona na maioria dos aparelhos.</p>
+        <p id="audioStatus" class="muted audio-status">Áudio pronto. Passe o mouse ou toque em palavras/blocos para ouvir.</p>
+        <div class="speech-result" id="speechResult" hidden></div>
+      </div>
+
+      <div class="advance-bar" id="advanceBar" hidden>
+        <span id="advanceText">Próxima frase em 2…</span>
+        <button class="small ghost" id="btnCancelAdvance">Ficar nesta</button>
+      </div>
+
+      <div class="self-check">
+        <button id="btnCorrect" class="success">Acertei</button>
+        <button id="btnAlmost" class="warning">Quase</button>
+        <button id="btnWrong" class="danger">Errei</button>
+      </div>
+
+      <p class="shortcuts-hint muted">Atalhos: <kbd>Espaço</kbd> ouvir · <kbd>S</kbd> devagar · <kbd>1</kbd> acertei · <kbd>2</kbd> quase · <kbd>3</kbd> errei · <kbd>N</kbd> nova · <kbd>R</kbd> revisar · <kbd>F</kbd> favoritar · <kbd>E</kbd> revelar inglês</p>
+    </section>
+
+    <section class="panel tabs-panel" aria-label="Ferramentas">
+      <nav class="tabs" aria-label="Abas">
+        <button class="tab active" data-tab="glossary">Glossário</button>
+        <button class="tab" data-tab="dictionary">Dicionário</button>
+        <button class="tab" data-tab="builder">Criar frase</button>
+        <button class="tab" data-tab="errors">Erros</button>
+        <button class="tab" data-tab="walking">Caminhada</button>
+        <button class="tab" data-tab="about">Método</button>
+      </nav>
+
+      <div class="tab-content active" id="tab-glossary">
+        <div class="toolbar">
+          <input id="searchInput" type="search" placeholder="Buscar frase, categoria ou bloco..." />
+          <select id="statusFilter">
+            <option value="all">Todos</option>
+            <option value="favorite">Favoritas</option>
+            <option value="review">Para revisar</option>
+            <option value="mastered">Dominadas</option>
+          </select>
+        </div>
+        <div class="phrase-list" id="phraseList"></div>
+      </div>
+
+      <div class="tab-content" id="tab-dictionary">
+        <div class="dictionary-panel">
+          <h3>Dicionário de frases</h3>
+          <p class="muted">Use o arquivo antigo do outro projeto ou cole pares no padrão <strong>inglês | português</strong>. O app converte cada par em: português claro → frase ponte → inglês natural.</p>
+
+          <div class="dictionary-actions">
+            <label>URL do dicionário antigo
+              <input id="dictionaryUrl" type="url" value="https://raw.githubusercontent.com/andersonoab/aprenderIngles/refs/heads/main/frases_unicas_1000.txt" />
+            </label>
+            <button type="button" id="btnLoadRemoteDictionary">Carregar do GitHub</button>
+            <button type="button" class="secondary" id="btnImportTxt">Importar TXT</button>
+            <button type="button" class="secondary" id="btnImportDictionaryJson">Importar JSON</button>
+            <button type="button" class="ghost" id="btnClearDictionary">Limpar importadas</button>
+            <input type="file" id="txtFile" accept=".txt,text/plain,.csv" hidden />
+            <input type="file" id="dictionaryJsonFile" accept="application/json,.json" hidden />
+          </div>
+
+          <div class="dictionary-paste">
+            <label>Colar frases manualmente
+              <textarea id="dictionaryPaste" rows="7" placeholder="Can you help me? | Pode me ajudar?
+I need more time. | Preciso de mais tempo.
+I work with payroll. | Eu trabalho com folha de pagamento."></textarea>
+            </label>
+            <button type="button" id="btnImportPastedDictionary">Importar texto colado</button>
+          </div>
+
+          <div class="dictionary-status" id="dictionaryStatus">Nenhum dicionário externo carregado ainda.</div>
+
+          <div class="dictionary-help">
+            <h4>Formatos aceitos</h4>
+            <p><strong>TXT simples:</strong> uma frase por linha no formato <code>English sentence | Tradução em português</code>.</p>
+            <p><strong>JSON:</strong> lista com campos <code>en</code>, <code>pt</code>, <code>mix</code>, <code>error</code>, <code>track</code> e <code>tip</code>. O app também entende <code>bridge</code> como frase ponte.</p>
+            <p>Depois de importar, as frases ficam salvas neste navegador e entram no glossário mesmo se a internet cair.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="tab-content" id="tab-builder">
+        <form id="builderForm" class="builder-form">
+          <label>Frase errada / tentativa real
+            <input name="error" placeholder="I want falar with you" />
+          </label>
+          <label>Português
+            <input name="pt" required placeholder="Eu quero falar com você." />
+          </label>
+          <label>Frase português/inglês
+            <input name="mix" required placeholder="I want falar with you" />
+          </label>
+          <label>Inglês natural
+            <input name="en" required placeholder="I want to talk to you." />
+          </label>
+          <label>Pronúncia aproximada
+            <input name="pronunciation" placeholder="Ai uónt tchu tók tchu iu" />
+          </label>
+          <label>Categoria
+            <input name="track" placeholder="Trabalho, rua, reunião..." />
+          </label>
+          <label>Dica rápida
+            <textarea name="tip" rows="3" placeholder="Explique o ajuste: falar = to talk; com você = to you..."></textarea>
+          </label>
+          <button type="submit">Adicionar na minha lousa</button>
+          <button type="button" class="secondary" id="btnImportJson">Importar JSON</button>
+          <input type="file" id="jsonFile" accept="application/json" hidden />
+        </form>
+      </div>
+
+      <div class="tab-content" id="tab-errors">
+        <div class="errors-panel">
+          <h3>Transformar erro em frase de estudo</h3>
+          <p class="muted">Cole a tentativa errada do aluno. Ela pode virar a frase português/inglês da lousa.</p>
+          <form id="errorForm" class="builder-form">
+            <label>Frase errada do aluno
+              <input name="error" required placeholder="That stay em baixo of viadutos" />
+            </label>
+            <label>Português claro
+              <input name="pt" required placeholder="Eles ficam embaixo dos viadutos." />
+            </label>
+            <label>Frase português/inglês gerada
+              <input name="mix" placeholder="They stay embaixo of viadutos" />
+            </label>
+            <label>Inglês natural
+              <input name="en" required placeholder="They stay under overpasses." />
+            </label>
+            <label>Categoria
+              <input name="track" placeholder="Rua e realidade social" />
+            </label>
+            <label>Explicação do ajuste
+              <textarea name="tip" rows="3" placeholder="That não funciona para pessoas no plural; use They. Embaixo de = under."></textarea>
+            </label>
+            <button type="submit">Criar frase a partir do erro</button>
+          </form>
+          <div class="error-inbox">
+            <h3>Erros capturados</h3>
+            <p class="muted">Quando o aluno marca “Errei” ou salva uma tentativa de fala, o erro aparece aqui para virar material de aula.</p>
+            <div id="errorList" class="phrase-list"></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="tab-content" id="tab-walking">
+        <div class="walking-card">
+          <h3>Modo caminhada</h3>
+          <p>Treino contínuo para ouvir e repetir sem ficar olhando a tela. A sequência lê inglês, português, frase ponte e inglês natural novamente.</p>
+          <div class="walking-controls">
+            <button id="btnWalkingStart">Iniciar</button>
+            <button id="btnWalkingStop" class="secondary">Parar</button>
+          </div>
+          <div id="walkStatus" class="walk-status">Modo caminhada pronto. Tela escura, leitura contínua e tentativa de manter a tela ativa.</div>
+          <ol id="walkingQueue"></ol>
+        </div>
+      </div>
+
+      <div class="tab-content" id="tab-about">
+        <div class="about-text">
+          <h3>Como funciona</h3>
+          <p>O aluno não precisa começar perfeito. Primeiro a lousa registra a tentativa real, por exemplo: <em>I want falar with you</em>. Essa tentativa vira a frase português/inglês da ponte. Depois a lousa corrige para o inglês natural: <em>I want to talk to you</em>.</p>
+          <p>Isso respeita a forma real como o brasileiro tenta falar. A frase errada não é descartada; ela vira matéria-prima para construir fala.</p>
+          <p>Regra prática: fale primeiro, corrija depois, repita até ficar automático.</p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="app-footer">
+    <span>Feito para GitHub Pages. Sem login, leve e com progresso salvo no navegador.</span>
+    <button class="link-button" id="btnReset">Zerar progresso local</button>
+  </footer>
+
+  <template id="phraseItemTemplate">
+    <article class="phrase-item">
+      <div>
+        <h4></h4>
+        <p class="item-error"></p>
+        <p class="item-mix"></p>
+        <p class="item-en"></p>
+      </div>
+      <div class="item-actions">
+        <span class="mini-badge"></span>
+        <button class="small">Abrir</button>
+      </div>
+    </article>
+  </template>
+
+  <div id="toastWrap" class="toast-wrap" aria-live="polite" aria-atomic="false"></div>
+
+  <div id="confirmBackdrop" class="confirm-backdrop" hidden>
+    <div class="confirm-box" role="dialog" aria-modal="true" aria-labelledby="confirmText">
+      <p id="confirmText"></p>
+      <div class="confirm-actions">
+        <button class="secondary" id="confirmCancel">Cancelar</button>
+        <button id="confirmOk">Confirmar</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="data/frases_dicionario.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

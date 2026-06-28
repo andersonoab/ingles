@@ -1,0 +1,9 @@
+{
+  "name": "Lousa da Fluência — Ponte PT EN",
+  "short_name": "Lousa Fluência",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#F4F7F9",
+  "theme_color": "#0083CA",
+  "description": "Aplicativo leve para treinar fala em inglês usando frases misturadas como ponte."
+}

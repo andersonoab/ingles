@@ -1,0 +1,217 @@
+[
+  {
+    "id": "ponte_001",
+    "track": "Primeiros passos",
+    "level": "Sobrevivência",
+    "title": "Quero falar com você",
+    "pt": "Eu quero falar com você.",
+    "mix": "I want falar with you.",
+    "en": "I want to talk to you.",
+    "pronunciation": "Ai uónt tchu tók tchu iu",
+    "usage": "Use quando você quer chamar alguém para conversar.",
+    "tip": "Erro aproveitado: a tentativa real vira a frase português/inglês. Em inglês natural, 'falar com você' fica 'talk to you'. O verbo depois de want geralmente entra com 'to': want to talk.",
+    "blocks": [
+      "I want to",
+      "talk",
+      "to you"
+    ],
+    "error": "I want falar with you."
+  },
+  {
+    "id": "ponte_002",
+    "track": "Rua e realidade social",
+    "level": "Básico",
+    "title": "Ficam embaixo dos viadutos",
+    "pt": "Eles ficam embaixo dos viadutos.",
+    "mix": "They stay embaixo of viadutos.",
+    "en": "They stay under overpasses.",
+    "pronunciation": "Dêi stei ânder ôuverpéssis",
+    "usage": "Use para descrever pessoas ou coisas que permanecem embaixo de viadutos.",
+    "tip": "Erro aproveitado: 'That stay...' é a tentativa real. Para pessoas no plural, use 'They'. A ponte fica 'They stay embaixo of viadutos' e o inglês natural fica 'They stay under overpasses'.",
+    "blocks": [
+      "They",
+      "stay",
+      "under",
+      "overpasses"
+    ],
+    "error": "That stay em baixo of viadutos."
+  },
+  {
+    "id": "ponte_003",
+    "track": "Primeiros passos",
+    "level": "Sobrevivência",
+    "title": "Estou aprendendo inglês",
+    "pt": "Eu estou aprendendo inglês.",
+    "mix": "I am aprendendo English.",
+    "en": "I am learning English.",
+    "pronunciation": "Ai ém lêrnin Ínglish",
+    "usage": "Use para explicar que ainda está estudando e pedir paciência.",
+    "tip": "Erro aproveitado: a tentativa real vira a frase português/inglês. Aprendendo = learning. Você também pode falar de forma contraída: I'm learning English.",
+    "blocks": [
+      "I am",
+      "learning",
+      "English"
+    ],
+    "error": "I am aprendendo English."
+  },
+  {
+    "id": "ponte_004",
+    "track": "Pedir ajuda",
+    "level": "Sobrevivência",
+    "title": "Você pode repetir?",
+    "pt": "Você pode repetir, por favor?",
+    "mix": "Can you repetir please?",
+    "en": "Can you repeat, please?",
+    "pronunciation": "Quén iu ripít pliz",
+    "usage": "Use quando não entendeu o que a pessoa falou.",
+    "tip": "Erro aproveitado: a tentativa real vira a frase português/inglês. Repetir = repeat. O bloco 'Can you...' é um dos mais úteis para perguntas.",
+    "blocks": [
+      "Can you",
+      "repeat",
+      "please?"
+    ],
+    "error": "Can you repetir please?"
+  },
+  {
+    "id": "ponte_005",
+    "track": "Pedir ajuda",
+    "level": "Sobrevivência",
+    "title": "Fale mais devagar",
+    "pt": "Você pode falar mais devagar?",
+    "mix": "Can you falar more devagar?",
+    "en": "Can you speak more slowly?",
+    "pronunciation": "Quén iu spík mór slôuli",
+    "usage": "Use quando a pessoa está falando rápido demais.",
+    "tip": "Erro aproveitado: a tentativa real vira a frase português/inglês. Falar pode ser 'speak' ou 'talk'. Para velocidade da fala, use 'speak more slowly'.",
+    "blocks": [
+      "Can you",
+      "speak",
+      "more slowly?"
+    ],
+    "error": "Can you falar more devagar?"
+  },
+  {
+    "id": "ponte_006",
+    "track": "Trabalho",
+    "level": "Básico",
+    "title": "Vou verificar e te retorno",
+    "pt": "Vou verificar e te retorno.",
+    "mix": "I will verificar and return to you.",
+    "en": "I will check and get back to you.",
+    "pronunciation": "Ai uíl tchéc end guét bék tchu iu",
+    "usage": "Use no trabalho quando ainda precisa conferir uma informação.",
+    "tip": "Erro aproveitado: a tentativa real vira a frase português/inglês. 'Te retorno' em contexto profissional fica melhor como 'get back to you'.",
+    "blocks": [
+      "I will check",
+      "and",
+      "get back to you"
+    ],
+    "error": "I will verificar and return to you."
+  },
+  {
+    "id": "ponte_007",
+    "track": "Trabalho",
+    "level": "Básico",
+    "title": "Preciso enviar o relatório",
+    "pt": "Eu preciso enviar o relatório hoje.",
+    "mix": "I need enviar the report today.",
+    "en": "I need to send the report today.",
+    "pronunciation": "Ai nid tchu send dê ripórt tchudêi",
+    "usage": "Use para tarefas de trabalho com prazo.",
+    "tip": "Erro aproveitado: a tentativa real vira a frase português/inglês. Depois de 'need', use 'to' antes do verbo: need to send.",
+    "blocks": [
+      "I need to",
+      "send",
+      "the report",
+      "today"
+    ],
+    "error": "I need enviar the report today."
+  },
+  {
+    "id": "ponte_008",
+    "track": "Reunião",
+    "level": "Básico",
+    "title": "Tenho uma pergunta",
+    "pt": "Eu tenho uma pergunta.",
+    "mix": "I have uma question.",
+    "en": "I have a question.",
+    "pronunciation": "Ai rév a quéstchion",
+    "usage": "Use para entrar em uma reunião ou pedir espaço para falar.",
+    "tip": "Erro aproveitado: a tentativa real vira a frase português/inglês. Antes de substantivo singular, normalmente usamos 'a' ou 'an': a question.",
+    "blocks": [
+      "I have",
+      "a question"
+    ],
+    "error": "I have uma question."
+  },
+  {
+    "id": "ponte_009",
+    "track": "Reunião",
+    "level": "Intermediário inicial",
+    "title": "Não tenho certeza se concordo",
+    "pt": "Não tenho certeza se concordo.",
+    "mix": "I am not sure if I concordo.",
+    "en": "I'm not sure I agree.",
+    "pronunciation": "Aim nát shúr ai agrí",
+    "usage": "Use para discordar com educação.",
+    "tip": "Erro aproveitado: a tentativa real vira a frase português/inglês. Concordar = agree. Em fala natural, 'I'm not sure I agree' já comunica dúvida educada.",
+    "blocks": [
+      "I'm not sure",
+      "I agree"
+    ],
+    "error": "I am not sure if I concordo."
+  },
+  {
+    "id": "ponte_010",
+    "track": "Trabalho",
+    "level": "Básico",
+    "title": "Trabalho com folha de pagamento",
+    "pt": "Eu trabalho com folha de pagamento.",
+    "mix": "I work with folha de pagamento.",
+    "en": "I work with payroll.",
+    "pronunciation": "Ai uôrk uíd pêiroul",
+    "usage": "Use para se apresentar profissionalmente.",
+    "tip": "Erro aproveitado: a tentativa real vira a frase português/inglês. Folha de pagamento = payroll. Para área de atuação, 'work with' funciona bem.",
+    "blocks": [
+      "I work with",
+      "payroll"
+    ],
+    "error": "I work with folha de pagamento."
+  },
+  {
+    "id": "ponte_011",
+    "track": "Vida diária",
+    "level": "Básico",
+    "title": "Preciso pegar o ônibus",
+    "pt": "Eu preciso pegar o ônibus.",
+    "mix": "I need pegar the bus.",
+    "en": "I need to take the bus.",
+    "pronunciation": "Ai nid tchu teik dê bâs",
+    "usage": "Use para falar de transporte no dia a dia.",
+    "tip": "Erro aproveitado: a tentativa real vira a frase português/inglês. Pegar ônibus em inglês é 'take the bus', não 'catch' em todos os contextos, embora 'catch the bus' também possa existir.",
+    "blocks": [
+      "I need to",
+      "take",
+      "the bus"
+    ],
+    "error": "I need pegar the bus."
+  },
+  {
+    "id": "ponte_012",
+    "track": "Vida diária",
+    "level": "Básico",
+    "title": "Não tenho dinheiro agora",
+    "pt": "Eu não tenho dinheiro agora.",
+    "mix": "I don't have dinheiro now.",
+    "en": "I don't have money right now.",
+    "pronunciation": "Ai dont rév mâni rait náu",
+    "usage": "Use para explicar uma limitação financeira imediata.",
+    "tip": "Erro aproveitado: a tentativa real vira a frase português/inglês. Dinheiro = money. 'Right now' deixa a frase mais natural para 'agora'.",
+    "blocks": [
+      "I don't have",
+      "money",
+      "right now"
+    ],
+    "error": "I don't have dinheiro now."
+  }
+]

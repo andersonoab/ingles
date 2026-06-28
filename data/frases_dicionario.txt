@@ -1,0 +1,2208 @@
+Effectively, you can | Basicamente, podemos
+think of as 50% of our effort is on scaling | pensar que 50% do nosso esforço é voltado para a expansão
+50% of it is on innovation | 50% é voltado para a inovação
+My betting is you're going to need both to get to AGI | Eu acreditei que você precisaria dos dois para chegar à AGI
+I've always felt this | Eu sempre senti isso
+if we build AGI | se nós construirmos AGI
+and then use that as a simulation of the mind | e então usamos isso como uma simulação da mente
+and then compare that to the real mind | e então comparamos isso com a mente real
+we will then see what the differences are | nós então vimos quais eram as diferenças
+and potentially what’s special | e potencialmente o que era especial
+and remaining about the human mind | e o que restou sobre a mente humana
+Maybe that's creativity | Talvez isso tenha sido criatividade
+Maybe it's emotions | Talvez tenham sido emoções
+Maybe it's dreaming | Talvez tenha sido sonhar
+Maybe it's consciousness | Talvez tenha sido consciência
+There's a lot of hypotheses out there | Existiram muitas hipóteses
+about what may or may not be computable | sobre o que poderia ou não ser computável
+And this comes back to the Turing machine question | E isso voltou para a questão da máquina de Turing
+what is the limit of a Turing machine | qual foi o limite de uma máquina de Turing
+Nobody's found anything in the universe that's non-computable | Ninguém encontrou nada no universo que fosse não computável
+It has been an extraordinary year for AI | Foi um ano extraordinário para a IA
+We have seen the center of gravity shift | Nós vimos o centro de gravidade mudar
+from large language models to agentic AI | de modelos de linguagem para IA agente
+We’ve seen AI accelerate drug discovery | Nós vimos a IA acelerar a descoberta de medicamentos
+models integrated into robotics | modelos integrados à robótica
+and driverless cars | e carros autônomos
+we wanted to take a broader view | Nós quisemos ter uma visão mais ampla
+beyond the headlines and product launches | além das manchetes e lançamentos
+Where is all this heading | Para onde tudo isso estava indo
+What are the scientific questions | Quais foram as questões científicas
+that will define the next phase | que definiram a próxima fase
+It feels like we packed 10 years in one year | Pareceu que vivemos 10 anos em um ano
+we've just released Gemini 3 | Nós lançamos o Gemini 3
+we're really happy with it | Nós ficamos muito satisfeitos com isso
+the multi-modal capabilities advanced well | As capacidades multimodais avançaram bem
+the thing I'm very excited about | A coisa que me deixou animado
+is world models being advanced | foi o avanço dos modelos de mundo
+the big proof point was AlphaFold | A grande prova foi o AlphaFold
+it was possible to solve these problems | Foi possível resolver esses problemas
+we're exploring all the other ones now | Nós exploramos todos os outros agora
+I think material science | Eu pensei em ciência dos materiais
+I’d love to build better batteries | Eu quis criar baterias melhores
+we're also working on fusion | Nós também trabalhamos com fusão
+we want to accelerate that | Nós quisemos acelerar isso
+helping them contain the plasma | Ajudamos eles a conter o plasma
+we're collaborating with quantum teams | Nós colaboramos com equipes quânticas
+we're using machine learning to help them | Nós usamos machine learning para ajudá-los
+maybe one day they'll help us | Talvez um dia eles nos ajudaram
+fusion has always been the holy grail | A fusão sempre foi o santo graal
+it would transform everything | Isso transformou tudo
+if energy was cheap and clean | Se a energia fosse barata e limpa
+many things would become viable | Muitas coisas se tornaram viáveis
+we could have desalination plants everywhere | Nós poderíamos ter usinas de dessalinização em todo lugar
+you could produce energy 24/7 | Você poderia produzir energia 24/7
+AI is applying itself to mathematics | A IA se aplicou à matemática
+models can make basic mistakes | Os modelos cometeram erros básicos
+there is something missing in these systems | Há algo faltando nesses sistemas
+they are not consistent yet | Eles não foram consistentes ainda
+they are very good at some things | Eles foram muito bons em algumas coisas
+but very basic in others | mas muito básicos em outras
+we need to close those gaps | Nós precisamos fechar essas lacunas
+these systems need better reasoning | Esses sistemas precisaram de melhor raciocínio
+they need to double-check outputs | Eles precisaram verificar suas respostas
+they sometimes give wrong answers | Eles às vezes deram respostas erradas
+we are halfway there | Nós estivemos na metade do caminho
+we are still in the early days | Nós ainda estivemos no começo
+these models start with human knowledge | Esses modelos começaram com conhecimento humano
+they compress knowledge into useful outputs | Eles comprimiram conhecimento em respostas úteis
+we don't know how to use them reliably | Nós não soubemos usar eles com confiabilidade
+they don't continue learning like humans | Eles não continuaram aprendendo como humanos
+that is a missing piece | Isso foi uma peça faltante
+AI was overhyped in the short term | A IA foi superestimada no curto prazo
+but underestimated in the long term | mas subestimada no longo prazo
+
+I'm only human | Eu sou apenas humano
+Maybe I'm foolish | Talvez eu seja tolo
+Maybe I'm blind | Talvez eu seja cego
+I can see through this | Eu consigo ver além disso
+I can see what's behind | Eu consigo ver o que está por trás
+I got no way to prove it | Eu não tenho como provar isso
+Don't put your blame on me | Não coloque sua culpa em mim
+Take a look in the mirror | Dê uma olhada no espelho
+What do you see? | O que você vê?
+Do you see it clearer? | Você vê mais claramente?
+Are you deceived? | Você está enganado?
+What do you believe? | No que você acredita?
+Some people got real problems | Algumas pessoas têm problemas reais
+Some people are out of luck | Algumas pessoas estão sem sorte
+Some people think I can solve them | Algumas pessoas acham que eu posso resolvê-los
+Lord heavens above | Senhor, céus lá em cima
+Don't ask my opinion | Não peça minha opinião
+Don't ask me to lie | Não me peça para mentir
+Then beg for forgiveness | Depois implore por perdão
+You're making me cry | Você está me fazendo chorar
+I make mistakes | Eu cometo erros
+That's all it takes | É tudo que é preciso
+I'm no prophet or Messiah | Eu não sou profeta nem Messias
+You should go looking somewhere higher | Você deveria procurar em algum lugar mais alto
+I do what I can | Eu faço o que posso
+I'm just a man | Eu sou apenas um homem
+Don't put the blame on me | Não coloque a culpa em mim
+I'm only human after all | Eu sou apenas humano no final das contas
+You're only human after all | Você é apenas humano no final das contas
+I can't solve everything | Eu não consigo resolver tudo
+Nobody is perfect | Ninguém é perfeito
+I did my best | Eu fiz o meu melhor
+Stop blaming me for your problems | Pare de me culpar pelos seus problemas
+I never said I was perfect | Eu nunca disse que era perfeito
+We all make mistakes sometimes | Todos nós cometemos erros às vezes
+I'm trying my hardest | Estou tentando o meu máximo
+Don't expect me to be flawless | Não espere que eu seja impecável
+I have my own struggles | Eu tenho minhas próprias lutas
+Life is not easy for anyone | A vida não é fácil para ninguém
+I wish I could do more | Eu queria poder fazer mais
+Sometimes I feel lost | Às vezes eu me sinto perdido
+I can't carry the world on my shoulders | Eu não consigo carregar o mundo nos meus ombros
+Don't judge me for my failures | Não me julgue pelas minhas falhas
+I'm doing the best I can | Estou fazendo o melhor que posso
+We're all fighting our own battles | Todos estamos lutando nossas próprias batalhas
+I never promised you perfection | Eu nunca te prometi perfeição
+Let me be who I am | Me deixe ser quem eu sou
+I have feelings too | Eu também tenho sentimentos
+Stop pretending you're better than me | Pare de fingir que é melhor que eu
+I'm not your enemy | Eu não sou seu inimigo
+We all fall down sometimes | Todos nós caímos às vezes
+I need time to figure things out | Eu preciso de tempo para entender as coisas
+Don't push me too hard | Não me pressione demais
+I'm learning from my mistakes | Estou aprendendo com meus erros
+Give me a chance to grow | Me dê uma chance de crescer
+I'm not as strong as you think | Eu não sou tão forte quanto você pensa
+Everyone has a breaking point | Todo mundo tem um ponto de ruptura
+I can't always be what you want | Eu nem sempre posso ser o que você quer
+Don't hold me to impossible standards | Não me cobre padrões impossíveis
+I hurt just like you do | Eu me machuco assim como você
+I'm tired of pretending | Estou cansado de fingir
+I can't fix everything that's broken | Eu não consigo consertar tudo que está quebrado
+Sometimes I just need to breathe | Às vezes eu só preciso respirar
+I didn't ask for this responsibility | Eu não pedi essa responsabilidade
+The weight of the world is too heavy | O peso do mundo é pesado demais
+I'm only one person | Eu sou apenas uma pessoa
+Don't expect miracles from me | Não espere milagres de mim
+I fall and I get back up | Eu caio e me levanto de novo
+My flaws don't define me | Minhas falhas não me definem
+I'm human, not a machine | Eu sou humano, não uma máquina
+Let me learn at my own pace | Me deixe aprender no meu próprio ritmo
+I can't please everyone | Eu não consigo agradar a todos
+I'm still figuring out who I am | Ainda estou descobrindo quem eu sou
+Don't give up on me | Não desista de mim
+I need your patience | Eu preciso da sua paciência
+I never meant to let you down | Eu nunca quis te decepcionar
+Some days are harder than others | Alguns dias são mais difíceis que outros
+I can only do so much | Eu só posso fazer até certo ponto
+I'm walking my own path | Estou caminhando no meu próprio caminho
+I'm not here to save the world | Eu não estou aqui para salvar o mundo
+Believe in me even when I fail | Acredite em mim mesmo quando eu falhar
+I may stumble but I won't stop | Eu posso tropeçar, mas não vou parar
+I carry scars you can't see | Eu carrego cicatrizes que você não pode ver
+Don't turn your back on me | Não me dê as costas
+I've been through a lot | Eu passei por muita coisa
+I refuse to give up | Eu me recuso a desistir
+I'm stronger than yesterday | Eu estou mais forte que ontem
+My heart is in the right place | Meu coração está no lugar certo
+I choose to keep going | Eu escolho continuar em frente
+Don't underestimate me | Não me subestime
+I'm a work in progress | Eu sou um trabalho em progresso
+Tomorrow I'll try again | Amanhã eu vou tentar de novo
+I won't let fear control me | Eu não vou deixar o medo me controlar
+I'm brave enough to be vulnerable | Sou corajoso o bastante para ser vulnerável
+Every scar tells a story | Cada cicatriz conta uma história
+I'm not broken, I'm healing | Eu não estou quebrado, estou me curando
+I deserve grace too | Eu também mereço compaixão
+I'll rise every time I fall | Eu vou me levantar toda vez que cair
+Being human is enough | Ser humano já é o bastante
+I'm proud of how far I've come | Tenho orgulho de quão longe eu cheguei
+
+What's up? | Tudo bem?
+Hey, what's going on? | E aí?
+Long time no see | Faz tempo que não te vejo
+Nice to meet you | Prazer em te conhecer
+How are you doing? | Como você tá?
+I'm good, how about you? | Tô bem, e você?
+Talk to you later | Falou!
+See you later | Até mais
+Bye, take care | Tchau, se cuida
+Good to see you | Bom te ver
+I'm on my way | Tô a caminho
+I'm running late | Tô atrasado
+I'm in a hurry | Tô com pressa
+I'm exhausted | Tô cansado demais
+I'm starving | Tô com fome
+I'm sleepy | Tô com sono
+I'm bored | Tô entediado
+I'm going for a walk | Vou dar uma volta
+I'm gonna take a break | Vou descansar um pouco
+I just got here | Acabei de chegar
+I just woke up | Acabei de acordar
+I'll be right back | Já volto
+Let me know when you get there | Me avisa quando chegar
+I overslept | Perdi a hora
+What a busy day | Que dia corrido
+That makes sense | Faz sentido
+I don't agree with that | Não concordo
+I know, right? | Pois é
+For real? | Sério?
+Tell me about it | Nem me fale
+I don't mind | Tanto faz
+It depends | Depende
+I think so | Acho que sim
+I don't think so | Acho que não
+Absolutely | Com certeza
+No doubt | Sem dúvida
+Maybe | Pode ser
+I'm not sure | Não tenho certeza
+I knew it! | Eu sabia!
+I can't believe it | Não acredito
+That's awesome! | Que legal!
+That sucks | Que chato
+What a relief | Que alívio
+I hope so | Tomara
+I'm surprised | Tô surpreso
+Excuse me | Com licença
+Can you help me out? | Pode me ajudar?
+Make yourself at home | Fica à vontade
+You don't have to | Não precisa
+I appreciate it | Eu agradeço
+Don't mention it | De nada
+Sorry to bother you | Desculpa o incômodo
+Can you say that again? | Pode repetir?
+Can you speak slower, please? | Fala mais devagar, por favor
+Is it okay if I...? | Tudo bem se eu...?
+Do you mind if I...? | Importa se eu...?
+I need a favor | Preciso de um favor
+Thanks for the help | Obrigado pela ajuda
+My bad | Foi mal
+No worries | Sem problemas
+Actually... | Na verdade...
+It's like... | Tipo assim...
+The thing is... | O negócio é que...
+To be honest... | Pra ser sincero...
+At the end of the day... | No final das contas...
+Anyway... | De qualquer forma...
+For instance... | Por exemplo...
+In other words... | Ou seja...
+Long story short... | Resumindo...
+As far as I know... | Pelo que eu sei...
+If I'm not mistaken... | Se não me engano...
+Speaking of which... | Falando nisso...
+By the way... | Mudando de assunto...
+Before I forget... | Antes que eu esqueça...
+Come to think of it... | Pensando bem...
+I'll take a look | Vou dar uma olhada
+Send me an email | Me manda por e-mail
+Let's schedule a meeting | Vamos marcar uma reunião
+I'm working on it | Tô trabalhando nisso
+What's the deadline? | Qual é o prazo?
+I need more time | Preciso de mais tempo
+I'm done | Já terminei
+Can I call you back? | Posso te ligar depois?
+I'm in a meeting right now | Tô em reunião agora
+I'll keep you posted | Vou te atualizar
+I got this | Deixa comigo
+It turned out great | Ficou ótimo
+We need to figure this out | Temos que resolver isso
+What's the next step? | Qual é o próximo passo?
+I'm overwhelmed | Tô sobrecarregado
+Table for two, please | Mesa pra dois, por favor
+Can I see the menu? | Posso ver o cardápio?
+What do you recommend? | O que você recomenda?
+I'll have this one | Vou querer esse aqui
+Can I get the check, please? | A conta, por favor
+It's delicious | Tá delicioso
+I'm full | Tô satisfeito
+Can I get more water? | Pode trazer mais água?
+Do you have any vegetarian options? | Tem opção vegetariana?
+Let's split the bill | Vamos dividir a conta
+Where is...? | Onde fica...?
+How do I get there? | Como eu chego lá?
+Is it far from here? | É longe daqui?
+I'm lost | Tô perdido
+Can you give me directions? | Pode me indicar o caminho?
+How long does it take? | Quanto tempo demora?
+Can I walk there? | Posso ir a pé?
+Where do I catch the bus? | Onde pego o ônibus?
+What time does the next one leave? | A que horas sai o próximo?
+I'd like a room for two nights | Quero um quarto pra duas noites
+How much is it? | Quanto custa?
+It's too expensive | Tá caro demais
+Is there a discount? | Tem desconto?
+Can I try it on? | Posso experimentar?
+Do you have another size? | Tem outro tamanho?
+Do you take cards? | Aceita cartão?
+I'm just browsing | Só tô dando uma olhada
+I'll take it | Vou levar
+Can you gift wrap it? | Pode embalar pra presente?
+Where's the fitting room? | Onde é o provador?
+I'm so happy | Tô feliz demais
+I'm worried | Tô preocupado
+I'm nervous | Tô nervoso
+I'm excited | Tô empolgado
+I miss you | Tô com saudade
+I'm upset | Tô com raiva
+I'm confused | Tô confuso
+I'm chill | Tô de boa
+I'm feeling great | Tô me sentindo bem
+I'm stressed out | Tô estressado
+Wanna hang out today? | Quer sair hoje?
+Let's do it! | Bora!
+What time are we meeting? | Que horas a gente se encontra?
+Where should we meet? | Onde a gente se encontra?
+How about tomorrow? | Pode ser amanhã?
+I'm in | Tô dentro
+I can't make it | Não vai dar pra mim
+Maybe next time | Fica pra próxima
+It was a lot of fun | Foi muito divertido
+Let's keep in touch | A gente se fala
+Bring whoever you want | Traz quem você quiser
+Come on over | Chega mais
+I feel like going out | Tô a fim de sair
+I'd rather stay home | Prefiro ficar em casa
+That was a great time | Que programa top
+My internet is down | Minha internet caiu
+What's the Wi-Fi password? | Qual é a senha do Wi-Fi?
+Send me a message | Me manda uma mensagem
+I saw it on your story | Vi no seu story
+Follow me on there | Me segue lá
+My phone is dead | Meu celular tá sem bateria
+I'll send you the link | Vou te mandar o link
+I can't log in | Não tô conseguindo acessar
+Update the app | Atualiza o app
+Let's video call | Faz uma chamada de vídeo
+I'm not feeling well | Tô me sentindo mal
+I need to see a doctor | Preciso ir ao médico
+I have a headache | Tô com dor de cabeça
+I have a cold | Tô resfriado
+I have a fever | Tô com febre
+I need some medicine | Preciso de remédio
+I'm getting better | Tô melhorando
+Take care of yourself | Cuida da sua saúde
+My back hurts | Tô com dor nas costas
+I need to rest | Preciso descansar
+Don't forget | Não esquece
+Remind me later | Me lembra depois
+I'm just kidding | Tô brincando
+Stop making a fuss | Para de frescura
+Never mind | Deixa pra lá
+It's not worth it | Não vale a pena
+It's gonna work out | Vai dar certo
+Don't worry about it | Não se preocupa
+Do whatever you want | Faz o que quiser
+Life goes on | A vida segue
+To each their own | Cada um na sua
+It is what it is | É o que é
+It's none of my business | Não é da minha conta
+Watch out | Cuidado
+Pay attention | Presta atenção
+That's not fair | Isso não é justo
+I have no idea | Tô por fora
+I'm aware | Tô ligado
+You got that right | Pode crer
+It's all good | Tá de boa
+I see your point | Entendo seu ponto
+But on the other hand... | Mas por outro lado...
+I partly agree | Concordo em parte
+Let me explain | Deixa eu explicar
+You have a point | Você tem razão
+It's not quite like that | Não é bem assim
+The problem is... | O problema é que...
+I see it differently | Eu penso diferente
+Let's agree that... | Vamos combinar que...
+Good question | Boa pergunta
+
+Welcome to our office. I hope your trip was comfortable. | Bem-vindo ao nosso escritório. Espero que sua viagem tenha sido confortável.
+It is a pleasure to meet you in person. | É um prazer te conhecer pessoalmente.
+Can I offer you some coffee or water? | Posso te oferecer um café ou água?
+Please have a seat. We will start in a moment. | Por favor, sente-se. Vamos começar em um momento.
+Thank you for coming all the way from Switzerland. | Obrigado por vir até aqui desde a Suíça.
+Let me introduce you to our team. | Deixa eu te apresentar ao nosso time.
+I am the payroll coordinator for this region. | Eu sou o coordenador de folha de pagamento desta região.
+Our department handles payroll for over five hundred employees. | Nosso departamento gerencia a folha de mais de quinhentos colaboradores.
+We process payroll on a monthly basis. | Processamos a folha de pagamento mensalmente.
+I would like to walk you through our current workflow. | Gostaria de te mostrar como funciona nosso processo atual.
+We use an integrated HR and payroll system. | Usamos um sistema integrado de RH e folha de pagamento.
+Our team ensures full compliance with Brazilian labor law. | Nosso time garante total conformidade com a legislação trabalhista brasileira.
+The CLT is the main labor legislation here in Brazil. | A CLT é a principal legislação trabalhista aqui no Brasil.
+We manage all employee benefits and deductions. | Gerenciamos todos os benefícios e descontos dos colaboradores.
+Social security contributions are mandatory for all employees. | As contribuições previdenciárias são obrigatórias para todos os colaboradores.
+Income tax is withheld directly from the payroll. | O imposto de renda é retido diretamente na folha de pagamento.
+We handle vacation pay and thirteenth salary calculations. | Cuidamos dos cálculos de férias e décimo terceiro salário.
+The thirteenth salary is paid in two installments here in Brazil. | O décimo terceiro é pago em duas parcelas aqui no Brasil.
+We generate detailed payroll reports every month. | Geramos relatórios detalhados de folha de pagamento todo mês.
+Our error rate has been consistently below one percent. | Nossa taxa de erro tem sido consistentemente abaixo de um por cento.
+We have implemented several process improvements this year. | Implementamos várias melhorias de processo este ano.
+Automation has reduced our processing time significantly. | A automação reduziu significativamente nosso tempo de processamento.
+I would like to share some key performance indicators with you. | Gostaria de compartilhar alguns indicadores-chave de desempenho com você.
+Our team is fully aligned with global HR standards. | Nosso time está totalmente alinhado com os padrões globais de RH.
+We are working to integrate our systems with the global platform. | Estamos trabalhando para integrar nossos sistemas com a plataforma global.
+Data accuracy is our top priority. | A precisão dos dados é nossa prioridade máxima.
+We run payroll audits on a quarterly basis. | Realizamos auditorias de folha trimestralmente.
+All sensitive data is protected according to LGPD regulations. | Todos os dados sensíveis são protegidos conforme a LGPD.
+LGPD is the Brazilian data protection law, similar to GDPR. | A LGPD é a lei brasileira de proteção de dados, semelhante ao GDPR europeu.
+We have a dedicated team for compliance and audit support. | Temos um time dedicado para suporte de compliance e auditoria.
+Could you tell me more about Sonova's global payroll strategy? | Você poderia me contar mais sobre a estratégia global de folha da Sonova?
+We are open to aligning our processes with the global framework. | Estamos abertos para alinhar nossos processos com o framework global.
+I would love to learn from best practices across other regions. | Adoraria aprender com as melhores práticas de outras regiões.
+Our headcount has grown fifteen percent over the last two years. | Nosso quadro de colaboradores cresceu quinze por cento nos últimos dois anos.
+We currently support employees across three different states. | Atualmente atendemos colaboradores em três estados diferentes.
+Each state has specific tax rules that we must follow. | Cada estado tem regras tributárias específicas que precisamos seguir.
+I am happy to answer any questions you may have. | Estou feliz em responder qualquer dúvida que você tiver.
+Please feel free to ask about any aspect of our operations. | Sinta-se à vontade para perguntar sobre qualquer aspecto das nossas operações.
+We prepared a summary report for your visit today. | Preparamos um relatório resumido para a sua visita hoje.
+Would you like me to go over the numbers in detail? | Gostaria que eu detalhasse os números?
+Our team works closely with finance and accounting. | Nosso time trabalha de perto com financeiro e contabilidade.
+We ensure all deadlines are met without exception. | Garantimos que todos os prazos sejam cumpridos sem exceção.
+We recently completed a full system migration with no downtime. | Concluímos recentemente uma migração completa de sistema sem nenhuma interrupção.
+Our average payroll closing time is three business days. | Nosso tempo médio de fechamento de folha é de três dias úteis.
+We track all changes to employee records in real time. | Acompanhamos todas as alterações nos registros de colaboradores em tempo real.
+Any updates from HR are reflected in payroll immediately. | Qualquer atualização do RH é refletida na folha imediatamente.
+We have a clear escalation process for any payroll issues. | Temos um processo claro de escalonamento para qualquer problema de folha.
+Employee satisfaction with payroll accuracy is very high. | A satisfação dos colaboradores com a precisão da folha é muito alta.
+We conduct regular training sessions to keep the team updated. | Realizamos treinamentos regulares para manter o time atualizado.
+How does Sonova handle payroll complexity in other countries? | Como a Sonova lida com a complexidade da folha em outros países?
+What are the main challenges you see for HR operations globally? | Quais são os principais desafios que você vê para as operações de RH globalmente?
+We would appreciate any feedback on our current processes. | Ficaríamos muito gratos por qualquer feedback sobre nossos processos atuais.
+Is there any specific area you would like to focus on today? | Há alguma área específica na qual você gostaria de focar hoje?
+We are always looking for opportunities to improve efficiency. | Estamos sempre buscando oportunidades para melhorar a eficiência.
+Let me show you our payroll dashboard. | Deixa eu te mostrar nosso painel de controle da folha de pagamento.
+This chart shows our monthly headcount evolution. | Este gráfico mostra a evolução mensal do nosso quadro de colaboradores.
+Here you can see our average processing time per payroll cycle. | Aqui você pode ver nosso tempo médio de processamento por ciclo de folha.
+We have reduced manual interventions by forty percent. | Reduzimos as intervenções manuais em quarenta por cento.
+All payroll calculations are validated by a second reviewer. | Todos os cálculos de folha são validados por um segundo revisor.
+We maintain a complete audit trail for every transaction. | Mantemos um rastro de auditoria completo para cada transação.
+I can send you a detailed report after our meeting. | Posso te enviar um relatório detalhado após nossa reunião.
+Would you prefer the report in English or Portuguese? | Você prefere o relatório em inglês ou português?
+Our team is bilingual and ready to support global initiatives. | Nosso time é bilíngue e está pronto para apoiar iniciativas globais.
+We are excited about the opportunities that come with being part of Sonova. | Estamos entusiasmados com as oportunidades que vêm de fazer parte da Sonova.
+Sonova's mission resonates strongly with our team here. | A missão da Sonova ressoa muito com nosso time aqui.
+Helping people hear better is a purpose we all believe in. | Ajudar as pessoas a ouvir melhor é um propósito em que todos acreditamos.
+We are committed to supporting the company's growth in Brazil. | Estamos comprometidos em apoiar o crescimento da empresa no Brasil.
+Brazil is one of the largest hearing health markets in the world. | O Brasil é um dos maiores mercados de saúde auditiva do mundo.
+Our workforce is highly skilled and motivated. | Nosso time é altamente qualificado e motivado.
+Employee retention has improved significantly this year. | A retenção de colaboradores melhorou significativamente este ano.
+We offer competitive benefits aligned with market standards. | Oferecemos benefícios competitivos alinhados com o mercado.
+Health insurance and meal vouchers are part of our package. | Plano de saúde e vale-refeição fazem parte do nosso pacote de benefícios.
+We also provide transportation and life insurance benefits. | Também oferecemos vale-transporte e seguro de vida.
+Profit sharing is distributed annually to all employees. | A participação nos lucros é distribuída anualmente a todos os colaboradores.
+Our onboarding process has been fully digitized. | Nosso processo de integração foi totalmente digitalizado.
+New hires complete all documentation through our HR portal. | Os novos colaboradores concluem toda a documentação pelo nosso portal de RH.
+Electronic payslips are available to all employees online. | Os holerites eletrônicos estão disponíveis para todos os colaboradores online.
+We have a self-service portal for common HR requests. | Temos um portal de autoatendimento para solicitações comuns de RH.
+Employees can check their payslip and benefits at any time. | Os colaboradores podem consultar o holerite e os benefícios a qualquer momento.
+Our helpdesk response time for payroll queries is under four hours. | Nosso tempo de resposta para dúvidas de folha é inferior a quatro horas.
+We take employee feedback very seriously. | Levamos o feedback dos colaboradores muito a sério.
+I would like to schedule a follow-up meeting after your visit. | Gostaria de agendar uma reunião de acompanhamento após sua visita.
+Is there anything specific you would like us to prepare? | Há algo específico que você gostaria que preparássemos?
+We are very transparent about our numbers and processes. | Somos muito transparentes sobre nossos números e processos.
+I believe our team is ready for the next level of integration. | Acredito que nosso time está pronto para o próximo nível de integração.
+This has been a very productive conversation, thank you. | Esta foi uma conversa muito produtiva, obrigado.
+I hope we can continue to build a strong partnership. | Espero que possamos continuar construindo uma parceria sólida.
+Please do not hesitate to contact me directly if you need anything. | Não hesite em me contatar diretamente se precisar de qualquer coisa.
+It was truly an honor to receive you here today. | Foi uma honra genuína receber você aqui hoje.
+Safe travels back to Switzerland. | Boa viagem de volta à Suíça.
+We look forward to seeing you again soon. | Esperamos vê-lo novamente em breve.
+Thank you for your time and your trust in our team. | Obrigado pelo seu tempo e pela confiança no nosso time.
+I am very proud to represent our payroll team today. | Tenho muito orgulho de representar nosso time de folha hoje.
+Together we can make a real difference for our employees. | Juntos podemos fazer uma diferença real para nossos colaboradores.
+We are ready to grow together as a global company. | Estamos prontos para crescer juntos como uma empresa global.
+I am confident our team will exceed your expectations. | Estou confiante de que nosso time vai superar suas expectativas.
+Your visit means a great deal to our entire department. | Sua visita significa muito para todo o nosso departamento.
+We appreciate the opportunity to show what we have built here. | Agradecemos a oportunidade de mostrar o que construímos aqui.
+Let's keep in touch and move forward together. | Vamos manter contato e avançar juntos.
+I am looking forward to our next conversation. | Estou ansioso para nossa próxima conversa.
+
+
+I focused on delivering the best results. | Eu foquei em entregar os melhores resultados.
+We worked hard for our customers. | Nós trabalhamos duro pelos nossos clientes.
+I appreciated the team effort. | Eu valorizei o esforço do time.
+We built a stronger structure. | Nós construímos uma estrutura mais forte.
+I supported regional alignment. | Eu apoiei o alinhamento regional.
+We expanded across different markets. | Nós expandimos para diferentes mercados.
+I worked with global teams. | Eu trabalhei com times globais.
+I noticed strong engagement everywhere. | Eu percebi forte engajamento em todos os lugares.
+People showed real passion. | As pessoas mostraram paixão real.
+We aimed to make a difference. | Nós buscamos fazer a diferença.
+
+I understood the new strategy. | Eu entendi a nova estratégia.
+We set ambitious goals. | Nós definimos metas ambiciosas.
+I aligned with company vision. | Eu me alinhei à visão da empresa.
+We aimed to grow significantly. | Nós buscamos crescer significativamente.
+I saw the business potential. | Eu vi o potencial do negócio.
+We focused on long-term impact. | Nós focamos em impacto de longo prazo.
+I reflected on our purpose. | Eu refleti sobre nosso propósito.
+We reinforced our mission. | Nós reforçamos nossa missão.
+I understood market challenges. | Eu entendi os desafios do mercado.
+We identified key barriers. | Nós identificamos barreiras principais.
+
+Many people didn’t have access. | Muitas pessoas não tiveram acesso.
+Some lacked awareness. | Alguns não tinham conhecimento.
+Others faced financial limits. | Outros enfrentaram limitações financeiras.
+I saw gaps in the market. | Eu vi lacunas no mercado.
+We worked to remove barriers. | Nós trabalhamos para remover barreiras.
+I focused on adoption strategies. | Eu foquei em estratégias de adoção.
+We prioritized innovation. | Nós priorizamos inovação.
+I supported product improvements. | Eu apoiei melhorias de produto.
+We improved user experience. | Nós melhoramos a experiência do usuário.
+I contributed to new ideas. | Eu contribuí com novas ideias.
+
+How can I help you today? | Como posso te ajudar hoje?
+I'll take care of that for you right away. | Vou cuidar disso para você agora mesmo.
+Could you please give me a moment? | Você poderia me dar um momento, por favor?
+I completely understand your concern. | Eu entendo completamente a sua preocupação.
+Let me check that for you. | Deixa eu verificar isso para você.
+I'm sorry to keep you waiting. | Sinto muito por te fazer esperar.
+Is there anything else I can help you with? | Há mais alguma coisa em que eu possa te ajudar?
+I appreciate your patience. | Agradeço a sua paciência.
+Let me transfer you to the right department. | Vou te transferir para o departamento correto.
+Could you please repeat that? | Você poderia repetir isso, por favor?
+I want to make sure I understand correctly. | Quero ter certeza de que entendi corretamente.
+I'll look into that immediately. | Vou verificar isso imediatamente.
+Thank you for bringing this to our attention. | Obrigado por trazer isso ao nosso conhecimento.
+I completely agree with you. | Concordo completamente com você.
+Let me find the best solution for you. | Deixa eu encontrar a melhor solução para você.
+I'll make a note of that. | Vou fazer uma anotação sobre isso.
+Could you please hold for just a moment? | Você poderia aguardar apenas um momento?
+I understand this has been frustrating for you. | Entendo que isso tem sido frustrante para você.
+We really value your feedback. | Valorizamos muito o seu feedback.
+I'll follow up with you as soon as possible. | Vou retornar com você o mais rápido possível.
+Let me walk you through the process. | Deixa eu te explicar o processo passo a passo.
+I want to make sure everything is resolved. | Quero ter certeza de que tudo está resolvido.
+Could you please confirm your name? | Você poderia confirmar o seu nome, por favor?
+I'll do my best to help you. | Farei o meu melhor para te ajudar.
+That's a great question. | Essa é uma ótima pergunta.
+I understand your point of view. | Entendo o seu ponto de vista.
+Let me get back to you on that. | Deixa eu retornar com você sobre isso.
+I apologize for any inconvenience caused. | Peço desculpas por qualquer inconveniente causado.
+Could you please provide more details? | Você poderia fornecer mais detalhes, por favor?
+I'll make sure this gets resolved quickly. | Vou garantir que isso seja resolvido rapidamente.
+We take this very seriously. | Levamos isso muito a sério.
+I'll escalate this to my supervisor. | Vou escalar isso para o meu supervisor.
+Thank you for your understanding. | Obrigado pela sua compreensão.
+Is this the first time this has happened? | É a primeira vez que isso acontece?
+I'll send you a confirmation by email. | Vou te enviar uma confirmação por e-mail.
+Could you please spell that for me? | Você poderia soletrar isso para mim?
+Let me put you in touch with the right person. | Deixa eu te colocar em contato com a pessoa certa.
+I want to ensure you have a great experience. | Quero garantir que você tenha uma ótima experiência.
+Could you give me your reference number? | Você poderia me passar o seu número de referência?
+I'll have an answer for you shortly. | Terei uma resposta para você em breve.
+We sincerely apologize for the inconvenience. | Pedimos sinceras desculpas pelo inconveniente.
+Let me double-check that information for you. | Deixa eu verificar novamente essa informação para você.
+I assure you we will resolve this. | Garanto que vamos resolver isso.
+Could you please hold while I check? | Você poderia aguardar enquanto eu verifico?
+I completely understand your frustration. | Entendo completamente a sua frustração.
+Thank you for your loyalty as a customer. | Obrigado pela sua fidelidade como cliente.
+I'll personally make sure this is handled. | Vou pessoalmente garantir que isso seja tratado.
+Could you please verify your information? | Você poderia verificar as suas informações, por favor?
+We are working on a solution right now. | Estamos trabalhando em uma solução agora mesmo.
+I'll keep you updated throughout the process. | Vou te manter atualizado durante todo o processo.
+That is completely understandable. | Isso é completamente compreensível.
+Let me see what options are available for you. | Deixa eu ver quais opções estão disponíveis para você.
+I want to make this right for you. | Quero resolver isso da melhor forma para você.
+Could you please confirm your email address? | Você poderia confirmar o seu endereço de e-mail?
+I'll process that request right away. | Vou processar essa solicitação agora mesmo.
+Thank you for choosing us. | Obrigado por nos escolher.
+I'll make sure this doesn't happen again. | Vou garantir que isso não aconteça novamente.
+Could you describe the issue in more detail? | Você poderia descrever o problema com mais detalhes?
+We truly appreciate your business. | Valorizamos muito a sua parceria.
+I'll connect you with a specialist. | Vou te conectar com um especialista.
+Is there a convenient time to call you back? | Há um horário conveniente para te ligar de volta?
+I'll take full responsibility for this. | Vou assumir total responsabilidade por isso.
+Could you please confirm the date of the issue? | Você poderia confirmar a data do problema?
+Let me review your account information. | Deixa eu verificar as informações da sua conta.
+I assure you this will be our top priority. | Garanto que isso será nossa prioridade máxima.
+We have a solution ready for you. | Temos uma solução pronta para você.
+I appreciate you bringing this to our attention. | Agradeço por trazer isso ao nosso conhecimento.
+Could you hold for two minutes please? | Você poderia aguardar dois minutos, por favor?
+I'll arrange that for you immediately. | Vou providenciar isso para você imediatamente.
+Let me summarize what we discussed. | Deixa eu resumir o que discutimos.
+Is there anything else you would like to add? | Há mais alguma coisa que você gostaria de acrescentar?
+I completely take responsibility for this error. | Assumo total responsabilidade por este erro.
+We will resolve this within twenty four hours. | Resolveremos isso dentro de vinte e quatro horas.
+Could you please confirm your contact number? | Você poderia confirmar o seu número de contato?
+I'll send you a follow-up email right away. | Vou te enviar um e-mail de acompanhamento agora mesmo.
+Thank you so much for your patience today. | Muito obrigado pela sua paciência hoje.
+Let me offer you a couple of options. | Deixa eu te oferecer algumas opções.
+I want to personally thank you for your feedback. | Quero te agradecer pessoalmente pelo seu feedback.
+Could you walk me through what happened? | Você poderia me explicar o que aconteceu?
+I understand this is urgent for you. | Entendo que isso é urgente para você.
+We are committed to making this right. | Estamos comprometidos em resolver isso.
+I'll flag this as a high priority case. | Vou marcar isso como um caso de alta prioridade.
+Could you give me just one more minute? | Você poderia me dar apenas mais um minuto?
+I want to make sure you leave satisfied. | Quero garantir que você saia satisfeito.
+Let me check if there are any updates. | Deixa eu verificar se há alguma atualização.
+I completely own this situation. | Assumo total responsabilidade por esta situação.
+Could you please confirm your department? | Você poderia confirmar o seu departamento?
+We are doing everything we can to help you. | Estamos fazendo tudo o que podemos para te ajudar.
+I'll coordinate with my team on this. | Vou me coordenar com meu time sobre isso.
+Thank you for giving us the opportunity to help. | Obrigado por nos dar a oportunidade de ajudar.
+Let me make sure I have all the details right. | Deixa eu garantir que tenho todos os detalhes corretos.
+I will not stop until this is resolved. | Não vou parar até que isso seja resolvido.
+Could you please rate your experience today? | Você poderia avaliar a sua experiência hoje?
+We really appreciate you taking the time. | Agradecemos muito o seu tempo.
+I'll be your point of contact from now on. | Serei o seu ponto de contato a partir de agora.
+Is there a better way I can support you? | Há uma forma melhor de eu te apoiar?
+I hope we exceeded your expectations today. | Espero que tenhamos superado suas expectativas hoje.
+Thank you for trusting us with this matter. | Obrigado por confiar a nós este assunto.
+It was a pleasure assisting you today. | Foi um prazer te atender hoje.
+Please don't hesitate to reach out anytime. | Não hesite em entrar em contato a qualquer momento.
+
+We explored AI opportunities. | Nós exploramos oportunidades com IA.
+I supported design improvements. | Eu apoiei melhorias de design.
+We focused on customer needs. | Nós focamos nas necessidades do cliente.
+I prioritized performance. | Eu priorizei performance.
+We enhanced product quality. | Nós melhoramos a qualidade do produto.
+I followed industry trends. | Eu acompanhei tendências do setor.
+We solved complex challenges. | Nós resolvemos desafios complexos.
+I contributed to innovation. | Eu contribuí para inovação.
+We improved product positioning. | Nós melhoramos o posicionamento do produto.
+I supported development teams. | Eu apoiei os times de desenvolvimento.
+
+We gathered market insights. | Nós coletamos insights de mercado.
+I analyzed customer feedback. | Eu analisei feedback dos clientes.
+We improved decision making. | Nós melhoramos a tomada de decisão.
+I aligned retail and wholesale. | Eu alinhei varejo e atacado.
+We strengthened our strategy. | Nós fortalecemos nossa estratégia.
+I adapted to local needs. | Eu me adaptei às necessidades locais.
+We customized our approach. | Nós personalizamos nossa abordagem.
+I supported brand positioning. | Eu apoiei posicionamento de marca.
+We improved customer reach. | Nós ampliamos o alcance de clientes.
+I helped break barriers. | Eu ajudei a quebrar barreiras.
+
+I saw opportunities for growth. | Eu vi oportunidades de crescimento.
+We expanded market presence. | Nós expandimos presença de mercado.
+I shared best practices. | Eu compartilhei boas práticas.
+We learned from each market. | Nós aprendemos com cada mercado.
+I applied knowledge locally. | Eu apliquei conhecimento localmente.
+We improved execution. | Nós melhoramos a execução.
+I focused on operations. | Eu foquei em operações.
+We ensured quality delivery. | Nós garantimos qualidade na entrega.
+I respected deadlines. | Eu respeitei prazos.
+We delivered on time. | Nós entregamos no prazo.
+
+I understood we are a service business. | Eu entendi que somos um negócio de serviço.
+We focused on customer experience. | Nós focamos na experiência do cliente.
+I contributed to team success. | Eu contribuí para o sucesso do time.
+We worked collaboratively. | Nós trabalhamos de forma colaborativa.
+I took ownership of tasks. | Eu assumi responsabilidade pelas tarefas.
+We promoted transparency. | Nós promovemos transparência.
+I acted with accountability. | Eu atuei com responsabilidade.
+We empowered each other. | Nós fortalecemos uns aos outros.
+I supported collaboration. | Eu apoiei colaboração.
+We worked as one team. | Nós trabalhamos como um time.
+
+I felt proud of the results. | Eu me senti orgulhoso dos resultados.
+We strengthened our position. | Nós fortalecemos nossa posição.
+I believed in our direction. | Eu acreditei na nossa direção.
+We led the industry. | Nós lideramos o setor.
+I contributed to the vision. | Eu contribuí para a visão.
+We aimed to impact lives. | Nós buscamos impactar vidas.
+I stayed committed to the mission. | Eu permaneci comprometido com a missão.
+We built something meaningful. | Nós construímos algo significativo.
+I trusted the journey. | Eu confiei na jornada.
+We moved forward together. | Nós avançamos juntos.
+Antonio lived with his grandfather. | Antonio viveu com seu avô.
+His father had died. | Seu pai tinha morrido.
+He loved to go to the stone-yard. | Ele amava ir ao depósito de pedras.
+He played among the chips. | Ele brincava entre as lascas.
+He sculpted little figures. | Ele esculpia pequenas figuras.
+His skill surprised his grandfather. | Sua habilidade surpreendeu seu avô.
+His grandmother told him stories. | Sua avó contou histórias para ele.
+The stories filled his mind. | As histórias preencheram sua mente.
+He tried to recreate the images. | Ele tentou recriar as imagens.
+A rich man lived in the town. | Um homem rico vivia na cidade.
+The Count hosted grand dinners. | O Conde dava grandes jantares.
+His grandfather helped in the kitchen. | Seu avô ajudava na cozinha.
+Antonio went with his grandfather. | Antonio foi com seu avô.
+He helped to clean up. | Ele ajudava a limpar.
+The staff prepared the table. | A equipe preparou a mesa.
+There was a crash in the room. | Houve um estrondo na sala.
+A man broke the statue. | Um homem quebrou a estátua.
+He became afraid. | Ele ficou com medo.
+The table would look empty. | A mesa ficaria vazia.
+The Count would be angry. | O Conde ficaria irritado.
+The staff trembled. | A equipe tremeu.
+They feared punishment. | Eles temeram punição.
+Everything depended on the table. | Tudo dependia da mesa.
+They asked what to do. | Eles perguntaram o que fazer.
+Antonio approached the man. | Antonio se aproximou do homem.
+He offered a solution. | Ele ofereceu uma solução.
+The man doubted him. | O homem duvidou dele.
+Antonio insisted on trying. | Antonio insistiu em tentar.
+The grandfather supported him. | O avô apoiou ele.
+They allowed him to try. | Eles permitiram que ele tentasse.
+There was a large piece of butter. | Havia um grande pedaço de manteiga.
+Antonio used a knife. | Antonio usou uma faca.
+He shaped the butter. | Ele moldou a manteiga.
+He created a lion. | Ele criou um leão.
+The staff admired the work. | A equipe admirou o trabalho.
+They said it was beautiful. | Eles disseram que era lindo.
+The statue replaced the broken one. | A estátua substituiu a quebrada.
+The table looked perfect. | A mesa parecia perfeita.
+The guests arrived for dinner. | Os convidados chegaram para o jantar.
+They saw the lion. | Eles viram o leão.
+They praised the artwork. | Eles elogiaram a obra.
+They asked who made it. | Eles perguntaram quem fez.
+The Count was surprised. | O Conde ficou surpreso.
+He called the staff. | Ele chamou a equipe.
+They explained everything. | Eles explicaram tudo.
+The Count called Antonio. | O Conde chamou Antonio.
+He praised the boy. | Ele elogiou o menino.
+The guests recognized his talent. | Os convidados reconheceram seu talento.
+They admired him. | Eles admiraram ele.
+The dinner became a celebration. | O jantar se tornou uma celebração.
+The Count invited him to live there. | O Conde convidou ele para morar lá.
+He studied with great artists. | Ele estudou com grandes artistas.
+He learned to sculpt marble. | Ele aprendeu a esculpir mármore.
+He became a great sculptor. | Ele se tornou um grande escultor.
+I like to start early. | Eu gosto de começar cedo.
+I like to check my email. | Eu gosto de checar meu e-mail.
+I like to plan my day. | Eu gosto de planejar meu dia.
+I need to finish this today. | Eu preciso finalizar isso hoje.
+I need to review this file. | Eu preciso revisar esse arquivo.
+I need to update the report. | Eu preciso atualizar o relatório.
+I need help with this. | Eu preciso de ajuda com isso.
+I have to join a meeting. | Eu tenho que entrar em uma reunião.
+I have to call a client. | Eu tenho que ligar para um cliente.
+I have to send an update. | Eu tenho que enviar uma atualização.
+I want to confirm the date. | Eu quero confirmar a data.
+I want to confirm the amount. | Eu quero confirmar o valor.
+I want to make sure it’s correct. | Eu quero ter certeza de que está correto.
+I’m here to help. | Eu estou aqui para ajudar.
+I’m available now. | Eu estou disponível agora.
+I’m not available now. | Eu não estou disponível agora.
+I’m in a meeting. | Eu estou em reunião.
+I’m working on it. | Eu estou cuidando disso.
+I’m almost done. | Eu estou quase terminando.
+I’m ready to send it. | Eu estou pronto para enviar.
+I’m going to send it today. | Eu vou enviar isso hoje.
+I’m going to check it now. | Eu vou checar isso agora.
+I’m going to fix it. | Eu vou corrigir isso.
+I’ll send it in a minute. | Eu envio em um minuto.
+I’ll send it by end of day. | Eu envio até o fim do dia.
+I’ll call you later. | Eu te ligo mais tarde.
+I’ll get back to you soon. | Eu te retorno em breve.
+Can you send me the file? | Você pode me enviar o arquivo?
+Can you confirm the number? | Você pode confirmar o número?
+Can you repeat that, please? | Você pode repetir, por favor?
+Can you share the link? | Você pode compartilhar o link?
+Could you help me with this? | Você pode me ajudar com isso?
+Could you check this for me? | Você pode checar isso para mim?
+Could you resend it? | Você pode reenviar?
+Please give me a moment. | Me dá um momento, por favor.
+Please send it again. | Por favor, envie de novo.
+Please let me know. | Por favor, me avise.
+Let’s align on this. | Vamos alinhar isso.
+Let’s check this together. | Vamos checar isso juntos.
+Let’s decide today. | Vamos decidir hoje.
+What is the priority today? | Qual é a prioridade de hoje?
+What is the deadline? | Qual é o prazo?
+What is the next step? | Qual é o próximo passo?
+Do you have a minute? | Você tem um minuto?
+Do you have the latest version? | Você tem a versão mais recente?
+Is this correct? | Isso está correto?
+Is everything okay? | Está tudo certo?
+There is an issue. | Tem um problema.
+There was a mistake. | Teve um erro.
+I fixed it. | Eu corrigi.
+The King bought a large bell. | O rei comprou um grande sino.
+He hung it in the marketplace. | Ele pendurou na praça.
+A rope reached the ground. | Uma corda alcançava o chão.
+Anyone could ring the bell. | Qualquer pessoa podia tocar o sino.
+The King called it the Bell of Justice. | O rei chamou de Sino da Justiça.
+People gathered to see it. | As pessoas se reuniram para vê-lo.
+They expected the King to ring it. | Eles esperaram o rei tocar o sino.
+The King raised his hand. | O rei levantou a mão.
+He gave instructions to the people. | Ele deu instruções ao povo.
+The bell was for times of need. | O sino era para momentos de necessidade.
+Judges would come when it rang. | Os juízes viriam quando ele tocasse.
+They would hear the case. | Eles ouviriam o caso.
+They would give justice. | Eles dariam justiça.
+Everyone would be judged equally. | Todos seriam julgados igualmente.
+The bell was used many times. | O sino foi usado muitas vezes.
+Problems were resolved. | Problemas foram resolvidos.
+Criminals were punished. | Criminosos foram punidos.
+The rope became old and thin. | A corda ficou velha e fina.
+Only tall people could reach it. | Apenas pessoas altas conseguiam alcançar.
+The judges became concerned. | Os juízes ficaram preocupados.
+They ordered a new rope. | Eles ordenaram uma nova corda.
+No rope was available. | Nenhuma corda estava disponível.
+They sent for one far away. | Eles mandaram buscar longe.
+It would take weeks to arrive. | Levaria semanas para chegar.
+A man offered a solution. | Um homem ofereceu uma solução.
+He brought a vine. | Ele trouxe uma videira.
+He tied it to the bell. | Ele amarrou no sino.
+The vine reached the ground. | A videira alcançou o chão.
+The judges approved it. | Os juízes aprovaram.
+A knight lived nearby. | Um cavaleiro vivia por perto.
+He had a loyal horse. | Ele tinha um cavalo leal.
+He became greedy for gold. | Ele ficou ganancioso por ouro.
+He sold everything he had. | Ele vendeu tudo que tinha.
+He kept only the horse. | Ele manteve apenas o cavalo.
+He neglected the horse. | Ele negligenciou o cavalo.
+The horse became weak. | O cavalo ficou fraco.
+He suffered from hunger. | Ele sofreu com fome.
+The knight abandoned the horse. | O cavaleiro abandonou o cavalo.
+The horse wandered alone. | O cavalo vagou sozinho.
+He found the marketplace. | Ele encontrou a praça.
+He saw the vine rope. | Ele viu a corda de planta.
+The leaves were fresh. | As folhas estavam frescas.
+He tried to eat them. | Ele tentou comer elas.
+He pulled the vine. | Ele puxou a videira.
+The bell started ringing. | O sino começou a tocar.
+People heard the bell. | As pessoas ouviram o sino.
+The judges arrived quickly. | Os juízes chegaram rapidamente.
+They saw the horse. | Eles viram o cavalo.
+People recognized the situation. | As pessoas reconheceram a situação.
+They accused the knight. | Eles acusaram o cavaleiro.
+A crowd gathered. | Uma multidão se reuniu.
+They testified against him. | Eles testemunharam contra ele.
+The judges called the knight. | Os juízes chamaram o cavaleiro.
+They made a decision. | Eles tomaram uma decisão.
+They ordered justice. | Eles ordenaram justiça.
+The horse had served him well. | O cavalo o serviu bem.
+They gave half of his gold. | Eles deram metade do ouro dele.
+They bought a field for the horse. | Eles compraram um campo para o cavalo.
+They built a stable. | Eles construíram um estábulo.
+The knight felt ashamed. | O cavaleiro se sentiu envergonhado.
+People celebrated the decision. | As pessoas celebraram a decisão.
+The horse received care. | O cavalo recebeu cuidado.
+He finally had a good life. | Ele finalmente teve uma boa vida.
+I usually start early. | Eu geralmente começo cedo.
+I just checked my email. | Eu acabei de checar meu e-mail.
+I’m planning my day now. | Estou planejando meu dia agora.
+I still need to finish this. | Eu ainda preciso terminar isso.
+I need to double-check this. | Eu preciso conferir isso de novo.
+I need to make an adjustment. | Eu preciso fazer um ajuste.
+I have a meeting now. | Eu tenho uma reunião agora.
+I have another task first. | Eu tenho outra tarefa antes.
+I have something to review. | Eu tenho algo para revisar.
+I want to be sure. | Eu quero ter certeza.
+I want to avoid mistakes. | Eu quero evitar erros.
+I want to keep this simple. | Eu quero manter isso simples.
+I’m checking this now. | Eu estou checando isso agora.
+I’m reviewing the file. | Eu estou revisando o arquivo.
+I’m preparing an update. | Eu estou preparando uma atualização.
+I’m almost finished here. | Eu estou quase finalizando aqui.
+I’m ready when you are. | Eu estou pronto quando você estiver.
+I’m free in a minute. | Eu fico livre em um minuto.
+I’ll send it shortly. | Eu envio em instantes.
+I’ll take a look at it. | Eu vou dar uma olhada nisso.
+I’ll handle it today. | Eu resolvo isso hoje.
+I’ll follow up later. | Eu acompanho isso mais tarde.
+I’ll keep you posted. | Eu te mantenho informado.
+I’ll update you today. | Eu te atualizo hoje.
+Can we talk later? | Podemos falar mais tarde?
+Can we review this together? | Podemos revisar isso juntos?
+Can you take a look? | Você pode dar uma olhada?
+Please wait a moment. | Por favor, aguarde um momento.
+Please check this. | Por favor, cheque isso.
+Please confirm when ready. | Por favor, confirme quando estiver pronto.
+Let’s review this. | Vamos revisar isso.
+Let’s keep moving. | Vamos seguir.
+Let’s finalize this today. | Vamos finalizar isso hoje.
+What do you think? | O que você acha?
+When can we talk? | Quando podemos falar?
+Who is responsible for this? | Quem é o responsável por isso?
+I see the problem now. | Eu vejo o problema agora.
+That looks correct. | Isso parece correto.
+Everything is fine now. | Está tudo certo agora.
+I’m ready now | Eu estou pronto agora
+I’m ready to go | Eu estou pronto pra ir
+I need to know | Eu preciso saber
+I need to go | Eu preciso ir
+Daedalus created complex paths. | Dédalo criou caminhos complexos.
+He was a brilliant inventor. | Ele era um inventor brilhante.
+King Minos kept him prisoner. | O rei Minos o manteve prisioneiro.
+He lived with his son Icarus. | Ele viveu com seu filho Ícaro.
+They stayed in a tower. | Eles ficaram em uma torre.
+The king forced him to work. | O rei o forçou a trabalhar.
+He built weapons of war. | Ele construiu armas de guerra.
+He wanted to return home. | Ele quis voltar para casa.
+Icarus dreamed of freedom. | Ícaro sonhou com liberdade.
+Daedalus studied the sea. | Dédalo estudou o mar.
+He realized escape was difficult. | Ele percebeu que escapar era difícil.
+He created a plan. | Ele criou um plano.
+He asked for feathers and wax. | Ele pediu penas e cera.
+He organized the feathers. | Ele organizou as penas.
+He built wings carefully. | Ele construiu asas cuidadosamente.
+He used string and wax. | Ele usou barbante e cera.
+Icarus played with the wax. | Ícaro brincou com a cera.
+He chased feathers in the air. | Ele perseguiu penas no ar.
+Daedalus showed the wings. | Dédalo mostrou as asas.
+He tested the wings. | Ele testou as asas.
+He lifted off the ground. | Ele saiu do chão.
+Icarus wanted to try. | Ícaro quis tentar.
+They practiced flying. | Eles praticaram voar.
+Icarus improved quickly. | Ícaro melhorou rapidamente.
+They prepared to escape. | Eles se prepararam para fugir.
+Daedalus gave instructions. | Dédalo deu instruções.
+He warned about the sea. | Ele alertou sobre o mar.
+He warned about the sun. | Ele alertou sobre o sol.
+Icarus understood the rules. | Ícaro entendeu as regras.
+They jumped into the sky. | Eles pularam no céu.
+They flew over the sea. | Eles voaram sobre o mar.
+Icarus felt afraid at first. | Ícaro sentiu medo no início.
+He began to enjoy flying. | Ele começou a gostar de voar.
+He followed the birds. | Ele seguiu os pássaros.
+His father warned him. | Seu pai o alertou.
+He flew carefully for a while. | Ele voou com cuidado por um tempo.
+He caught a warm air current. | Ele pegou uma corrente de ar quente.
+He flew higher easily. | Ele voou mais alto facilmente.
+He felt excited. | Ele se sentiu empolgado.
+He ignored the warnings. | Ele ignorou os avisos.
+He flew too close to the sun. | Ele voou muito perto do sol.
+The wax began to melt. | A cera começou a derreter.
+The wings lost their shape. | As asas perderam a forma.
+Feathers started falling. | As penas começaram a cair.
+He panicked. | Ele entrou em pânico.
+He moved his arms desperately. | Ele moveu os braços desesperadamente.
+He lost the power to fly. | Ele perdeu o poder de voar.
+He fell into the sea. | Ele caiu no mar.
+It was too late to save him. | Era tarde demais para salvá-lo.
+I’m on my way | Eu estou a caminho
+I’m here to stay | Eu estou aqui pra ficar
+Let me see | Deixa eu ver
+Let me be | Deixa eu ficar
+I’ll do it today | Eu faço isso hoje
+I’ll do it my way | Eu faço do meu jeito
+I can stay | Eu posso ficar
+I can wait | Eu posso esperar
+I feel good | Eu me sinto bem
+I feel fine | Eu me sinto bem
+I’ll be there | Eu estarei lá
+I’ll be fair | Eu serei justo
+Take your time | Leva o seu tempo
+I’m in no rush | Não estou com pressa
+I see you now | Eu te vejo agora
+I see it clear | Eu vejo claro
+I’ll say yes | Eu vou dizer sim
+I’ll say no | Eu vou dizer não
+We move on | A gente segue
+We stay strong | A gente fica firme
+I’m still here | Eu ainda estou aqui
+I’m still in | Eu ainda estou dentro
+I’ll check it soon | Eu vou checar já já
+I’ll check it now | Eu vou checar agora
+I’ll send it today | Eu vou enviar hoje
+I’ll send it your way | Eu vou mandar pra você
+I need one thing | Eu preciso de uma coisa
+I need one more | Eu preciso de mais uma
+Let’s start today | Vamos começar hoje
+Let’s start right now | Vamos começar agora
+We can do it | A gente consegue
+We will do it | A gente vai fazer
+I’m on it | Eu tô nisso
+I’m on time | Eu tô no horário
+It’s all good | Tá tudo bem
+It’s going well | Tá indo bem
+I’m not sure | Eu não tenho certeza
+I’m sure now | Agora eu tenho certeza
+Just one minute | Só um minuto
+Just a second | Só um segundo
+We need to talk | A gente precisa conversar
+We need to walk | A gente precisa ir andando
+I’ll be back | Eu já volto
+I’ll be right back | Eu volto rapidinho
+Let’s move on | Vamos seguir
+Let’s keep going | Vamos continuar
+I hope you know, I hope you know | Eu espero que você saiba, eu espero que você saiba
+This isn’t about you | Isso não é sobre você
+It’s on my side | É do meu lado
+Me, myself, and I | Eu comigo mesmo
+I have to sort it out | Eu tenho que colocar isso em ordem
+I have to move on | Eu tenho que seguir em frente
+I’ll miss you for a while | Eu vou sentir sua falta por um tempo
+Like a song in my head | Como uma música na minha cabeça
+But I have to go | Mas eu tenho que ir
+I have to keep going | Eu tenho que continuar
+It’s time to be strong now | É hora de ser forte agora
+And strong people don’t fall | E gente forte não cai
+I hope you hear, I hope you hear | Eu espero que você ouça, eu espero que você ouça
+This is hard for me | Isso é difícil pra mim
+It’s not a fight | Não é uma briga
+It’s just a change | É só uma mudança
+I need some space | Eu preciso de um espaço
+I need a fresh start | Eu preciso recomeçar
+I’ll miss the good days | Eu vou sentir falta dos bons dias
+But I can’t stay | Mas eu não posso ficar
+I have to choose my life | Eu tenho que escolher minha vida
+It’s time to grow up | É hora de crescer
+And grown-ups don’t stop | E adultos não param
+I hope you see, I hope you see | Eu espero que você veja, eu espero que você veja
+I’m doing my best | Eu estou fazendo o meu melhor
+This is my path | Esse é meu caminho
+This is my call | Essa é minha decisão
+I have things to fix | Eu tenho coisas pra corrigir
+I have things to do | Eu tenho coisas pra fazer
+I’ll miss you like a home | Eu vou sentir sua falta como um lar
+But I must move on | Mas eu preciso seguir
+It’s time to stand tall | É hora de ficar de pé
+And tall people don’t fold | E gente firme não dobra
+I hope you know, I hope you know | Eu espero que você saiba, eu espero que você saiba
+I’m not cold | Eu não sou frio
+I’m just moving | Eu só estou seguindo
+I’m just trying | Eu só estou tentando
+I have to live | Eu tenho que viver
+I have to breathe | Eu tenho que respirar
+I’ll miss you, I’ll miss you | Eu vou sentir sua falta, eu vou sentir sua falta
+But I need to go | Mas eu preciso ir
+It’s time to be okay | É hora de ficar bem
+And okay people don’t break | E quem fica bem não quebra
+There was once, there was once | Era uma vez, era uma vez
+A farmer and his wife | Um fazendeiro e sua esposa
+She had been married before | Ela já tinha sido casada antes
+Before, before | Antes, antes
+Her first husband had died | O primeiro marido dela tinha morrido
+And now she tried | E agora ela tentou de novo
+She was married again | Ela estava casada de novo
+Again, again | De novo, de novo
+They lived on a remote farm | Eles moravam numa fazenda isolada
+Far in the west | Longe, no oeste
+In the west of England | No oeste da Inglaterra
+And far from the rest | E longe do resto
+What a pair, what a pair | Que dupla, que dupla
+Of fools right there | De tolos bem ali
+Which one was the most foolish? | Qual deles era o mais tolo?
+Listen to the story | Escute a história
+Decide for yourself | Decida você mesmo
+In those days, in those days | Naqueles dias, naqueles dias
+There lived an old soldier | Vivia um velho soldado
+Called Jack Hannaford | Chamado Jack Hannaford
+His coat was old | O casaco dele era velho
+And he was poor | E ele era pobre
+But nobody thought he was stupid | Mas ninguém achava que ele era bobo
+He was sly like a fox | Ele era astuto como uma raposa
+When he left the army | Quando ele deixou o exército
+He walked all around | Ele andou por todo lado
+All around the country | Pelo país inteiro
+Looking for tricks | Procurando artimanhas
+After some time, after some time | Depois de um tempo, depois de um tempo
+He came across the farm | Ele deu de cara com a fazenda
+The farm of the pair | A fazenda do casal
+He knocked on the door | Ele bateu na porta
+And a moment later | E um momento depois
+The wife answered | A esposa respondeu
+She looked him up and down | Ela olhou ele de cima a baixo
+Quite surprised | Bem surpresa
+“Where did you come from?” | “De onde você veio?”
+There was once a new project at work. | Era uma vez um novo projeto no trabalho.
+There was once a deadline we could not miss. | Era uma vez um prazo que não podíamos perder.
+There was once a report that needed a fix. | Era uma vez um relatório que precisava de correção.
+There was once a client who needed help. | Era uma vez um cliente que precisava de ajuda.
+There was once a small mistake in payroll. | Era uma vez um pequeno erro na folha.
+In those days, we did everything by email. | Naqueles dias, a gente fazia tudo por e-mail.
+In those days, the process was manual. | Naqueles dias, o processo era manual.
+In those days, I worked with a small team. | Naqueles dias, eu trabalhava com um time pequeno.
+In those days, meetings were longer. | Naqueles dias, as reuniões eram mais longas.
+In those days, the system was slower. | Naqueles dias, o sistema era mais lento.
+After some time, the issue came back. | Depois de um tempo, o problema voltou.
+After some time, we found the root cause. | Depois de um tempo, a gente achou a causa.
+After some time, the client replied. | Depois de um tempo, o cliente respondeu.
+After some time, the report was ready. | Depois de um tempo, o relatório ficou pronto.
+After some time, we moved on. | Depois de um tempo, a gente seguiu em frente.
+When I left the meeting, I sent the notes. | Quando eu saí da reunião, eu enviei as notas.
+When she left the office, she called me. | Quando ela saiu do escritório, ela me ligou.
+When we left the call, we were aligned. | Quando a gente saiu da call, a gente estava alinhado.
+When he left the team, we updated the plan. | Quando ele saiu do time, a gente atualizou o plano.
+When I left the task, it was still open. | Quando eu deixei a tarefa, ela ainda estava aberta.
+I walked all around the office looking for you. | Eu andei pelo escritório todo procurando você.
+I checked all around the system for the file. | Eu procurei no sistema todo pelo arquivo.
+We looked all around the folder for the latest version. | A gente procurou na pasta toda pela versão mais recente.
+I searched all around the emails for that message. | Eu procurei nos e-mails todos por aquela mensagem.
+I looked all around the report for that number. | Eu procurei no relatório todo por aquele número.
+I’m looking for ways to solve this. | Eu estou procurando maneiras de resolver isso.
+We’re looking for ways to speed this up. | A gente está procurando maneiras de acelerar isso.
+I’m looking for ways to avoid this mistake. | Eu estou procurando maneiras de evitar esse erro.
+We’re looking for ways to simplify the process. | A gente está procurando maneiras de simplificar o processo.
+I’m looking for ways to improve the report. | Eu estou procurando maneiras de melhorar o relatório.
+I came across your email just now. | Eu vi seu e-mail agora.
+I came across the same issue again. | Eu encontrei o mesmo problema de novo.
+We came across a missing document. | A gente encontrou um documento faltando.
+I came across a wrong value in the file. | Eu encontrei um valor errado no arquivo.
+We came across a better option. | A gente encontrou uma opção melhor.
+This task belongs to our team. | Essa tarefa é do nosso time.
+This folder belongs to Finance. | Essa pasta é do Financeiro.
+This request belongs to Payroll. | Essa solicitação é do Payroll.
+This report belongs to this month. | Esse relatório é deste mês.
+This decision belongs to the manager. | Essa decisão é do gestor.
+I knocked on your door to talk. | Eu bati na sua porta para falar.
+I knocked on your chat for a quick answer. | Eu te chamei no chat para uma resposta rápida.
+We knocked on IT’s door for support. | A gente chamou o TI para suporte.
+I knocked on the door of the HR office. | Eu bati na porta do RH.
+I knocked on the door of the meeting room. | Eu bati na porta da sala de reunião.
+A moment later, I got your reply. | Um momento depois, eu recebi sua resposta.
+A moment later, the system came back. | Um momento depois, o sistema voltou.
+A moment later, the value was corrected. | Um momento depois, o valor foi corrigido.
+A moment later, we were on the call. | Um momento depois, a gente estava na call.
+A moment later, the meeting started. | Um momento depois, a reunião começou.
+There was once a payroll close that went late. | Teve uma vez um fechamento de folha que atrasou.
+There was once a file we couldn’t find. | Teve uma vez um arquivo que a gente não achava.
+There was once a wrong value in the report. | Teve uma vez um valor errado no relatório.
+There was once an approval that didn’t come in time. | Teve uma vez uma aprovação que não veio a tempo.
+There was once a payment that needed adjustment. | Teve uma vez um pagamento que precisou de ajuste.
+In those days, we tracked everything in spreadsheets. | Naquela época, a gente controlava tudo em planilhas.
+In those days, every change was done by email. | Naquela época, toda mudança era por e-mail.
+In those days, we had to reconcile everything manually. | Naquela época, a gente precisava conciliar tudo na mão.
+In those days, support took longer to reply. | Naquela época, o suporte demorava mais para responder.
+In those days, the process was slower than today. | Naquela época, o processo era mais lento que hoje.
+After some time, the employee replied with the missing info. | Depois de um tempo, o colaborador respondeu com a informação que faltava.
+After some time, we found the root cause of the issue. | Depois de um tempo, a gente encontrou a causa do problema.
+After some time, the numbers finally matched. | Depois de um tempo, os números finalmente bateram.
+After some time, the ticket was updated by the vendor. | Depois de um tempo, o chamado foi atualizado pelo fornecedor.
+After some time, we aligned with Finance on the impact. | Depois de um tempo, a gente alinhou com o Financeiro sobre o impacto.
+When I left the meeting, I sent the summary. | Quando eu saí da reunião, eu enviei o resumo.
+When I left the call, I updated the action items. | Quando eu saí da call, eu atualizei os próximos passos.
+When I left the office, the file was still uploading. | Quando eu saí do escritório, o arquivo ainda estava subindo.
+When I left the task, it was waiting for approval. | Quando eu deixei a tarefa, ela estava aguardando aprovação.
+When I left the review, I flagged the issue. | Quando eu terminei a revisão, eu sinalizei o problema.
+I walked all around the folder looking for the latest version. | Eu procurei a pasta inteira atrás da versão mais recente.
+I walked all around the emails to find the approval. | Eu procurei nos e-mails todos para achar a aprovação.
+I walked all around the report to find that number. | Eu procurei o relatório todo para achar aquele número.
+I walked all around the system to locate the employee record. | Eu procurei no sistema todo para achar o cadastro do colaborador.
+I walked all around the attachments to find the right file. | Eu procurei em todos os anexos para achar o arquivo certo.
+I’m looking for a quick way to confirm this value. | Eu estou buscando um jeito rápido de confirmar esse valor.
+I’m looking for the source of this difference. | Eu estou buscando a origem dessa diferença.
+I’m looking for the correct version of the file. | Eu estou procurando a versão correta do arquivo.
+I’m looking for the approval status. | Eu estou procurando o status da aprovação.
+I’m looking for the deadline for this request. | Eu estou procurando o prazo dessa solicitação.
+I came across a missing field in the form. | Eu encontrei um campo faltando no formulário.
+I came across a duplicate entry in the sheet. | Eu encontrei um lançamento duplicado na planilha.
+I came across the same issue in another company. | Eu encontrei o mesmo problema em outra empresa.
+I came across a value that doesn’t match the total. | Eu encontrei um valor que não bate com o total.
+I came across an email that changes the scope. | Eu vi um e-mail que muda o escopo.
+This request belongs to Payroll. | Essa solicitação é do time de Folha.
+This approval belongs to the manager. | Essa aprovação é do gestor.
+This report belongs to this month’s close. | Esse relatório é do fechamento deste mês.
+This file belongs to the Finance folder. | Esse arquivo é da pasta do Financeiro.
+This decision belongs to the project owner. | Essa decisão é do dono do projeto.
+I knocked on HR’s door to confirm the employee data. | Eu chamei o RH para confirmar os dados do colaborador.
+I knocked on Finance to validate the numbers. | Eu acionei o Financeiro para validar os números.
+I knocked on IT to check system access. | Eu acionei o TI para checar o acesso ao sistema.
+I knocked on the vendor to get an update. | Eu acionei o fornecedor para ter uma atualização.
+I knocked on my manager to unblock the approval. | Eu falei com meu gestor para destravar a aprovação.
+A moment later, I received the approval email. | Um momento depois, eu recebi o e-mail de aprovação.
+A moment later, the employee sent the document. | Um momento depois, o colaborador enviou o documento.
+A moment later, the system was back online. | Um momento depois, o sistema voltou.
+A moment later, the updated file appeared in the folder. | Um momento depois, o arquivo atualizado apareceu na pasta.
+A moment later, the issue was confirmed by the vendor. | Um momento depois, o fornecedor confirmou o problema.
+Hi, how are you? | Oi, tudo bem?
+Good morning. | Bom dia.
+Good afternoon. | Boa tarde.
+Good evening. | Boa noite.
+Nice to meet you. | Prazer em conhecer você.
+I’m from Brazil. | Eu sou do Brasil.
+I’m here for work. | Eu estou aqui a trabalho.
+I’m here on vacation. | Eu estou aqui de férias.
+Here is my passport. | Aqui está meu passaporte.
+Where is immigration? | Onde fica a imigração?
+Where is baggage claim? | Onde fica a retirada de bagagem?
+I lost my luggage. | Eu perdi minha bagagem.
+Can you help me, please? | Você pode me ajudar, por favor?
+Where is the restroom? | Onde fica o banheiro?
+Where can I get a taxi? | Onde eu pego um táxi?
+Where is the rideshare pickup? | Onde fica o local de embarque do aplicativo?
+I need to go to this address. | Eu preciso ir para este endereço.
+How much is it to downtown? | Quanto custa até o centro?
+Can you take me to this hotel? | Você pode me levar a este hotel?
+Please stop here. | Por favor, pare aqui.
+How long does it take? | Quanto tempo leva?
+I’m looking for the subway. | Eu estou procurando o metrô.
+Which line do I take? | Qual linha eu pego?
+Where is this stop? | Onde é essa parada?
+I have a reservation. | Eu tenho uma reserva.
+I’d like to check in. | Eu gostaria de fazer check-in.
+I’d like to check out. | Eu gostaria de fazer check-out.
+Can I get the room key? | Posso pegar a chave do quarto?
+What time is breakfast? | Que horas é o café da manhã?
+Is Wi-Fi included? | O Wi-Fi está incluso?
+Can you write it down? | Você pode escrever, por favor?
+The air conditioner isn’t working. | O ar-condicionado não está funcionando.
+I need clean towels. | Eu preciso de toalhas limpas.
+Can I have a receipt, please? | Você pode me dar um recibo, por favor?
+I’m hungry. | Eu estou com fome.
+I’m thirsty. | Eu estou com sede.
+Do you have a menu? | Você tem um cardápio?
+Can I get a table for one? | Posso pegar uma mesa para uma pessoa?
+Can I get a table for two? | Posso pegar uma mesa para duas pessoas?
+Can I see the specials? | Posso ver as opções do dia?
+I’ll have this one. | Eu vou querer este.
+I’d like a coffee, please. | Eu gostaria de um café, por favor.
+I’d like water, please. | Eu gostaria de água, por favor.
+Still or sparkling? | Sem gás ou com gás?
+No ice, please. | Sem gelo, por favor.
+Can I get the bill, please? | Posso pegar a conta, por favor?
+Can I pay by card? | Posso pagar no cartão?
+Do you take cash? | Você aceita dinheiro?
+Could you make it to go? | Você pode fazer para viagem?
+I’m allergic to nuts. | Eu tenho alergia a castanhas - amendoim.
+No dairy, please. | Sem lactose - leite, por favor.
+No spicy, please. | Sem pimenta, por favor.
+That’s all, thank you. | É só isso, obrigado.
+Where is the nearest grocery store? | Onde fica o mercado mais perto?
+I’m just looking. | Eu só estou olhando.
+How much is this? | Quanto custa isto?
+Do you have a smaller size? | Você tem um tamanho menor?
+Do you have a larger size? | Você tem um tamanho maior?
+Can I try it on? | Posso experimentar?
+Where is the fitting room? | Onde fica o provador?
+Can I get a refund? | Posso pedir reembolso?
+Can I exchange this? | Posso trocar isto?
+I need a SIM card. | Eu preciso de um chip.
+I need an eSIM. | Eu preciso de um eSIM.
+Do you have a charger? | Você tem carregador?
+What’s the Wi-Fi password? | Qual é a senha do Wi-Fi?
+My phone has no signal. | Meu celular está sem sinal.
+Can you call me an Uber? | Você pode chamar um Uber para mim?
+I need help right now. | Eu preciso de ajuda agora.
+It’s an emergency. | É uma emergência.
+Call the police, please. | Chame a polícia, por favor.
+Call an ambulance, please. | Chame uma ambulância, por favor.
+I don’t feel well. | Eu não estou me sentindo bem.
+Where is the nearest pharmacy? | Onde fica a farmácia mais perto?
+I need a doctor. | Eu preciso de um médico.
+I’m lost. | Eu estou perdido.
+Can you show me on the map? | Você pode me mostrar no mapa?
+Could you speak more slowly? | Você pode falar mais devagar?
+Sorry, I don’t understand. | Desculpa, eu não entendi.
+Can you repeat that? | Você pode repetir?
+Can you say that again? | Você pode dizer de novo?
+That’s perfect. | Perfeito.
+That works for me. | Para mim, está ótimo.
+See you later. | Até mais.
+Have a nice day. | Tenha um bom dia.
+I’m looking for a job. | Eu estou procurando um emprego.
+Are you hiring? | Vocês estão contratando?
+Do you have any openings? | Vocês têm alguma vaga?
+Can I schedule an interview? | Posso agendar uma entrevista?
+I can work full-time. | Eu posso trabalhar em tempo integral.
+I can work part-time. | Eu posso trabalhar meio período.
+I have experience in payroll. | Eu tenho experiência em folha de pagamento.
+I can start immediately. | Eu posso começar imediatamente.
+Here is my resume. | Aqui está meu currículo.
+Can I speak with the manager? | Posso falar com o gerente?
+I’d like to apply for this position. | Eu gostaria de me candidatar para essa vaga.
+What are the working hours? | Quais são os horários de trabalho?
+What is the pay rate? | Qual é o valor do pagamento por hora - salário?
+Thank you for your time. | Obrigado pelo seu tempo.
+Be |ser - estar.
+I’ll be there in 5 minutes. | Eu chego em 5 minutos.
+I’m not sure, but I’ll check. | Eu não tenho certeza, mas vou verificar.
+It’s been a busy week. | Foi uma semana corrida.
+Let’s be clear about the goal. | Vamos deixar claro o objetivo.
+I’ll be honest with you. | Vou ser sincero com você.
+
+
+Do you have a minute? | Você tem um minuto?
+I have a quick question. | Eu tenho uma pergunta rápida.
+I don’t have the latest version. | Eu não tenho a versão mais recente.
+We have a deadline today. | A gente tem um prazo hoje.
+I have everything I need. | Eu tenho tudo o que preciso.
+
+I’ll do it right now. | Eu faço agora.
+What should we do next? | O que a gente faz agora?
+I did a quick check. | Eu fiz uma conferência rápida.
+Let’s do a quick review. | Vamos fazer uma revisão rápida.
+I can do that for you. | Eu posso fazer isso pra você.
+
+Just say the word. | É só dizer.
+What did you say about the date? | O que você disse sobre a data?
+Let me say it again. | Deixa eu falar de novo.
+I’m just saying. | Só estou dizendo.
+Say it one more time, please. | Diga mais uma vez, por favor.
+
+
+I’ll get back to you today. | Eu te retorno hoje.
+Did you get my email? | Você recebeu meu e-mail?
+Let’s get this done. | Vamos resolver isso.
+I need to get approval first. | Eu preciso da aprovação primeiro.
+Can you get me the file? | Você consegue pegar o arquivo pra mim?
+
+Let’s make a decision. | Vamos tomar uma decisão.
+Can you make a small change? | Você pode fazer uma pequena alteração?
+I want to make sure it’s correct. | Eu quero ter certeza de que está correto.
+That makes sense. | Isso faz sentido.
+Let’s make it simple. | Vamos deixar isso simples.
+
+I have to go now. | Eu tenho que ir agora.
+Let’s go over the details. | Vamos passar pelos detalhes.
+Where should this go? | Para onde isso deve ir?
+I’ll go check. | Eu vou checar.
+Let’s go with option A. | Vamos com a opção A.
+
+Let me know when you can. | Me avisa quando você puder.
+Do you know the status? | Você sabe o status?
+I don’t know yet. | Eu ainda não sei.
+Just so you know… | Só para você saber…
+I want you to know I’m on it. | Quero que você saiba que estou cuidando.
+
+Please take a look. | Por favor, dê uma olhada.
+I’ll take care of it. | Eu vou cuidar disso.
+Can you take this call? | Você pode atender essa ligação?
+Let’s take a quick break. | Vamos fazer uma pausa rápida.
+I’ll take the lead on this. | Eu vou liderar isso.
+
+I see the issue now. | Eu vejo o problema agora.
+Let me see what I can do. | Deixa eu ver o que eu posso fazer.
+See you tomorrow. | Te vejo amanhã.
+I’ll see if it’s possible. | Eu vou ver se é possível.
+I didn’t see your message. | Eu não vi sua mensagem.
+
+Can you come to the meeting? | Você pode entrar na reunião?
+I’ll come back with an answer. | Eu volto com uma resposta.
+This comes from Finance. | Isso vem do Financeiro.
+It came up in the review. | Isso apareceu na revisão.
+Come with me on this. | Vai comigo nessa.
+
+I think this is correct. | Eu acho que isso está correto.
+What do you think? | O que você acha?
+I don’t think it will work. | Eu não acho que vai funcionar.
+Let me think for a second. | Deixa eu pensar um segundo.
+I think we should confirm first. | Eu acho que a gente deve confirmar antes.
+
+
+I’ll look into it. | Eu vou verificar isso.
+Can you look at this? | Você pode olhar isso?
+It looks good to me. | Pra mim, parece bom.
+Look at the last line. | Olha a última linha.
+I’m looking for the file. | Eu estou procurando o arquivo.
+
+
+I want to be clear. | Eu quero ser claro.
+I want to confirm the value. | Eu quero confirmar o valor.
+I want to avoid mistakes. | Eu quero evitar erros.
+Do you want me to send it? | Você quer que eu envie?
+I want to align on the plan. | Eu quero alinhar o plano.
+
+
+Can you give me a minute? | Você pode me dar um minuto?
+Give me a quick update. | Me dá uma atualização rápida.
+I’ll give you a call. | Eu te ligo.
+Can you give me access? | Você pode me dar acesso?
+I’ll give you the final version. | Eu te envio a versão final.
+
+We can use this template. | A gente pode usar esse modelo.
+I usually use this report. | Eu geralmente uso esse relatório.
+Use the latest file. | Use o arquivo mais recente.
+How do you use this tool? | Como você usa essa ferramenta?
+Let’s use a simple approach. | Vamos usar uma abordagem simples.
+
+I found the issue. | Eu encontrei o problema.
+Can you find the email? | Você consegue achar o e-mail?
+I can’t find the file. | Eu não consigo achar o arquivo.
+Let’s find a solution. | Vamos achar uma solução.
+We found a better way. | A gente encontrou um jeito melhor.
+Tell |dizer - contar.
+Tell me the deadline. | Me diga o prazo.
+I’ll tell you what I know. | Eu te digo o que eu sei.
+Can you tell me the status? | Você pode me dizer o status?
+Just tell me when. | Só me diga quando.
+Tell me if you need help. | Me avise se precisar de ajuda.
+Ask |perguntar
+Can I ask a quick question? | Posso fazer uma pergunta rápida?
+Ask Finance to confirm. | Peça para o Financeiro confirmar.
+I’ll ask the vendor. | Eu vou perguntar para o fornecedor.
+Don’t be afraid to ask. | Não tenha medo de perguntar.
+Should I ask now or later? | Eu pergunto agora ou depois?
+Work |trabalhar - funcionar.
+I’m working on it. | Eu estou cuidando disso.
+It’s not working. | Não está funcionando.
+This works for me. | Para mim, funciona.
+We need to work together. | A gente precisa trabalhar junto.
+What time works for you? | Que horário funciona para você?
+Can we talk later? | Podemos falar depois?
+Can you help me? | Você pode me ajudar?
+Can you repeat, please? | Pode repetir, por favor?
+Could you explain that? | Você pode me explicar isso?
+How does it work? | Como isso funciona?
+I agree with you. | Eu concordo com você.
+I appreciate it. | Eu agradeço  -  Agradeço isso.
+I don’t agree with that. | Eu não concordo com isso.
+I don’t have time right now. | Não tenho tempo agora.
+I don’t understand. | Eu não entendi.
+I just wanted to check. | Eu só queria confirmar - verificar.
+I need to talk to you. | Eu preciso falar com você.
+I’ll call you back. | Te ligo de volta.
+I’ll get back to you. | Te dou um retorno.
+I’ll handle it. | Eu resolvo isso.
+I’ll let you know. | Te aviso.
+I’ll send you an email. | Vou te mandar um e-mail.
+I’ll take care of it. | Eu cuido disso.
+I’m in a meeting. | Estou em reunião.
+I’m not sure. | Não tenho certeza.
+I’m running late. | Estou atrasado.
+I’m working on it. | Estou trabalhando nisso.
+It depends. | Depende.
+It’s almost done. | Está quase pronto.
+It’s done. | Está feito.
+It’s ready. | Está pronto.
+Just a moment, please. | Só um momento, por favor.
+Let me check. | Deixa eu verificar.
+Let me think about it. | Deixa eu pensar sobre isso.
+Let’s do it. | Vamos fazer isso.
+Let’s move forward. | Vamos seguir em frente.
+Let’s see. | Vamos ver.
+No problem at all. | Sem problema nenhum.
+Sorry for the delay. | Desculpa pela demora.
+Thanks for letting me know. | Obrigado por me avisar.
+That makes sense. | Faz sentido.
+That’s a good idea. | Essa é uma boa ideia.
+That’s not a good idea. | Essa não é uma boa ideia.
+That’s not my responsibility. | Isso não é responsabilidade minha.
+This can wait. | Isso pode esperar.
+This is urgent. | Isso é urgente.
+We need to decide. | Precisamos decidir.
+We need to fix this. | Precisamos corrigir isso.
+We’re on the same page. | Estamos alinhados.
+What do you mean? | O que você quer dizer?
+What do you need? | O que você precisa?
+What’s going on? | O que está acontecendo?
+What’s the deadline? | Qual é o prazo?
+What’s the plan? | Qual é o plano?
+What’s the problem? | Qual é o problema?
+Can we talk later? | Podemos falar depois?
+Can you explain this? | Você pode me explicar isso?
+Can you repeat, please? | Pode repetir, por favor?
+Could you send me this by email? | Você pode me mandar isso por e-mail?
+Everything is fine. | Está tudo certo.
+How does it work? | Como isso funciona?
+I agree with you. | Eu concordo com você.
+I appreciate it. | Eu agradeço.
+I don’t agree with that. | Eu não concordo com isso.
+I don’t have time right now. | Não tenho tempo agora.
+I don’t understand. | Eu não entendi.
+I just wanted to check. | Eu só queria confirmar.
+I need your help. | Eu preciso da sua ajuda.
+I’ll call you back. | Te ligo de volta.
+I’ll get back to you. | Te dou um retorno.
+I’ll handle it. | Eu resolvo isso.
+I’ll let you know. | Te aviso.
+I’ll send it to you. | Vou te enviar isso.
+I’ll take care of it. | Eu cuido disso.
+I’m in a meeting. | Estou em reunião.
+I’m not sure. | Não tenho certeza.
+I’m working on it. | Estou trabalhando nisso.
+It depends. | Depende.
+It’s almost done. | Está quase pronto.
+It’s done. | Está feito.
+It’s not a big deal. | Não é nada demais.
+It’s ready. | Está pronto.
+Just a moment, please. | Só um momento, por favor.
+Let me check. | Deixa eu verificar.
+Let me think about it. | Deixa eu pensar sobre isso.
+Let’s do it. | Vamos fazer isso.
+Let’s move forward. | Vamos seguir em frente.
+Let’s see. | Vamos ver.
+No problem at all. | Sem problema nenhum.
+See you later. | Te vejo depois.
+Sorry for the delay. | Desculpa pela demora.
+Thanks for letting me know. | Obrigado por me avisar.
+That makes sense. | Faz sentido.
+That’s a good idea. | Essa é uma boa ideia.
+That’s not a good idea. | Essa não é uma boa ideia.
+This can wait. | Isso pode esperar.
+This is urgent. | Isso é urgente.
+We need to decide. | Precisamos decidir.
+We need to fix this. | Precisamos corrigir isso.
+We’re on the same page. | Estamos alinhados.
+What do you mean? | O que você quer dizer?
+What do you need? | O que você precisa?
+What’s the deadline? | Qual é o prazo?
+What’s the plan? | Qual é o plano?
+What’s the problem? | Qual é o problema?
+I already opened a ticket. | Eu já abri um chamado.
+I need to check this case. | Preciso verificar esse caso.
+I’ll check this in ADP. | Vou verificar isso no ADP.
+I’ll send you the report. | Vou te enviar o relatório.
+I’ll update the employee’s record. | Vou atualizar o cadastro do colaborador.
+IT is working on it. | O time de TI está trabalhando nisso.
+Payroll is already closed. | A folha já está fechada.
+The calculation is wrong. | O cálculo está errado.
+The employee can see it in the portal. | O colaborador pode ver no portal.
+The employee was hired this month. | O colaborador foi admitido este mês.
+The employee was terminated. | O colaborador foi desligado.
+The numbers look correct. | Os números parecem corretos.
+The payment date is tomorrow. | A data de pagamento é amanhã.
+The payment will be made today. | O pagamento será feito hoje.
+The payslip is available. | O holerite já está disponível.
+The salary is incorrect. | O salário está incorreto.
+The termination is under review. | A rescisão está em revisão.
+There is a difference here. | Tem uma diferença aqui.
+There is an issue with this employee. | Tem um problema com este colaborador.
+This amount is missing. | Está faltando esse valor.
+This case is on hold. | Esse caso está em espera.
+This change will apply next payroll. | Essa mudança vai entrar na próxima folha.
+This is a benefits issue. | Isso é um problema de benefícios.
+This is a one-time payment. | Isso é um pagamento pontual.
+This is a recurring payment. | Isso é um pagamento recorrente.
+This is a system issue. | Isso é um problema de sistema.
+This is already in the system. | Isso já está no sistema.
+This is compliant. | Isso está em conformidade.
+This is not a payroll issue. | Isso não é um problema de folha.
+This is not compliant. | Isso não está em conformidade.
+This is not in the system yet. | Isso ainda não está no sistema.
+This is out of scope. | Isso está fora do escopo.
+This is pending approval. | Isso está pendente de aprovação.
+This needs to be adjusted. | Isso precisa ser ajustado.
+This was not included in payroll. | Isso não entrou na folha.
+This will be paid next month. | Isso será pago no próximo mês.
+This will be processed next cycle. | Isso será processado no próximo ciclo.
+We can’t change this after closing. | Não podemos mudar isso depois do fechamento.
+We need approval for this. | Precisamos de aprovação para isso.
+We need to align this with HR. | Precisamos alinhar isso com o RH.
+We need to check with Finance. | Precisamos ver com o Financeiro.
+We need to double-check this. | Precisamos conferir isso novamente.
+We need to fix this in the system. | Precisamos corrigir isso no sistema.
+We need to follow up on this. | Precisamos fazer follow-up disso.
+We need to open a ticket. | Precisamos abrir um chamado.
+We need to recalculate this. | Precisamos recalcular isso.
+We’re closing payroll. | Estamos fechando a folha.
+We’re processing the termination. | Estamos processando a rescisão.
+We’re reviewing the numbers. | Estamos revisando os números.
+We’re waiting for documents. | Estamos aguardando documentos.
+What’s the plan for our flight? | Qual é o plano para o nosso voo?
+What was the plan for our flight? | Qual era o plano para o nosso voo?
+I introduced myself confidently. | Eu me apresentei com confiança.
+I had solid experience in HR operations. | Eu tive sólida experiência em operações de RH.
+I specialized in payroll management. | Eu me especializei em gestão de folha.
+I focused on process improvement. | Eu foquei em melhoria de processos.
+I worked with compliance and labor laws. | Eu trabalhei com compliance e legislação trabalhista.
+I led payroll operations end-to-end. | Eu liderei operações de folha ponta a ponta.
+I implemented system improvements. | Eu implementei melhorias no sistema.
+I optimized internal workflows. | Eu otimizei fluxos internos.
+I reduced operational risks. | Eu reduzi riscos operacionais.
+I improved efficiency across departments. | Eu melhorei a eficiência entre departamentos.
+I worked with cross-functional teams. | Eu trabalhei com equipes multifuncionais.
+I handled complex payroll structures. | Eu lidei com estruturas complexas de folha.
+I ensured compliance with regulations. | Eu garanti conformidade com regulamentações.
+I automated manual processes. | Eu automatizei processos manuais.
+I developed performance dashboards. | Eu desenvolvi dashboards de desempenho.
+I monitored KPIs regularly. | Eu monitorei KPIs regularmente.
+I aligned HR strategy with business goals. | Eu alinhei a estratégia de RH com os objetivos do negócio.
+I supported leadership decisions. | Eu apoiei decisões da liderança.
+I managed multiple stakeholders. | Eu gerenciei múltiplas partes interessadas.
+I improved reporting accuracy. | Eu melhorei a precisão dos relatórios.
+I streamlined payroll cycles. | Eu simplifiquei ciclos de folha.
+I reviewed operational gaps. | Eu revisei lacunas operacionais.
+I introduced performance metrics. | Eu introduzi métricas de desempenho.
+I handled sensitive information carefully. | Eu lidei com informações sensíveis cuidadosamente.
+I built structured processes. | Eu construí processos estruturados.
+I ensured timely deliveries. | Eu garanti entregas no prazo.
+I improved internal communication. | Eu melhorei a comunicação interna.
+I reduced processing time. | Eu reduzi o tempo de processamento.
+I led implementation projects. | Eu liderei projetos de implementação.
+I coordinated external vendors. | Eu coordenei fornecedores externos.
+I resolved compliance issues. | Eu resolvi questões de compliance.
+I analyzed workforce data. | Eu analisei dados da força de trabalho.
+I supervised HR operations. | Eu supervisionei operações de RH.
+I improved data visibility. | Eu melhorei a visibilidade dos dados.
+I supported executive reporting. | Eu apoiei relatórios executivos.
+I strengthened internal controls. | Eu fortaleci controles internos.
+I managed benefit programs. | Eu gerenciei programas de benefícios.
+I worked under tight deadlines. | Eu trabalhei sob prazos apertados.
+I delivered consistent results. | Eu entreguei resultados consistentes.
+I ensured data accuracy. | Eu garanti a precisão dos dados.
+I contributed to strategic planning. | Eu contribuí para o planejamento estratégico.
+I aligned processes with company standards. | Eu alinhei processos com padrões da empresa.
+I improved system integrations. | Eu melhorei integrações de sistemas.
+I reduced manual errors. | Eu reduzi erros manuais.
+I monitored labor costs. | Eu monitorei custos trabalhistas.
+I ensured smooth transitions. | Eu garanti transições suaves.
+I developed improvement plans. | Eu desenvolvi planos de melhoria.
+I drove operational excellence. | Eu conduzi excelência operacional.
+I took ownership of my responsibilities. | Eu assumi responsabilidade pelas minhas funções.
+I improved team coordination. | Eu melhorei a coordenação da equipe.
+I started my career in HR operations. | Eu comecei minha carreira em operações de RH.
+I built my background in payroll management. | Eu construí minha base em gestão de folha.
+I focused my career on process improvement. | Eu foquei minha carreira em melhoria de processos.
+I specialized in payroll and compliance. | Eu me especializei em folha e compliance.
+I worked in complex HR environments. | Eu trabalhei em ambientes complexos de RH.
+I developed strong expertise in labor regulations. | Eu desenvolvi forte expertise em legislação trabalhista.
+I led payroll operations for multiple entities. | Eu liderei operações de folha para múltiplas empresas.
+I improved internal HR processes. | Eu melhorei processos internos de RH.
+I implemented automation in payroll routines. | Eu implementei automação em rotinas de folha.
+I reduced operational risks through compliance controls. | Eu reduzi riscos operacionais por meio de controles de compliance.
+I worked closely with finance and leadership teams. | Eu trabalhei de perto com equipes de finanças e liderança.
+I optimized payroll workflows. | Eu otimizei fluxos de folha.
+I introduced data-driven decision models. | Eu introduzi modelos de decisão baseados em dados.
+I strengthened reporting accuracy. | Eu fortaleci a precisão dos relatórios.
+I supported strategic HR initiatives. | Eu apoiei iniciativas estratégicas de RH.
+I developed dashboards to monitor KPIs. | Eu desenvolvi dashboards para monitorar KPIs.
+I aligned HR operations with business strategy. | Eu alinhei operações de RH com a estratégia do negócio.
+I handled full-cycle payroll processes. | Eu gerenciei processos completos de folha.
+I managed benefits and compliance structures. | Eu gerenciei estruturas de benefícios e compliance.
+I improved cost control mechanisms. | Eu melhorei mecanismos de controle de custos.
+I automated manual reporting tasks. | Eu automatizei tarefas manuais de relatório.
+I enhanced workforce data visibility. | Eu aumentei a visibilidade de dados da força de trabalho.
+I supervised payroll transitions and implementations. | Eu supervisionei transições e implementações de folha.
+I coordinated cross-department projects. | Eu coordenei projetos entre departamentos.
+I implemented internal control frameworks. | Eu implementei estruturas de controle interno.
+I improved payroll processing time. | Eu melhorei o tempo de processamento da folha.
+I analyzed labor cost structures. | Eu analisei estruturas de custo trabalhista.
+I supported executive-level reporting. | Eu apoiei relatórios de nível executivo.
+I introduced standardized HR procedures. | Eu introduzi procedimentos padronizados de RH.
+I worked in high-volume payroll environments. | Eu trabalhei em ambientes de folha de alto volume.
+I ensured compliance with labor audits. | Eu garanti conformidade em auditorias trabalhistas.
+I strengthened benefit administration processes. | Eu fortaleci processos de administração de benefícios.
+I implemented payroll system upgrades. | Eu implementei atualizações de sistema de folha.
+I managed stakeholder expectations effectively. | Eu gerenciei expectativas de partes interessadas de forma eficaz.
+I improved internal communication flows. | Eu melhorei fluxos de comunicação interna.
+I supported mergers and integrations. | Eu apoiei fusões e integrações.
+I structured payroll governance processes. | Eu estruturei processos de governança de folha.
+I optimized HR operational efficiency. | Eu otimizei a eficiência operacional de RH.
+I developed automation tools in HR. | Eu desenvolvi ferramentas de automação em RH.
+I implemented BI solutions for payroll. | Eu implementei soluções de BI para folha.
+I enhanced compliance monitoring systems. | Eu melhorei sistemas de monitoramento de compliance.
+I worked on large-scale HR transformation projects. | Eu trabalhei em projetos de transformação de RH em larga escala.
+I introduced performance tracking models. | Eu introduzi modelos de acompanhamento de desempenho.
+I improved accuracy in financial reporting. | Eu melhorei a precisão nos relatórios financeiros.
+I optimized vendor management processes. | Eu otimizei processos de gestão de fornecedores.
+I reduced manual workload through automation. | Eu reduzi carga manual por meio de automação.
+I built scalable HR operational models. | Eu construí modelos operacionais de RH escaláveis.
+I aligned payroll systems with compliance standards. | Eu alinhei sistemas de folha com padrões de compliance.
+I improved operational transparency. | Eu melhorei a transparência operacional.
+I positioned HR as a strategic partner. | Eu posicionei o RH como parceiro estratégico.
+Hi, how are you doing? | Oi, como você estava?
+Nice to meet you. | Foi um prazer te conhecer.
+Where are you from? | De onde você era?
+What do you do? | O que você fazia?
+How was your day? | Como foi o seu dia?
+What are you working on? | Em que você estava trabalhando?
+That sounds interesting. | Isso pareceu interessante.
+I see what you mean. | Eu entendi o que você quis dizer.
+Really? Tell me more. | Sério? Me contou mais.
+That makes sense. | Isso fez sentido.
+I agree with you. | Eu concordei com você.
+I’m not sure about that. | Eu não tive certeza sobre isso.
+What do you think? | O que você achou?
+How long have you been here? | Há quanto tempo você estava aqui?
+Is this your first time here? | Foi sua primeira vez aqui?
+What brought you here? | O que te trouxe aqui?
+That’s a good question. | Essa foi uma boa pergunta.
+Let me think about that. | Eu pensei sobre isso.
+It depends on the situation. | Dependeu da situação.
+I’ve been busy lately. | Eu estive ocupado ultimamente.
+Things have been hectic. | As coisas estiveram agitadas.
+I totally understand. | Eu entendi totalmente.
+That’s interesting. | Isso foi interessante.
+I didn’t know that. | Eu não sabia disso.
+That’s true. | Isso foi verdade.
+I appreciate that. | Eu apreciei isso.
+No worries. | Não houve problema.
+It happens. | Isso aconteceu.
+Let’s catch up soon. | Nós combinamos de conversar em breve.
+What’s new with you? | O que houve de novo com você?
+How have you been? | Como você esteve?
+I’ve been doing well. | Eu estive bem.
+Not much, just working. | Nada demais, só estive trabalhando.
+Sounds good to me. | Isso soou bom para mim.
+That’s great to hear. | Foi ótimo ouvir isso.
+I’m glad you said that. | Eu fiquei feliz que você disse isso.
+I was thinking the same thing. | Eu estava pensando a mesma coisa.
+Can you explain that again? | Você explicou isso novamente?
+I didn’t catch that. | Eu não entendi isso.
+Could you repeat that? | Você repetiu isso?
+That’s exactly what I meant. | Isso foi exatamente o que eu quis dizer.
+What’s your opinion on that? | Qual foi sua opinião sobre isso?
+I’ve heard about that before. | Eu já tinha ouvido falar disso antes.
+That sounds like a good idea. | Isso pareceu uma boa ideia.
+I’m just curious about that. | Eu fiquei curioso sobre isso.
+That’s a fair point. | Esse foi um ponto justo.
+I didn’t expect that. | Eu não esperava isso.
+That surprised me. | Isso me surpreendeu.
+Let’s see what happens. | Nós vimos o que aconteceu.
+It was nice talking to you. | Foi bom conversar com você.
+Hey, what’s up? | Ei, o que estava acontecendo?
+Not much, how about you? | Nada demais, e você?
+I’m just checking in. | Eu estava apenas dando uma passada.
+That’s cool. | Isso foi legal.
+Sounds good. | Isso soou bom.
+I get what you’re saying. | Eu entendi o que você estava dizendo.
+That makes total sense. | Isso fez total sentido.
+I’m with you on that. | Eu concordei com você nisso.
+Fair enough. | Foi justo.
+I didn’t think about that. | Eu não tinha pensado nisso.
+That’s a good point. | Esse foi um bom ponto.
+I’m not gonna lie. | Eu não ia mentir.
+To be honest… | Para ser honesto…
+That’s kind of interesting. | Isso foi meio interessante.
+I’m kinda tired today. | Eu estava meio cansado hoje.
+I’m just saying. | Eu só estava dizendo.
+It is what it is. | Foi o que foi.
+No big deal. | Não foi grande coisa.
+That’s on me. | A culpa foi minha.
+My bad. | Foi erro meu.
+Give me a second. | Me deu um segundo.
+Hold on a minute. | Espereu um minuto.
+Let me check. | Eu verifiquei.
+I’ll take a look. | Eu dei uma olhada.
+That works for me. | Isso funcionou para mim.
+I’m good with that. | Eu fiquei bem com isso.
+Sounds like a plan. | Isso pareceu um plano.
+I’m down for that. | Eu aceitei isso.
+Why not? | Por que não?
+Let’s do it. | Nós fizemos isso.
+I’m just curious. | Eu estava apenas curioso.
+I was wondering… | Eu estava me perguntando…
+That caught my attention. | Isso chamou minha atenção.
+I see your point. | Eu vi seu ponto.
+I hadn’t thought of that. | Eu não tinha pensado nisso.
+That’s interesting actually. | Isso foi interessante na verdade.
+I get it now. | Eu entendi agora.
+Makes sense now. | Fez sentido agora.
+I’m still figuring that out. | Eu ainda estava entendendo isso.
+I’m working on it. | Eu estava trabalhando nisso.
+That’s a good question actually. | Essa foi uma boa pergunta na verdade.
+I appreciate that. | Eu apreciei isso.
+I’m glad you said that. | Eu fiquei feliz que você disse isso.
+I totally agree. | Eu concordei totalmente.
+I’m not sure yet. | Eu ainda não tinha certeza.
+We’ll see. | Nós vimos.
+Let’s see how it goes. | Nós vimos como foi.
+I’m open to that. | Eu estive aberto a isso.
+That’s interesting to know. | Foi interessante saber disso.
+Good to know. | Foi bom saber.
+Hi, this is Anderson speaking. | Oi, aqui foi o Anderson falando.
+I’m calling regarding the payroll update. | Eu liguei sobre a atualização da folha.
+Is this a good time to talk? | Foi um bom momento para conversar?
+Can you hear me clearly? | Você conseguiu me ouvir claramente?
+Sorry, the line is a bit unclear. | Desculpe, a linha esteve um pouco ruim.
+Could you repeat that, please? | Você repetiu isso, por favor?
+I didn’t catch that. | Eu não entendi isso.
+Can you speak a little slower? | Você falou um pouco mais devagar?
+Let me clarify something. | Eu esclareci algo.
+I just wanted to confirm the details. | Eu só quis confirmar os detalhes.
+I’m following up on our previous conversation. | Eu retornei sobre nossa conversa anterior.
+I’m calling to schedule a meeting. | Eu liguei para agendar uma reunião.
+Are you available tomorrow? | Você esteve disponível amanhã?
+Let me check my calendar. | Eu verifiquei minha agenda.
+I’ll get back to you shortly. | Eu retornei para você em breve.
+I’ll send you an email after this call. | Eu enviei um e-mail após essa ligação.
+Can you send me the updated file? | Você me enviou o arquivo atualizado?
+Let me explain the situation. | Eu expliquei a situação.
+Here’s what happened. | Foi isso que aconteceu.
+We need to align on this issue. | Nós precisávamos alinhar esse ponto.
+I understand your concern. | Eu entendi sua preocupação.
+That makes sense. | Isso fez sentido.
+Let’s review the numbers together. | Nós revisamos os números juntos.
+There seems to be a discrepancy. | Pareceu haver uma divergência.
+I’ll double-check that information. | Eu conferi novamente essa informação.
+Thank you for your time. | Eu agradeci pelo seu tempo.
+I appreciate your support. | Eu agradeci seu apoio.
+Before we finish, one last question. | Antes de encerrarmos, eu fiz uma última pergunta.
+Is there anything else we should discuss? | Houve algo mais que deveríamos discutir?
+Let’s confirm the next steps. | Nós confirmamos os próximos passos.
+Could you hold for a moment? | Você aguardou um momento?
+I’ll transfer you to the right person. | Eu transferi você para a pessoa correta.
+Please hold the line. | Você aguardou na linha.
+I’ll call you back in five minutes. | Eu retornei em cinco minutos.
+Sorry, I missed your call. | Desculpe, eu perdi sua ligação.
+I was in another meeting. | Eu estava em outra reunião.
+Can we reschedule? | Nós reagendamos?
+What time works best for you? | Que horário funcionou melhor para você?
+Let’s keep this brief. | Nós mantivemos isso breve.
+I just need a quick update. | Eu só precisei de uma atualização rápida.
+We are on the same page. | Nós estivemos alinhados.
+That’s exactly what I needed. | Foi exatamente o que eu precisei.
+Thanks for calling. | Eu agradeci por ligar.
+Talk to you soon. | Eu falei com você em breve.
+Have a great day. | Eu tive um ótimo dia.
+Goodbye for now. | Eu me despedi por enquanto.
+Thank you. | Eu agradeci.
+I'm honored to be with you today. | Eu fiquei honrado de estar com vocês hoje.
+Truth be told, I never graduated from college. | Verdade seja dita, eu nunca me formei na faculdade.
+This is the closest I've ever gotten to a college graduation. | Esse foi o mais perto que eu já cheguei de uma formatura universitária.
+Today I wanna tell you three stories from my life. | Hoje eu quis contar três histórias da minha vida.
+That's it. No big deal. | Foi só isso. Não foi nada demais.
+The first story is about connecting the dots. | A primeira história foi sobre conectar os pontos.
+I dropped out of Reed College after the first six months. | Eu abandonei a faculdade Reed após seis meses.
+I stayed around for another eighteen months. | Eu permaneci por mais dezoito meses.
+So why did I drop out? | Então por que eu abandonei?
+It started before I was born. | Isso começou antes de eu nascer.
+My biological mother decided to put me up for adoption. | Minha mãe biológica decidiu me colocar para adoção.
+She felt strongly that I should be adopted by college graduates. | Ela acreditou fortemente que eu deveria ser adotado por formados na faculdade.
+Everything was all set. | Tudo estava preparado.
+They decided at the last minute that they wanted a girl. | Eles decidiram no último minuto que queriam uma menina.
+My parents got a call in the middle of the night. | Meus pais receberam uma ligação no meio da noite.
+We've got an unexpected baby boy. | Nós tivemos um bebê inesperado.
+My biological mother refused to sign the adoption papers. | Minha mãe biológica se recusou a assinar os documentos de adoção.
+She relented a few months later. | Ela cedeu alguns meses depois.
+My parents promised that I would go to college. | Meus pais prometeram que eu iria para a faculdade.
+Seventeen years later, I did go to college. | Dezessete anos depois, eu realmente fui para a faculdade.
+I naively chose a college that was almost as expensive as Stanford. | Eu ingenuamente escolhi uma faculdade quase tão cara quanto Stanford.
+All of my parents' savings were being spent on tuition. | Todas as economias dos meus pais foram gastas na mensalidade.
+After six months, I couldn't see the value in it. | Após seis meses, eu não vi valor naquilo.
+I had no idea what I wanted to do with my life. | Eu não tinha ideia do que eu queria fazer da minha vida.
+I decided to drop out and trust that it would work out. | Eu decidi abandonar e confiar que tudo daria certo.
+It was pretty scary at the time. | Foi bastante assustador na época.
+Looking back, it was one of the best decisions I ever made. | Olhando para trás, foi uma das melhores decisões que eu já tomei.
+I stopped taking the required classes. | Eu parei de fazer as aulas obrigatórias.
+I began dropping in on the classes that interested me. | Eu comecei a frequentar as aulas que me interessavam.
+I didn't have a dorm room. | Eu não tive quarto no campus.
+I slept on the floor in friends' rooms. | Eu dormi no chão no quarto de amigos.
+I returned coke bottles to buy food. | Eu devolvi garrafas para comprar comida.
+I walked seven miles across town every Sunday night. | Eu caminhei sete milhas pela cidade todo domingo à noite.
+I loved it. | Eu amei aquilo.
+Much of what I stumbled into turned out to be priceless later on. | Muito do que eu descobri acabou sendo valioso mais tarde.
+
+Reed College offered the best calligraphy instruction. | A faculdade ofereceu as melhores aulas de caligrafia.
+I decided to take a calligraphy class. | Eu decidi fazer uma aula de caligrafia.
+I learned about serif and sans serif typefaces. | Eu aprendi sobre fontes serif e sans serif.
+I learned about spacing between letters. | Eu aprendi sobre espaçamento entre letras.
+None of this had any practical application in my life. | Nada disso teve aplicação prática na minha vida.
+Ten years later it all came back to me. | Dez anos depois tudo voltou para mim.
+We designed it into the first Macintosh. | Nós projetamos isso no primeiro Macintosh.
+It was the first computer with beautiful typography. | Foi o primeiro computador com tipografia bonita.
+
+You can't connect the dots looking forward. | Você não conseguiu conectar os pontos olhando para frente.
+You can only connect them looking backward. | Você só conseguiu conectá-los olhando para trás.
+You have to trust that the dots will connect. | Você teve que confiar que os pontos se conectariam.
+Believing that gave me confidence. | Acreditar nisso me deu confiança.
+That made all the difference. | Isso fez toda a diferença.
+
+My second story was about love and loss. | Minha segunda história foi sobre amor e perda.
+I found what I loved to do early in life. | Eu encontrei cedo o que eu amava fazer.
+We started Apple in my parents' garage. | Nós começamos a Apple na garagem dos meus pais.
+Apple grew into a two billion dollar company. | A Apple cresceu e virou uma empresa de dois bilhões de dólares.
+We released the Macintosh. | Nós lançamos o Macintosh.
+Then I got fired. | Então eu fui demitido.
+Our visions began to diverge. | Nossas visões começaram a divergir.
+We had a falling out. | Nós tivemos um desentendimento.
+The board sided with him. | O conselho ficou do lado dele.
+At thirty I was out. | Aos trinta eu fiquei fora.
+It was devastating. | Foi devastador.
+
+I didn't know what to do for a few months. | Eu não soube o que fazer por alguns meses.
+I felt I had let people down. | Eu senti que eu tinha decepcionado as pessoas.
+I tried to apologize for screwing up. | Eu tentei me desculpar por estragar tudo.
+I thought about running away. | Eu pensei em fugir.
+But I still loved what I did. | Mas eu ainda amei o que eu fazia.
+So I decided to start over. | Então eu decidi começar de novo.
+Getting fired turned out to be the best thing. | Ser demitido acabou sendo a melhor coisa.
+It freed me to enter a creative period. | Isso me libertou para entrar em um período criativo.
+I started NeXT. | Eu comecei a NeXT.
+I started Pixar. | Eu comecei a Pixar.
+I fell in love with an amazing woman. | Eu me apaixonei por uma mulher incrível.
+
+Apple bought NeXT. | A Apple comprou a NeXT.
+I returned to Apple. | Eu voltei para a Apple.
+None of this would have happened if I hadn't been fired. | Nada disso teria acontecido se eu não tivesse sido demitido.
+Life hit me in the head with a brick. | A vida me acertou na cabeça como um tijolo.
+I didn't lose faith. | Eu não perdi a fé.
+I loved what I did. | Eu amei o que eu fazia.
+You have to find what you love. | Você teve que encontrar o que ama.
+Don't settle. | Você não se acomodou.
+
+My third story was about death. | Minha terceira história foi sobre a morte.
+I read a quote when I was seventeen. | Eu li uma citação quando eu tinha dezessete anos.
+It made an impression on me. | Isso causou uma impressão em mim.
+I looked in the mirror every morning. | Eu olhei no espelho toda manhã.
+Whenever the answer was no, I changed something. | Sempre que a resposta foi não, eu mudei algo.
+Remembering death helped me make big decisions. | Lembrar da morte me ajudou a tomar grandes decisões.
+Almost everything fell away in the face of death. | Quase tudo desapareceu diante da morte.
+There was no reason not to follow my heart. | Não houve razão para não seguir meu coração.
+
+I was diagnosed with cancer. | Eu fui diagnosticado com câncer.
+The scan showed a tumor on my pancreas. | O exame mostrou um tumor no meu pâncreas.
+The doctors said it was incurable. | Os médicos disseram que era incurável.
+They told me to get my affairs in order. | Eles me disseram para organizar meus assuntos.
+Later it turned out to be curable. | Depois acabou sendo curável.
+I had surgery. | Eu fiz a cirurgia.
+Thankfully I was fine. | Felizmente eu fiquei bem.
+No one wanted to die. | Ninguém quis morrer.
+
+Death was the best invention of life. | A morte foi a melhor invenção da vida.
+It cleared out the old to make way for the new. | Ela limpou o velho para dar lugar ao novo.
+Your time was limited. | Seu tempo foi limitado.
+Don't waste it living someone else's life. | Você não desperdiçou vivendo a vida de outra pessoa.
+Don't be trapped by dogma. | Você não ficou preso por dogmas.
+Don't let opinions drown out your inner voice. | Você não deixou opiniões abafarem sua voz interior.
+Have the courage to follow your heart. | Você teve coragem de seguir seu coração.
+Everything else was secondary. | Todo o resto foi secundário.
+
+Stay Hungry. Stay Foolish. | Continue com fome. Continue tolo.
+I always wished that for myself. | Eu sempre desejei isso para mim.
+I wished that for you. | Eu desejei isso para você.
+Thank you all very much. | Eu agradeci muito a todos vocês.
+It’s undeniable that we should be together | Foi inegável que nós deveríamos estar juntos
+It’s unbelievable how I used to say that I’d never fall | Foi inacreditável como eu costumava dizer que nunca me apaixonaria
+If you don’t know just how I feel | Se você não soube exatamente como eu me senti
+Then let me show you now that I’m for real | Então eu te mostrei naquele momento que eu estava falando sério
+If all things in time, time will reveal | Se todas as coisas aconteceram no tempo certo, o tempo revelou
+
+One, you’re like a dream come true | Um, você foi como um sonho que se tornou realidade
+Two, just wanna be with you | Dois, eu só quis estar com você
+Three, it was plain to see that you were the only one for me | Três, ficou claro que você foi a única para mim
+Four, I repeated steps one through three | Quatro, eu repeti os passos de um a três
+Five, I made you fall in love with me | Cinco, eu fiz você se apaixonar por mim
+If ever I believed my work was done, I started back at one | Se alguma vez eu acreditei que meu trabalho terminou, eu comecei novamente do um
+
+It was incredible the way things worked themselves out | Foi incrível a maneira como as coisas se resolveram
+Once I knew what it was all about | Quando eu entendi do que tudo se tratava
+It was undesirable for us to be apart | Foi indesejável que estivéssemos separados
+We would never have made it very far | Nós nunca teríamos ido muito longe
+You had the keys to my heart | Você teve as chaves do meu coração
+
+Say farewell to the dark night, I saw the coming of the sun | Eu me despedi da noite escura, eu vi a chegada do sol
+I felt like a little child whose life had just begun | Eu me senti como uma criança cuja vida tinha acabado de começar
+You came and breathed new life into this lonely heart of mine | Você veio e trouxe nova vida para esse meu coração solitário
+You threw out the lifeline just in the nick of time | Você lançou a linha de resgate bem no último instante
+
+Things have been hectic. | As coisas estiveram corridas.
+It has been a busy week. | Foi uma semana movimentada.
+We had a tight deadline. | Nós tivemos um prazo apertado.
+We managed to deliver on time. | Nós conseguimos entregar no prazo.
+I needed your support on this. | Eu precisei do seu apoio nisso.
+We aligned on the next steps. | Nós alinhamos os próximos passos.
+I shared the report with the team. | Eu compartilhei o relatório com o time.
+The file was not available yet. | O arquivo não estava disponível ainda.
+We expected the report by the 20th. | Nós esperamos o relatório até o dia 20.
+We had only a few working days. | Nós tivemos poucos dias úteis.
+I followed up on this request. | Eu acompanhei essa solicitação.
+We reviewed the data together. | Nós revisamos os dados juntos.
+I asked for clarification. | Eu pedi esclarecimento.
+We confirmed the process. | Nós confirmamos o processo.
+The team supported the activity. | O time apoiou a atividade.
+I updated the website. | Eu atualizei o site.
+We completed the publication. | Nós concluímos a publicação.
+I ensured the delivery. | Eu garanti a entrega.
+We worked under pressure. | Nós trabalhamos sob pressão.
+I coordinated with the team. | Eu coordenei com o time.
+We handled the request quickly. | Nós tratamos a solicitação rapidamente.
+I checked the information. | Eu verifiquei as informações.
+We validated the data. | Nós validamos os dados.
+I sent the final version. | Eu enviei a versão final.
+We received the file late. | Nós recebemos o arquivo tarde.
+I escalated the issue. | Eu escalei o problema.
+We adjusted the timeline. | Nós ajustamos o cronograma.
+I communicated the delay. | Eu comuniquei o atraso.
+We prioritized this activity. | Nós priorizamos essa atividade.
+I confirmed the deadline. | Eu confirmei o prazo.
+We delivered within the deadline. | Nós entregamos dentro do prazo.
+I aligned expectations. | Eu alinhei as expectativas.
+We improved the process. | Nós melhoramos o processo.
+I supported the implementation. | Eu apoiei a implementação.
+We completed the task successfully. | Nós concluímos a tarefa com sucesso.
+I handled the communication. | Eu conduzi a comunicação.
+We ensured compliance. | Nós garantimos conformidade.
+I reviewed the request carefully. | Eu revisei a solicitação cuidadosamente.
+We identified the issue. | Nós identificamos o problema.
+I proposed a solution. | Eu propus uma solução.
+We resolved the issue. | Nós resolvemos o problema.
+I shared the updates. | Eu compartilhei as atualizações.
+We kept the stakeholders informed. | Nós mantivemos os stakeholders informados.
+I followed the standard process. | Eu segui o processo padrão.
+We met the requirements. | Nós atendemos os requisitos.
+I requested additional time. | Eu solicitei mais tempo.
+We completed the review. | Nós concluímos a revisão.
+I ensured accuracy. | Eu garanti a precisão.
+We finalized the report. | Nós finalizamos o relatório.
+I confirmed everything was correct. | Eu confirmei que tudo estava correto.
+I handled a last-minute payroll adjustment. | Eu tratei um ajuste de folha de última hora.
+I reprocessed payroll due to an error. | Eu reprocesssei a folha devido a um erro.
+I escalated a compliance risk. | Eu escalei um risco de compliance.
+I reviewed payroll impacts before approval. | Eu revisei impactos da folha antes da aprovação.
+I mapped a critical payroll issue. | Eu mapeei um problema crítico de folha.
+I corrected tax calculations manually. | Eu corrigi cálculos de impostos manualmente.
+I supported a system migration. | Eu apoiei uma migração de sistema.
+I validated integration between systems. | Eu validei integração entre sistemas.
+I identified a gap in the process. | Eu identifiquei uma falha no processo.
+I proposed a process improvement. | Eu propus uma melhoria de processo.
+
+I reviewed employee benefits allocation. | Eu revisei a alocação de benefícios.
+I handled a sensitive employee case. | Eu tratei um caso sensível de colaborador.
+I aligned payroll data with finance. | Eu alinhei dados da folha com o financeiro.
+I corrected inconsistencies in reports. | Eu corrigi inconsistências nos relatórios.
+I monitored payroll exceptions. | Eu monitorei exceções da folha.
+I ensured data consistency across systems. | Eu garanti consistência de dados entre sistemas.
+I reviewed historical payroll data. | Eu revisei dados históricos da folha.
+I validated bonus calculations. | Eu validei cálculos de bônus.
+I tracked variable compensation. | Eu acompanhei remuneração variável.
+I adjusted payroll entries. | Eu ajustei lançamentos da folha.
+
+I handled multiple payroll cycles. | Eu tratei múltiplos ciclos de folha.
+I supported off-cycle payments. | Eu apoiei pagamentos fora do ciclo.
+I analyzed workforce costs. | Eu analisei custos de força de trabalho.
+I reviewed headcount planning. | Eu revisei planejamento de headcount.
+I monitored budget execution. | Eu monitorei execução de orçamento.
+I flagged inconsistencies early. | Eu sinalizei inconsistências antecipadamente.
+I anticipated operational risks. | Eu antecipei riscos operacionais.
+I supported internal audits. | Eu apoiei auditorias internas.
+I prepared audit documentation. | Eu preparei documentação de auditoria.
+I responded to compliance findings. | Eu respondi apontamentos de compliance.
+
+I structured payroll controls. | Eu estruturei controles de folha.
+I improved data governance. | Eu melhorei governança de dados.
+I reviewed approval workflows. | Eu revisei fluxos de aprovação.
+I redesigned a payroll process. | Eu redesenhei um processo de folha.
+I implemented validation rules. | Eu implementei regras de validação.
+I reduced process errors. | Eu reduzi erros de processo.
+I standardized operational routines. | Eu padronizei rotinas operacionais.
+I improved data traceability. | Eu melhorei rastreabilidade de dados.
+I ensured audit readiness. | Eu garanti prontidão para auditoria.
+I tracked compliance indicators. | Eu acompanhei indicadores de compliance.
+
+I led a payroll alignment meeting. | Eu liderei uma reunião de alinhamento de folha.
+I clarified requirements with stakeholders. | Eu esclareci requisitos com stakeholders.
+I translated business needs into actions. | Eu traduzi necessidades do negócio em ações.
+I aligned cross-functional teams. | Eu alinhei equipes multifuncionais.
+I facilitated decision-making discussions. | Eu facilitei discussões de decisão.
+I presented risks and impacts. | Eu apresentei riscos e impactos.
+I negotiated deadlines with teams. | Eu negociei prazos com equipes.
+I handled conflicting priorities. | Eu tratei prioridades conflitantes.
+I supported leadership alignment. | Eu apoiei alinhamento da liderança.
+I drove accountability in the team. | Eu conduzi responsabilidade no time.
+
+I automated payroll validations. | Eu automatizei validações da folha.
+I built a payroll control tool. | Eu construí uma ferramenta de controle de folha.
+I extracted data using scripts. | Eu extraí dados usando scripts.
+I transformed raw data into insights. | Eu transformei dados brutos em insights.
+I created data pipelines. | Eu criei pipelines de dados.
+I optimized data extraction processes. | Eu otimizei processos de extração de dados.
+I improved reporting accuracy. | Eu melhorei a precisão dos relatórios.
+I automated repetitive validations. | Eu automatizei validações repetitivas.
+I structured large datasets. | Eu estruturei grandes bases de dados.
+I improved data processing speed. | Eu melhorei a velocidade de processamento de dados.
+
+I monitored service delivery performance. | Eu monitorei a performance da entrega de serviços.
+I tracked SLA compliance. | Eu acompanhei cumprimento de SLA.
+I improved vendor performance. | Eu melhorei a performance de fornecedores.
+I managed service escalations. | Eu gerenciei escalonamentos de serviço.
+I reviewed contract deliverables. | Eu revisei entregáveis de contrato.
+I handled vendor discrepancies. | Eu tratei divergências de fornecedores.
+I ensured service quality standards. | Eu garanti padrões de qualidade de serviço.
+I analyzed supplier risks. | Eu analisei riscos de fornecedores.
+I aligned expectations with vendors. | Eu alinhei expectativas com fornecedores.
+I controlled external service costs. | Eu controlei custos de serviços externos.
+
+I structured HR dashboards. | Eu estruturei dashboards de RH.
+I analyzed employee behavior data. | Eu analisei dados de comportamento dos colaboradores.
+I tracked engagement indicators. | Eu acompanhei indicadores de engajamento.
+I evaluated attrition trends. | Eu avaliei tendências de turnover.
+I monitored workforce performance. | Eu monitorei performance da força de trabalho.
+I identified productivity gaps. | Eu identifiquei lacunas de produtividade.
+I supported strategic planning. | Eu apoiei planejamento estratégico.
+I delivered insights to leadership. | Eu entreguei insights à liderança.
+I connected data to business outcomes. | Eu conectei dados a resultados do negócio.
+I influenced decision-making with data. | Eu influenciei decisões com dados.
+
+I handled urgent operational issues. | Eu tratei problemas operacionais urgentes.
+I managed high-pressure situations. | Eu gerenciei situações de alta pressão.
+I ensured continuity of operations. | Eu garanti continuidade das operações.
+I maintained process stability. | Eu mantive estabilidade dos processos.
+I resolved critical bottlenecks. | Eu resolvi gargalos críticos.
+I improved operational resilience. | Eu melhorei a resiliência operacional.
+I ensured process transparency. | Eu garanti transparência dos processos.
+I documented key decisions. | Eu documentei decisões-chave.
+I maintained alignment with business goals. | Eu mantive alinhamento com objetivos do negócio.
+I delivered consistent results. | Eu entreguei resultados consistentes.
+
+I handled payroll end-to-end. | Eu cuidei da folha de ponta a ponta.
+I fixed payroll issues fast. | Eu resolvi problemas de folha rapidamente.
+I kept everything on track. | Eu mantive tudo no caminho certo.
+I made sure payroll closed right. | Eu garanti que a folha fechou corretamente.
+I dealt with tight deadlines. | Eu lidei com prazos apertados.
+I worked closely with finance. | Eu trabalhei próximo do financeiro.
+I aligned things with leadership. | Eu alinhei tudo com a liderança.
+I kept the process clean. | Eu mantive o processo organizado.
+I avoided rework whenever possible. | Eu evitei retrabalho sempre que possível.
+I caught issues early. | Eu identifiquei problemas cedo.
+
+I improved how we worked. | Eu melhorei a forma como trabalhávamos.
+I simplified complex processes. | Eu simplifiquei processos complexos.
+I made data easier to read. | Eu deixei os dados mais fáceis de entender.
+I built dashboards that made sense. | Eu construí dashboards claros.
+I turned data into decisions. | Eu transformei dados em decisões.
+I supported business decisions. | Eu apoiei decisões do negócio.
+I helped teams move faster. | Eu ajudei times a avançarem mais rápido.
+I removed bottlenecks. | Eu removi gargalos.
+I made processes more reliable. | Eu deixei processos mais confiáveis.
+I kept things running smoothly. | Eu mantive tudo rodando bem.
+
+I worked on system implementations. | Eu trabalhei em implementações de sistema.
+I supported system changes. | Eu apoiei mudanças de sistema.
+I tested everything before go-live. | Eu testei tudo antes do go-live.
+I made sure integrations worked. | Eu garanti que as integrações funcionaram.
+I handled data migrations. | Eu cuidei de migrações de dados.
+I validated payroll outputs. | Eu validei resultados da folha.
+I ensured data was accurate. | Eu garanti que os dados estavam corretos.
+I checked everything twice. | Eu conferi tudo duas vezes.
+I documented the process clearly. | Eu documentei o processo claramente.
+I trained the team when needed. | Eu treinei o time quando necessário.
+
+I dealt with sensitive cases. | Eu lidei com casos sensíveis.
+I handled confidential data. | Eu tratei dados confidenciais.
+I supported employee needs. | Eu apoiei necessidades dos colaboradores.
+I solved issues quickly. | Eu resolvi problemas rapidamente.
+I stayed calm under pressure. | Eu mantive calma sob pressão.
+I managed multiple priorities. | Eu gerenciei múltiplas prioridades.
+I kept communication clear. | Eu mantive a comunicação clara.
+I aligned everyone involved. | Eu alinhei todos os envolvidos.
+I followed through on actions. | Eu garanti execução das ações.
+I made sure nothing was missed. | Eu garanti que nada foi perdido.
+
+I worked with large datasets. | Eu trabalhei com grandes volumes de dados.
+I cleaned and structured data. | Eu limpei e estruturei dados.
+I automated repetitive tasks. | Eu automatizei tarefas repetitivas.
+I used Python to optimize work. | Eu usei Python para otimizar o trabalho.
+I improved reporting time. | Eu melhorei o tempo de relatórios.
+I made reports more useful. | Eu deixei relatórios mais úteis.
+I tracked key HR metrics. | Eu acompanhei métricas-chave de RH.
+I analyzed trends over time. | Eu analisei tendências ao longo do tempo.
+I supported strategic insights. | Eu apoiei insights estratégicos.
+I added value through data. | Eu agreguei valor com dados.
+
+I wasn’t in a good place, but I felt better. | Eu não estava bem, mas me senti melhor.
+I carried something positive with me. | Eu carreguei algo positivo comigo.
+I felt lost, but it didn’t last long. | Eu me senti perdido, mas não durou muito.
+I sensed change was coming. | Eu senti que algo estava mudando.
+
+Something inside me shifted. | Algo dentro de mim mudou.
+I started to feel lighter. | Eu comecei a me sentir mais leve.
+I found hope in small things. | Eu encontrei esperança em pequenas coisas.
+I knew things would improve. | Eu sabia que as coisas melhorariam.
+I felt the momentum building. | Eu senti o impulso crescendo.
+Everything began to move forward. | Tudo começou a avançar.
+
+Someone gave me a chance. | Alguém me deu uma chance.
+I stepped out of my limits. | Eu saí dos meus limites.
+Time stopped mattering to me. | O tempo deixou de importar para mim.
+I stopped worrying about age. | Eu parei de me preocupar com idade.
+I moved without fear. | Eu me movi sem medo.
+I trusted my instincts. | Eu confiei nos meus instintos.
+
+I adapted to every situation. | Eu me adaptei a cada situação.
+I handled pressure naturally. | Eu lidei com pressão naturalmente.
+I didn’t feel restricted anymore. | Eu não me senti mais limitado.
+I saw things from a wider view. | Eu vi as coisas de forma mais ampla.
+I simplified complex scenarios. | Eu simplifiquei situações complexas.
+I made things easier to manage. | Eu tornei tudo mais fácil de lidar.
+
+I made my own choices. | Eu fiz minhas próprias escolhas.
+Others hesitated, but I didn’t. | Outros hesitaram, mas eu não.
+I stood out from the crowd. | Eu me destaquei do grupo.
+I took control of the situation. | Eu assumi o controle da situação.
+I drove the direction forward. | Eu conduzi a direção adiante.
+I owned my decisions. | Eu assumi minhas decisões.
+
+I imagined new possibilities. | Eu imaginei novas possibilidades.
+I saw beyond what was obvious. | Eu vi além do óbvio.
+I questioned what was real. | Eu questionei o que era real.
+I explored different perspectives. | Eu explorei diferentes perspectivas.
+I challenged my own beliefs. | Eu desafiei minhas próprias crenças.
+I opened my mind to new ideas. | Eu abri minha mente para novas ideias.
+
+I showed up when it mattered. | Eu apareci quando importava.
+I helped bring clarity. | Eu ajudei a trazer clareza.
+I supported others in confusion. | Eu apoiei outros na confusão.
+I made things make sense. | Eu fiz as coisas fazerem sentido.
+I connected the dots. | Eu conectei os pontos.
+I turned chaos into direction. | Eu transformei caos em direção.
+
+I gave meaning to the moment. | Eu dei significado ao momento.
+I changed how things felt. | Eu mudei como as coisas eram sentidas.
+I influenced the environment. | Eu influenciei o ambiente.
+I created impact around me. | Eu criei impacto ao meu redor.
+I shifted the energy. | Eu mudei a energia.
+I made things feel real. | Eu fiz as coisas parecerem reais.
+
+I focused on the essentials. | Eu foquei no essencial.
+I built from the basics. | Eu construí a partir do básico.
+I kept things simple and effective. | Eu mantive as coisas simples e eficazes.
+I trusted the process. | Eu confiei no processo.
+I stayed consistent. | Eu mantive consistência.
+I followed what worked. | Eu segui o que funcionava.
+
+I noticed patterns others missed. | Eu percebi padrões que outros não viram.
+I saw deeper than the surface. | Eu vi além da superfície.
+I understood hidden issues. | Eu entendi problemas ocultos.
+I recognized underlying risks. | Eu reconheci riscos ocultos.
+I didn’t ignore warning signs. | Eu não ignorei sinais de alerta.
+I acted before things escalated. | Eu agi antes que piorasse.
+
+I guided the direction forward. | Eu guiei a direção adiante.
+I influenced how people saw things. | Eu influenciei como as pessoas viam as coisas.
+I helped others think clearly. | Eu ajudei outros a pensar com clareza.
+I shared what I knew. | Eu compartilhei o que eu sabia.
+I stayed present in the process. | Eu permaneci presente no processo.
+I contributed consistently. | Eu contribuí de forma consistente.
+
+I helped people stay grounded. | Eu ajudei as pessoas a manterem o foco.
+I reminded them what mattered. | Eu lembrei o que importava.
+I brought awareness to the situation. | Eu trouxe consciência à situação.
+I reconnected people to reality. | Eu reconectei as pessoas à realidade.
+I helped them think differently. | Eu ajudei eles a pensar diferente.
+I made them reflect more. | Eu fiz eles refletirem mais.
+
+I kept moving forward. | Eu continuei avançando.
+I didn’t stop midway. | Eu não parei no meio.
+I stayed committed to the path. | Eu permaneci comprometido com o caminho.
+I pushed through challenges. | Eu superei desafios.
+I stayed focused until the end. | Eu mantive foco até o fim.
+I trusted the outcome. | Eu confiei no resultado.
+
+I knew my time would come. | Eu soube que meu momento chegaria.
+I believed in the process. | Eu acreditei no processo.
+I stayed patient. | Eu permaneci paciente.
+I kept evolving. | Eu continuei evoluindo.
+I grew through the experience. | Eu cresci com a experiência.
+I became stronger over time. | Eu me tornei mais forte com o tempo.
+
