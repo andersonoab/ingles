@@ -1,3 +1,1023 @@
+I need to go to the supermarket. | Eu preciso ir ao supermercado.
+I want to go to the supermarket. | Eu quero ir ao supermercado.
+I have to go to the supermarket. | Eu tenho que ir ao supermercado.
+Can you go to the supermarket, please? | Você pode ir ao supermercado, por favor?
+I'd like to go to the supermarket. | Eu gostaria de ir ao supermercado.
+I forgot to go to the supermarket. | Eu esqueci de ir ao supermercado.
+Don't forget to go to the supermarket. | Não esqueça de ir ao supermercado.
+Do you want to go to the supermarket? | Você quer ir ao supermercado?
+We need to go to the supermarket tomorrow. | Nós precisamos ir ao supermercado amanhã.
+Could you go to the supermarket? | Você poderia ir ao supermercado?
+I need to go to work. | Eu preciso ir trabalhar.
+I want to go to work. | Eu quero ir trabalhar.
+I have to go to work. | Eu tenho que ir trabalhar.
+Can you go to work, please? | Você pode ir trabalhar, por favor?
+I'd like to go to work. | Eu gostaria de ir trabalhar.
+I forgot to go to work. | Eu esqueci de ir trabalhar.
+Don't forget to go to work. | Não esqueça de ir trabalhar.
+Do you want to go to work? | Você quer ir trabalhar?
+We need to go to work tomorrow. | Nós precisamos ir trabalhar amanhã.
+Could you go to work? | Você poderia ir trabalhar?
+I need to go home. | Eu preciso ir para casa.
+I want to go home. | Eu quero ir para casa.
+I have to go home. | Eu tenho que ir para casa.
+Can you go home, please? | Você pode ir para casa, por favor?
+I'd like to go home. | Eu gostaria de ir para casa.
+I forgot to go home. | Eu esqueci de ir para casa.
+Don't forget to go home. | Não esqueça de ir para casa.
+Do you want to go home? | Você quer ir para casa?
+We need to go home tomorrow. | Nós precisamos ir para casa amanhã.
+Could you go home? | Você poderia ir para casa?
+I need to go to the bank. | Eu preciso ir ao banco.
+I want to go to the bank. | Eu quero ir ao banco.
+I have to go to the bank. | Eu tenho que ir ao banco.
+Can you go to the bank, please? | Você pode ir ao banco, por favor?
+I'd like to go to the bank. | Eu gostaria de ir ao banco.
+I forgot to go to the bank. | Eu esqueci de ir ao banco.
+Don't forget to go to the bank. | Não esqueça de ir ao banco.
+Do you want to go to the bank? | Você quer ir ao banco?
+We need to go to the bank tomorrow. | Nós precisamos ir ao banco amanhã.
+Could you go to the bank? | Você poderia ir ao banco?
+I need to go to the doctor. | Eu preciso ir ao médico.
+I want to go to the doctor. | Eu quero ir ao médico.
+I have to go to the doctor. | Eu tenho que ir ao médico.
+Can you go to the doctor, please? | Você pode ir ao médico, por favor?
+I'd like to go to the doctor. | Eu gostaria de ir ao médico.
+I forgot to go to the doctor. | Eu esqueci de ir ao médico.
+Don't forget to go to the doctor. | Não esqueça de ir ao médico.
+Do you want to go to the doctor? | Você quer ir ao médico?
+We need to go to the doctor tomorrow. | Nós precisamos ir ao médico amanhã.
+Could you go to the doctor? | Você poderia ir ao médico?
+I need to call my boss. | Eu preciso ligar para o meu chefe.
+I want to call my boss. | Eu quero ligar para o meu chefe.
+I have to call my boss. | Eu tenho que ligar para o meu chefe.
+I'm going to call my boss today. | Eu vou ligar para o meu chefe hoje.
+Can you call my boss, please? | Você pode ligar para o meu chefe, por favor?
+I'd like to call my boss. | Eu gostaria de ligar para o meu chefe.
+I forgot to call my boss. | Eu esqueci de ligar para o meu chefe.
+Don't forget to call my boss. | Não esqueça de ligar para o meu chefe.
+Do you want to call my boss? | Você quer ligar para o meu chefe?
+We need to call my boss tomorrow. | Nós precisamos ligar para o meu chefe amanhã.
+Could you call my boss? | Você poderia ligar para o meu chefe?
+I need to call the doctor. | Eu preciso ligar para o médico.
+I want to call the doctor. | Eu quero ligar para o médico.
+I have to call the doctor. | Eu tenho que ligar para o médico.
+I'm going to call the doctor today. | Eu vou ligar para o médico hoje.
+Can you call the doctor, please? | Você pode ligar para o médico, por favor?
+I'd like to call the doctor. | Eu gostaria de ligar para o médico.
+I forgot to call the doctor. | Eu esqueci de ligar para o médico.
+Don't forget to call the doctor. | Não esqueça de ligar para o médico.
+Do you want to call the doctor? | Você quer ligar para o médico?
+We need to call the doctor tomorrow. | Nós precisamos ligar para o médico amanhã.
+Could you call the doctor? | Você poderia ligar para o médico?
+I need to answer the email. | Eu preciso responder o e-mail.
+I want to answer the email. | Eu quero responder o e-mail.
+I have to answer the email. | Eu tenho que responder o e-mail.
+I'm going to answer the email today. | Eu vou responder o e-mail hoje.
+Can you answer the email, please? | Você pode responder o e-mail, por favor?
+I'd like to answer the email. | Eu gostaria de responder o e-mail.
+I forgot to answer the email. | Eu esqueci de responder o e-mail.
+Don't forget to answer the email. | Não esqueça de responder o e-mail.
+Do you want to answer the email? | Você quer responder o e-mail?
+We need to answer the email tomorrow. | Nós precisamos responder o e-mail amanhã.
+Could you answer the email? | Você poderia responder o e-mail?
+I need to send the report. | Eu preciso enviar o relatório.
+I want to send the report. | Eu quero enviar o relatório.
+I have to send the report. | Eu tenho que enviar o relatório.
+I'm going to send the report today. | Eu vou enviar o relatório hoje.
+Can you send the report, please? | Você pode enviar o relatório, por favor?
+I'd like to send the report. | Eu gostaria de enviar o relatório.
+I forgot to send the report. | Eu esqueci de enviar o relatório.
+Don't forget to send the report. | Não esqueça de enviar o relatório.
+Do you want to send the report? | Você quer enviar o relatório?
+We need to send the report tomorrow. | Nós precisamos enviar o relatório amanhã.
+Could you send the report? | Você poderia enviar o relatório?
+I need to finish the report. | Eu preciso terminar o relatório.
+I want to finish the report. | Eu quero terminar o relatório.
+I have to finish the report. | Eu tenho que terminar o relatório.
+I'm going to finish the report today. | Eu vou terminar o relatório hoje.
+Can you finish the report, please? | Você pode terminar o relatório, por favor?
+I'd like to finish the report. | Eu gostaria de terminar o relatório.
+I forgot to finish the report. | Eu esqueci de terminar o relatório.
+Don't forget to finish the report. | Não esqueça de terminar o relatório.
+Do you want to finish the report? | Você quer terminar o relatório?
+We need to finish the report tomorrow. | Nós precisamos terminar o relatório amanhã.
+Could you finish the report? | Você poderia terminar o relatório?
+I need to clean the house. | Eu preciso limpar a casa.
+I want to clean the house. | Eu quero limpar a casa.
+I have to clean the house. | Eu tenho que limpar a casa.
+I'm going to clean the house today. | Eu vou limpar a casa hoje.
+Can you clean the house, please? | Você pode limpar a casa, por favor?
+I'd like to clean the house. | Eu gostaria de limpar a casa.
+I forgot to clean the house. | Eu esqueci de limpar a casa.
+Don't forget to clean the house. | Não esqueça de limpar a casa.
+Do you want to clean the house? | Você quer limpar a casa?
+We need to clean the house tomorrow. | Nós precisamos limpar a casa amanhã.
+Could you clean the house? | Você poderia limpar a casa?
+I need to wash the dishes. | Eu preciso lavar a louça.
+I want to wash the dishes. | Eu quero lavar a louça.
+I have to wash the dishes. | Eu tenho que lavar a louça.
+I'm going to wash the dishes today. | Eu vou lavar a louça hoje.
+Can you wash the dishes, please? | Você pode lavar a louça, por favor?
+I'd like to wash the dishes. | Eu gostaria de lavar a louça.
+I forgot to wash the dishes. | Eu esqueci de lavar a louça.
+Don't forget to wash the dishes. | Não esqueça de lavar a louça.
+Do you want to wash the dishes? | Você quer lavar a louça?
+We need to wash the dishes tomorrow. | Nós precisamos lavar a louça amanhã.
+Could you wash the dishes? | Você poderia lavar a louça?
+I need to do the shopping. | Eu preciso fazer as compras.
+I want to do the shopping. | Eu quero fazer as compras.
+I have to do the shopping. | Eu tenho que fazer as compras.
+I'm going to do the shopping today. | Eu vou fazer as compras hoje.
+Can you do the shopping, please? | Você pode fazer as compras, por favor?
+I'd like to do the shopping. | Eu gostaria de fazer as compras.
+I forgot to do the shopping. | Eu esqueci de fazer as compras.
+Don't forget to do the shopping. | Não esqueça de fazer as compras.
+Do you want to do the shopping? | Você quer fazer as compras?
+We need to do the shopping tomorrow. | Nós precisamos fazer as compras amanhã.
+Could you do the shopping? | Você poderia fazer as compras?
+I need to cook dinner. | Eu preciso fazer o jantar.
+I want to cook dinner. | Eu quero fazer o jantar.
+I have to cook dinner. | Eu tenho que fazer o jantar.
+I'm going to cook dinner today. | Eu vou fazer o jantar hoje.
+Can you cook dinner, please? | Você pode fazer o jantar, por favor?
+I'd like to cook dinner. | Eu gostaria de fazer o jantar.
+I forgot to cook dinner. | Eu esqueci de fazer o jantar.
+Don't forget to cook dinner. | Não esqueça de fazer o jantar.
+Do you want to cook dinner? | Você quer fazer o jantar?
+We need to cook dinner tomorrow. | Nós precisamos fazer o jantar amanhã.
+Could you cook dinner? | Você poderia fazer o jantar?
+I need to buy some bread. | Eu preciso comprar pão.
+I want to buy some bread. | Eu quero comprar pão.
+I have to buy some bread. | Eu tenho que comprar pão.
+I'm going to buy some bread today. | Eu vou comprar pão hoje.
+Can you buy some bread, please? | Você pode comprar pão, por favor?
+I'd like to buy some bread. | Eu gostaria de comprar pão.
+I forgot to buy some bread. | Eu esqueci de comprar pão.
+Don't forget to buy some bread. | Não esqueça de comprar pão.
+Do you want to buy some bread? | Você quer comprar pão?
+We need to buy some bread tomorrow. | Nós precisamos comprar pão amanhã.
+Could you buy some bread? | Você poderia comprar pão?
+I need to pay the bills. | Eu preciso pagar as contas.
+I want to pay the bills. | Eu quero pagar as contas.
+I have to pay the bills. | Eu tenho que pagar as contas.
+I'm going to pay the bills today. | Eu vou pagar as contas hoje.
+Can you pay the bills, please? | Você pode pagar as contas, por favor?
+I'd like to pay the bills. | Eu gostaria de pagar as contas.
+I forgot to pay the bills. | Eu esqueci de pagar as contas.
+Don't forget to pay the bills. | Não esqueça de pagar as contas.
+Do you want to pay the bills? | Você quer pagar as contas?
+We need to pay the bills tomorrow. | Nós precisamos pagar as contas amanhã.
+Could you pay the bills? | Você poderia pagar as contas?
+I need to take the bus. | Eu preciso pegar o ônibus.
+I want to take the bus. | Eu quero pegar o ônibus.
+I have to take the bus. | Eu tenho que pegar o ônibus.
+I'm going to take the bus today. | Eu vou pegar o ônibus hoje.
+Can you take the bus, please? | Você pode pegar o ônibus, por favor?
+I'd like to take the bus. | Eu gostaria de pegar o ônibus.
+I forgot to take the bus. | Eu esqueci de pegar o ônibus.
+Don't forget to take the bus. | Não esqueça de pegar o ônibus.
+Do you want to take the bus? | Você quer pegar o ônibus?
+We need to take the bus tomorrow. | Nós precisamos pegar o ônibus amanhã.
+Could you take the bus? | Você poderia pegar o ônibus?
+I need to catch the train. | Eu preciso pegar o trem.
+I want to catch the train. | Eu quero pegar o trem.
+I have to catch the train. | Eu tenho que pegar o trem.
+I'm going to catch the train today. | Eu vou pegar o trem hoje.
+Can you catch the train, please? | Você pode pegar o trem, por favor?
+I'd like to catch the train. | Eu gostaria de pegar o trem.
+I forgot to catch the train. | Eu esqueci de pegar o trem.
+Don't forget to catch the train. | Não esqueça de pegar o trem.
+Do you want to catch the train? | Você quer pegar o trem?
+We need to catch the train tomorrow. | Nós precisamos pegar o trem amanhã.
+Could you catch the train? | Você poderia pegar o trem?
+I need to book a hotel. | Eu preciso reservar um hotel.
+I want to book a hotel. | Eu quero reservar um hotel.
+I have to book a hotel. | Eu tenho que reservar um hotel.
+I'm going to book a hotel today. | Eu vou reservar um hotel hoje.
+Can you book a hotel, please? | Você pode reservar um hotel, por favor?
+I'd like to book a hotel. | Eu gostaria de reservar um hotel.
+I forgot to book a hotel. | Eu esqueci de reservar um hotel.
+Don't forget to book a hotel. | Não esqueça de reservar um hotel.
+Do you want to book a hotel? | Você quer reservar um hotel?
+We need to book a hotel tomorrow. | Nós precisamos reservar um hotel amanhã.
+Could you book a hotel? | Você poderia reservar um hotel?
+I need to buy the tickets. | Eu preciso comprar as passagens.
+I want to buy the tickets. | Eu quero comprar as passagens.
+I have to buy the tickets. | Eu tenho que comprar as passagens.
+I'm going to buy the tickets today. | Eu vou comprar as passagens hoje.
+Can you buy the tickets, please? | Você pode comprar as passagens, por favor?
+I'd like to buy the tickets. | Eu gostaria de comprar as passagens.
+I forgot to buy the tickets. | Eu esqueci de comprar as passagens.
+Don't forget to buy the tickets. | Não esqueça de comprar as passagens.
+Do you want to buy the tickets? | Você quer comprar as passagens?
+We need to buy the tickets tomorrow. | Nós precisamos comprar as passagens amanhã.
+Could you buy the tickets? | Você poderia comprar as passagens?
+I need to study English. | Eu preciso estudar inglês.
+I want to study English. | Eu quero estudar inglês.
+I have to study English. | Eu tenho que estudar inglês.
+I'm going to study English today. | Eu vou estudar inglês hoje.
+Can you study English, please? | Você pode estudar inglês, por favor?
+I'd like to study English. | Eu gostaria de estudar inglês.
+I forgot to study English. | Eu esqueci de estudar inglês.
+Don't forget to study English. | Não esqueça de estudar inglês.
+Do you want to study English? | Você quer estudar inglês?
+We need to study English tomorrow. | Nós precisamos estudar inglês amanhã.
+Could you study English? | Você poderia estudar inglês?
+I need to practice a lot. | Eu preciso praticar bastante.
+I want to practice a lot. | Eu quero praticar bastante.
+I have to practice a lot. | Eu tenho que praticar bastante.
+I'm going to practice a lot today. | Eu vou praticar bastante hoje.
+Can you practice a lot, please? | Você pode praticar bastante, por favor?
+I'd like to practice a lot. | Eu gostaria de praticar bastante.
+I forgot to practice a lot. | Eu esqueci de praticar bastante.
+Don't forget to practice a lot. | Não esqueça de praticar bastante.
+Do you want to practice a lot? | Você quer praticar bastante?
+We need to practice a lot tomorrow. | Nós precisamos praticar bastante amanhã.
+Could you practice a lot? | Você poderia praticar bastante?
+I need to read this book. | Eu preciso ler este livro.
+I want to read this book. | Eu quero ler este livro.
+I have to read this book. | Eu tenho que ler este livro.
+I'm going to read this book today. | Eu vou ler este livro hoje.
+Can you read this book, please? | Você pode ler este livro, por favor?
+I'd like to read this book. | Eu gostaria de ler este livro.
+I forgot to read this book. | Eu esqueci de ler este livro.
+Don't forget to read this book. | Não esqueça de ler este livro.
+Do you want to read this book? | Você quer ler este livro?
+We need to read this book tomorrow. | Nós precisamos ler este livro amanhã.
+Could you read this book? | Você poderia ler este livro?
+I need to write an email. | Eu preciso escrever um e-mail.
+I want to write an email. | Eu quero escrever um e-mail.
+I have to write an email. | Eu tenho que escrever um e-mail.
+I'm going to write an email today. | Eu vou escrever um e-mail hoje.
+Can you write an email, please? | Você pode escrever um e-mail, por favor?
+I'd like to write an email. | Eu gostaria de escrever um e-mail.
+I forgot to write an email. | Eu esqueci de escrever um e-mail.
+Don't forget to write an email. | Não esqueça de escrever um e-mail.
+Do you want to write an email? | Você quer escrever um e-mail?
+We need to write an email tomorrow. | Nós precisamos escrever um e-mail amanhã.
+Could you write an email? | Você poderia escrever um e-mail?
+I need to fix the computer. | Eu preciso consertar o computador.
+I want to fix the computer. | Eu quero consertar o computador.
+I have to fix the computer. | Eu tenho que consertar o computador.
+I'm going to fix the computer today. | Eu vou consertar o computador hoje.
+Can you fix the computer, please? | Você pode consertar o computador, por favor?
+I'd like to fix the computer. | Eu gostaria de consertar o computador.
+I forgot to fix the computer. | Eu esqueci de consertar o computador.
+Don't forget to fix the computer. | Não esqueça de consertar o computador.
+Do you want to fix the computer? | Você quer consertar o computador?
+We need to fix the computer tomorrow. | Nós precisamos consertar o computador amanhã.
+Could you fix the computer? | Você poderia consertar o computador?
+I need to update the file. | Eu preciso atualizar o arquivo.
+I want to update the file. | Eu quero atualizar o arquivo.
+I have to update the file. | Eu tenho que atualizar o arquivo.
+I'm going to update the file today. | Eu vou atualizar o arquivo hoje.
+Can you update the file, please? | Você pode atualizar o arquivo, por favor?
+I'd like to update the file. | Eu gostaria de atualizar o arquivo.
+I forgot to update the file. | Eu esqueci de atualizar o arquivo.
+Don't forget to update the file. | Não esqueça de atualizar o arquivo.
+Do you want to update the file? | Você quer atualizar o arquivo?
+We need to update the file tomorrow. | Nós precisamos atualizar o arquivo amanhã.
+Could you update the file? | Você poderia atualizar o arquivo?
+I need to check the numbers. | Eu preciso conferir os números.
+I want to check the numbers. | Eu quero conferir os números.
+I have to check the numbers. | Eu tenho que conferir os números.
+I'm going to check the numbers today. | Eu vou conferir os números hoje.
+Can you check the numbers, please? | Você pode conferir os números, por favor?
+I'd like to check the numbers. | Eu gostaria de conferir os números.
+I forgot to check the numbers. | Eu esqueci de conferir os números.
+Don't forget to check the numbers. | Não esqueça de conferir os números.
+Do you want to check the numbers? | Você quer conferir os números?
+We need to check the numbers tomorrow. | Nós precisamos conferir os números amanhã.
+Could you check the numbers? | Você poderia conferir os números?
+I need to prepare the meeting. | Eu preciso preparar a reunião.
+I want to prepare the meeting. | Eu quero preparar a reunião.
+I have to prepare the meeting. | Eu tenho que preparar a reunião.
+I'm going to prepare the meeting today. | Eu vou preparar a reunião hoje.
+Can you prepare the meeting, please? | Você pode preparar a reunião, por favor?
+I'd like to prepare the meeting. | Eu gostaria de preparar a reunião.
+I forgot to prepare the meeting. | Eu esqueci de preparar a reunião.
+Don't forget to prepare the meeting. | Não esqueça de preparar a reunião.
+Do you want to prepare the meeting? | Você quer preparar a reunião?
+We need to prepare the meeting tomorrow. | Nós precisamos preparar a reunião amanhã.
+Could you prepare the meeting? | Você poderia preparar a reunião?
+I need to talk to the team. | Eu preciso falar com a equipe.
+I want to talk to the team. | Eu quero falar com a equipe.
+I have to talk to the team. | Eu tenho que falar com a equipe.
+I'm going to talk to the team today. | Eu vou falar com a equipe hoje.
+Can you talk to the team, please? | Você pode falar com a equipe, por favor?
+I'd like to talk to the team. | Eu gostaria de falar com a equipe.
+I forgot to talk to the team. | Eu esqueci de falar com a equipe.
+Don't forget to talk to the team. | Não esqueça de falar com a equipe.
+Do you want to talk to the team? | Você quer falar com a equipe?
+We need to talk to the team tomorrow. | Nós precisamos falar com a equipe amanhã.
+Could you talk to the team? | Você poderia falar com a equipe?
+I need to sign the document. | Eu preciso assinar o documento.
+I want to sign the document. | Eu quero assinar o documento.
+I have to sign the document. | Eu tenho que assinar o documento.
+I'm going to sign the document today. | Eu vou assinar o documento hoje.
+Can you sign the document, please? | Você pode assinar o documento, por favor?
+I'd like to sign the document. | Eu gostaria de assinar o documento.
+I forgot to sign the document. | Eu esqueci de assinar o documento.
+Don't forget to sign the document. | Não esqueça de assinar o documento.
+Do you want to sign the document? | Você quer assinar o documento?
+We need to sign the document tomorrow. | Nós precisamos assinar o documento amanhã.
+Could you sign the document? | Você poderia assinar o documento?
+I need to print the contract. | Eu preciso imprimir o contrato.
+I want to print the contract. | Eu quero imprimir o contrato.
+I have to print the contract. | Eu tenho que imprimir o contrato.
+I'm going to print the contract today. | Eu vou imprimir o contrato hoje.
+Can you print the contract, please? | Você pode imprimir o contrato, por favor?
+I'd like to print the contract. | Eu gostaria de imprimir o contrato.
+I forgot to print the contract. | Eu esqueci de imprimir o contrato.
+Don't forget to print the contract. | Não esqueça de imprimir o contrato.
+Do you want to print the contract? | Você quer imprimir o contrato?
+We need to print the contract tomorrow. | Nós precisamos imprimir o contrato amanhã.
+Could you print the contract? | Você poderia imprimir o contrato?
+I need to save the file. | Eu preciso salvar o arquivo.
+I want to save the file. | Eu quero salvar o arquivo.
+I have to save the file. | Eu tenho que salvar o arquivo.
+I'm going to save the file today. | Eu vou salvar o arquivo hoje.
+Can you save the file, please? | Você pode salvar o arquivo, por favor?
+I'd like to save the file. | Eu gostaria de salvar o arquivo.
+I forgot to save the file. | Eu esqueci de salvar o arquivo.
+Don't forget to save the file. | Não esqueça de salvar o arquivo.
+Do you want to save the file? | Você quer salvar o arquivo?
+We need to save the file tomorrow. | Nós precisamos salvar o arquivo amanhã.
+Could you save the file? | Você poderia salvar o arquivo?
+I need to drink more water. | Eu preciso beber mais água.
+I want to drink more water. | Eu quero beber mais água.
+I have to drink more water. | Eu tenho que beber mais água.
+I'm going to drink more water today. | Eu vou beber mais água hoje.
+Can you drink more water, please? | Você pode beber mais água, por favor?
+I'd like to drink more water. | Eu gostaria de beber mais água.
+I forgot to drink more water. | Eu esqueci de beber mais água.
+Don't forget to drink more water. | Não esqueça de beber mais água.
+Do you want to drink more water? | Você quer beber mais água?
+We need to drink more water tomorrow. | Nós precisamos beber mais água amanhã.
+Could you drink more water? | Você poderia beber mais água?
+I need to eat something. | Eu preciso comer alguma coisa.
+I want to eat something. | Eu quero comer alguma coisa.
+I have to eat something. | Eu tenho que comer alguma coisa.
+I'm going to eat something today. | Eu vou comer alguma coisa hoje.
+Can you eat something, please? | Você pode comer alguma coisa, por favor?
+I'd like to eat something. | Eu gostaria de comer alguma coisa.
+I forgot to eat something. | Eu esqueci de comer alguma coisa.
+Don't forget to eat something. | Não esqueça de comer alguma coisa.
+Do you want to eat something? | Você quer comer alguma coisa?
+We need to eat something tomorrow. | Nós precisamos comer alguma coisa amanhã.
+Could you eat something? | Você poderia comer alguma coisa?
+I need to rest a little. | Eu preciso descansar um pouco.
+I want to rest a little. | Eu quero descansar um pouco.
+I have to rest a little. | Eu tenho que descansar um pouco.
+I'm going to rest a little today. | Eu vou descansar um pouco hoje.
+Can you rest a little, please? | Você pode descansar um pouco, por favor?
+I'd like to rest a little. | Eu gostaria de descansar um pouco.
+I forgot to rest a little. | Eu esqueci de descansar um pouco.
+Don't forget to rest a little. | Não esqueça de descansar um pouco.
+Do you want to rest a little? | Você quer descansar um pouco?
+We need to rest a little tomorrow. | Nós precisamos descansar um pouco amanhã.
+Could you rest a little? | Você poderia descansar um pouco?
+I need to sleep early. | Eu preciso dormir cedo.
+I want to sleep early. | Eu quero dormir cedo.
+I have to sleep early. | Eu tenho que dormir cedo.
+I'm going to sleep early today. | Eu vou dormir cedo hoje.
+Can you sleep early, please? | Você pode dormir cedo, por favor?
+I'd like to sleep early. | Eu gostaria de dormir cedo.
+I forgot to sleep early. | Eu esqueci de dormir cedo.
+Don't forget to sleep early. | Não esqueça de dormir cedo.
+Do you want to sleep early? | Você quer dormir cedo?
+We need to sleep early tomorrow. | Nós precisamos dormir cedo amanhã.
+Could you sleep early? | Você poderia dormir cedo?
+I need to wake up early. | Eu preciso acordar cedo.
+I want to wake up early. | Eu quero acordar cedo.
+I have to wake up early. | Eu tenho que acordar cedo.
+I'm going to wake up early today. | Eu vou acordar cedo hoje.
+Can you wake up early, please? | Você pode acordar cedo, por favor?
+I'd like to wake up early. | Eu gostaria de acordar cedo.
+I forgot to wake up early. | Eu esqueci de acordar cedo.
+Don't forget to wake up early. | Não esqueça de acordar cedo.
+Do you want to wake up early? | Você quer acordar cedo?
+We need to wake up early tomorrow. | Nós precisamos acordar cedo amanhã.
+Could you wake up early? | Você poderia acordar cedo?
+I need to take a shower. | Eu preciso tomar banho.
+I want to take a shower. | Eu quero tomar banho.
+I have to take a shower. | Eu tenho que tomar banho.
+I'm going to take a shower today. | Eu vou tomar banho hoje.
+Can you take a shower, please? | Você pode tomar banho, por favor?
+I'd like to take a shower. | Eu gostaria de tomar banho.
+I forgot to take a shower. | Eu esqueci de tomar banho.
+Don't forget to take a shower. | Não esqueça de tomar banho.
+Do you want to take a shower? | Você quer tomar banho?
+We need to take a shower tomorrow. | Nós precisamos tomar banho amanhã.
+Could you take a shower? | Você poderia tomar banho?
+I need to walk in the park. | Eu preciso caminhar no parque.
+I want to walk in the park. | Eu quero caminhar no parque.
+I have to walk in the park. | Eu tenho que caminhar no parque.
+I'm going to walk in the park today. | Eu vou caminhar no parque hoje.
+Can you walk in the park, please? | Você pode caminhar no parque, por favor?
+I'd like to walk in the park. | Eu gostaria de caminhar no parque.
+I forgot to walk in the park. | Eu esqueci de caminhar no parque.
+Don't forget to walk in the park. | Não esqueça de caminhar no parque.
+Do you want to walk in the park? | Você quer caminhar no parque?
+We need to walk in the park tomorrow. | Nós precisamos caminhar no parque amanhã.
+Could you walk in the park? | Você poderia caminhar no parque?
+I need to go for a walk. | Eu preciso dar uma caminhada.
+I want to go for a walk. | Eu quero dar uma caminhada.
+I have to go for a walk. | Eu tenho que dar uma caminhada.
+I'm going to go for a walk today. | Eu vou dar uma caminhada hoje.
+Can you go for a walk, please? | Você pode dar uma caminhada, por favor?
+I'd like to go for a walk. | Eu gostaria de dar uma caminhada.
+I forgot to go for a walk. | Eu esqueci de dar uma caminhada.
+Don't forget to go for a walk. | Não esqueça de dar uma caminhada.
+Do you want to go for a walk? | Você quer dar uma caminhada?
+We need to go for a walk tomorrow. | Nós precisamos dar uma caminhada amanhã.
+Could you go for a walk? | Você poderia dar uma caminhada?
+I need to visit my family. | Eu preciso visitar minha família.
+I want to visit my family. | Eu quero visitar minha família.
+I have to visit my family. | Eu tenho que visitar minha família.
+I'm going to visit my family today. | Eu vou visitar minha família hoje.
+Can you visit my family, please? | Você pode visitar minha família, por favor?
+I'd like to visit my family. | Eu gostaria de visitar minha família.
+I forgot to visit my family. | Eu esqueci de visitar minha família.
+Don't forget to visit my family. | Não esqueça de visitar minha família.
+Do you want to visit my family? | Você quer visitar minha família?
+We need to visit my family tomorrow. | Nós precisamos visitar minha família amanhã.
+Could you visit my family? | Você poderia visitar minha família?
+I need to watch a movie. | Eu preciso assistir a um filme.
+I want to watch a movie. | Eu quero assistir a um filme.
+I have to watch a movie. | Eu tenho que assistir a um filme.
+I'm going to watch a movie today. | Eu vou assistir a um filme hoje.
+Can you watch a movie, please? | Você pode assistir a um filme, por favor?
+I'd like to watch a movie. | Eu gostaria de assistir a um filme.
+I forgot to watch a movie. | Eu esqueci de assistir a um filme.
+Don't forget to watch a movie. | Não esqueça de assistir a um filme.
+Do you want to watch a movie? | Você quer assistir a um filme?
+We need to watch a movie tomorrow. | Nós precisamos assistir a um filme amanhã.
+Could you watch a movie? | Você poderia assistir a um filme?
+I need to listen to music. | Eu preciso ouvir música.
+I want to listen to music. | Eu quero ouvir música.
+I have to listen to music. | Eu tenho que ouvir música.
+I'm going to listen to music today. | Eu vou ouvir música hoje.
+Can you listen to music, please? | Você pode ouvir música, por favor?
+I'd like to listen to music. | Eu gostaria de ouvir música.
+I forgot to listen to music. | Eu esqueci de ouvir música.
+Don't forget to listen to music. | Não esqueça de ouvir música.
+Do you want to listen to music? | Você quer ouvir música?
+We need to listen to music tomorrow. | Nós precisamos ouvir música amanhã.
+Could you listen to music? | Você poderia ouvir música?
+I need to clean the kitchen. | Eu preciso limpar a cozinha.
+I want to clean the kitchen. | Eu quero limpar a cozinha.
+I have to clean the kitchen. | Eu tenho que limpar a cozinha.
+I'm going to clean the kitchen today. | Eu vou limpar a cozinha hoje.
+Can you clean the kitchen, please? | Você pode limpar a cozinha, por favor?
+I'd like to clean the kitchen. | Eu gostaria de limpar a cozinha.
+I forgot to clean the kitchen. | Eu esqueci de limpar a cozinha.
+Don't forget to clean the kitchen. | Não esqueça de limpar a cozinha.
+Do you want to clean the kitchen? | Você quer limpar a cozinha?
+We need to clean the kitchen tomorrow. | Nós precisamos limpar a cozinha amanhã.
+Could you clean the kitchen? | Você poderia limpar a cozinha?
+I need to open the window. | Eu preciso abrir a janela.
+I want to open the window. | Eu quero abrir a janela.
+I have to open the window. | Eu tenho que abrir a janela.
+I'm going to open the window today. | Eu vou abrir a janela hoje.
+Can you open the window, please? | Você pode abrir a janela, por favor?
+I'd like to open the window. | Eu gostaria de abrir a janela.
+I forgot to open the window. | Eu esqueci de abrir a janela.
+Don't forget to open the window. | Não esqueça de abrir a janela.
+Do you want to open the window? | Você quer abrir a janela?
+We need to open the window tomorrow. | Nós precisamos abrir a janela amanhã.
+Could you open the window? | Você poderia abrir a janela?
+I need to close the door. | Eu preciso fechar a porta.
+I want to close the door. | Eu quero fechar a porta.
+I have to close the door. | Eu tenho que fechar a porta.
+I'm going to close the door today. | Eu vou fechar a porta hoje.
+Can you close the door, please? | Você pode fechar a porta, por favor?
+I'd like to close the door. | Eu gostaria de fechar a porta.
+I forgot to close the door. | Eu esqueci de fechar a porta.
+Don't forget to close the door. | Não esqueça de fechar a porta.
+Do you want to close the door? | Você quer fechar a porta?
+We need to close the door tomorrow. | Nós precisamos fechar a porta amanhã.
+Could you close the door? | Você poderia fechar a porta?
+I need to turn off the light. | Eu preciso apagar a luz.
+I want to turn off the light. | Eu quero apagar a luz.
+I have to turn off the light. | Eu tenho que apagar a luz.
+I'm going to turn off the light today. | Eu vou apagar a luz hoje.
+Can you turn off the light, please? | Você pode apagar a luz, por favor?
+I'd like to turn off the light. | Eu gostaria de apagar a luz.
+I forgot to turn off the light. | Eu esqueci de apagar a luz.
+Don't forget to turn off the light. | Não esqueça de apagar a luz.
+Do you want to turn off the light? | Você quer apagar a luz?
+We need to turn off the light tomorrow. | Nós precisamos apagar a luz amanhã.
+Could you turn off the light? | Você poderia apagar a luz?
+I need to turn on the computer. | Eu preciso ligar o computador.
+I want to turn on the computer. | Eu quero ligar o computador.
+I have to turn on the computer. | Eu tenho que ligar o computador.
+I'm going to turn on the computer today. | Eu vou ligar o computador hoje.
+Can you turn on the computer, please? | Você pode ligar o computador, por favor?
+I'd like to turn on the computer. | Eu gostaria de ligar o computador.
+I forgot to turn on the computer. | Eu esqueci de ligar o computador.
+Don't forget to turn on the computer. | Não esqueça de ligar o computador.
+Do you want to turn on the computer? | Você quer ligar o computador?
+We need to turn on the computer tomorrow. | Nós precisamos ligar o computador amanhã.
+Could you turn on the computer? | Você poderia ligar o computador?
+I need to charge the phone. | Eu preciso carregar o celular.
+I want to charge the phone. | Eu quero carregar o celular.
+I have to charge the phone. | Eu tenho que carregar o celular.
+I'm going to charge the phone today. | Eu vou carregar o celular hoje.
+Can you charge the phone, please? | Você pode carregar o celular, por favor?
+I'd like to charge the phone. | Eu gostaria de carregar o celular.
+I forgot to charge the phone. | Eu esqueci de carregar o celular.
+Don't forget to charge the phone. | Não esqueça de carregar o celular.
+Do you want to charge the phone? | Você quer carregar o celular?
+We need to charge the phone tomorrow. | Nós precisamos carregar o celular amanhã.
+Could you charge the phone? | Você poderia carregar o celular?
+I need to send a message. | Eu preciso enviar uma mensagem.
+I want to send a message. | Eu quero enviar uma mensagem.
+I have to send a message. | Eu tenho que enviar uma mensagem.
+I'm going to send a message today. | Eu vou enviar uma mensagem hoje.
+Can you send a message, please? | Você pode enviar uma mensagem, por favor?
+I'd like to send a message. | Eu gostaria de enviar uma mensagem.
+I forgot to send a message. | Eu esqueci de enviar uma mensagem.
+Don't forget to send a message. | Não esqueça de enviar uma mensagem.
+Do you want to send a message? | Você quer enviar uma mensagem?
+We need to send a message tomorrow. | Nós precisamos enviar uma mensagem amanhã.
+Could you send a message? | Você poderia enviar uma mensagem?
+I need to make a phone call. | Eu preciso fazer uma ligação.
+I want to make a phone call. | Eu quero fazer uma ligação.
+I have to make a phone call. | Eu tenho que fazer uma ligação.
+I'm going to make a phone call today. | Eu vou fazer uma ligação hoje.
+Can you make a phone call, please? | Você pode fazer uma ligação, por favor?
+I'd like to make a phone call. | Eu gostaria de fazer uma ligação.
+I forgot to make a phone call. | Eu esqueci de fazer uma ligação.
+Don't forget to make a phone call. | Não esqueça de fazer uma ligação.
+Do you want to make a phone call? | Você quer fazer uma ligação?
+We need to make a phone call tomorrow. | Nós precisamos fazer uma ligação amanhã.
+Could you make a phone call? | Você poderia fazer uma ligação?
+I need to schedule a meeting. | Eu preciso agendar uma reunião.
+I want to schedule a meeting. | Eu quero agendar uma reunião.
+I have to schedule a meeting. | Eu tenho que agendar uma reunião.
+I'm going to schedule a meeting today. | Eu vou agendar uma reunião hoje.
+Can you schedule a meeting, please? | Você pode agendar uma reunião, por favor?
+I'd like to schedule a meeting. | Eu gostaria de agendar uma reunião.
+I forgot to schedule a meeting. | Eu esqueci de agendar uma reunião.
+Don't forget to schedule a meeting. | Não esqueça de agendar uma reunião.
+Do you want to schedule a meeting? | Você quer agendar uma reunião?
+We need to schedule a meeting tomorrow. | Nós precisamos agendar uma reunião amanhã.
+Could you schedule a meeting? | Você poderia agendar uma reunião?
+I need to arrive on time. | Eu preciso chegar no horário.
+I want to arrive on time. | Eu quero chegar no horário.
+I have to arrive on time. | Eu tenho que chegar no horário.
+I'm going to arrive on time today. | Eu vou chegar no horário hoje.
+Can you arrive on time, please? | Você pode chegar no horário, por favor?
+I'd like to arrive on time. | Eu gostaria de chegar no horário.
+I forgot to arrive on time. | Eu esqueci de chegar no horário.
+Don't forget to arrive on time. | Não esqueça de chegar no horário.
+Do you want to arrive on time? | Você quer chegar no horário?
+We need to arrive on time tomorrow. | Nós precisamos chegar no horário amanhã.
+Could you arrive on time? | Você poderia chegar no horário?
+I need to leave early. | Eu preciso sair cedo.
+I want to leave early. | Eu quero sair cedo.
+I have to leave early. | Eu tenho que sair cedo.
+I'm going to leave early today. | Eu vou sair cedo hoje.
+Can you leave early, please? | Você pode sair cedo, por favor?
+I'd like to leave early. | Eu gostaria de sair cedo.
+I forgot to leave early. | Eu esqueci de sair cedo.
+Don't forget to leave early. | Não esqueça de sair cedo.
+Do you want to leave early? | Você quer sair cedo?
+We need to leave early tomorrow. | Nós precisamos sair cedo amanhã.
+Could you leave early? | Você poderia sair cedo?
+I need to start the project. | Eu preciso começar o projeto.
+I want to start the project. | Eu quero começar o projeto.
+I have to start the project. | Eu tenho que começar o projeto.
+I'm going to start the project today. | Eu vou começar o projeto hoje.
+Can you start the project, please? | Você pode começar o projeto, por favor?
+I'd like to start the project. | Eu gostaria de começar o projeto.
+I forgot to start the project. | Eu esqueci de começar o projeto.
+Don't forget to start the project. | Não esqueça de começar o projeto.
+Do you want to start the project? | Você quer começar o projeto?
+We need to start the project tomorrow. | Nós precisamos começar o projeto amanhã.
+Could you start the project? | Você poderia começar o projeto?
+I need to learn something new. | Eu preciso aprender algo novo.
+I want to learn something new. | Eu quero aprender algo novo.
+I have to learn something new. | Eu tenho que aprender algo novo.
+I'm going to learn something new today. | Eu vou aprender algo novo hoje.
+Can you learn something new, please? | Você pode aprender algo novo, por favor?
+I'd like to learn something new. | Eu gostaria de aprender algo novo.
+I forgot to learn something new. | Eu esqueci de aprender algo novo.
+Don't forget to learn something new. | Não esqueça de aprender algo novo.
+Do you want to learn something new? | Você quer aprender algo novo?
+We need to learn something new tomorrow. | Nós precisamos aprender algo novo amanhã.
+Could you learn something new? | Você poderia aprender algo novo?
+I need to ask a question. | Eu preciso fazer uma pergunta.
+I want to ask a question. | Eu quero fazer uma pergunta.
+I have to ask a question. | Eu tenho que fazer uma pergunta.
+I'm going to ask a question today. | Eu vou fazer uma pergunta hoje.
+Can you ask a question, please? | Você pode fazer uma pergunta, por favor?
+I'd like to ask a question. | Eu gostaria de fazer uma pergunta.
+I forgot to ask a question. | Eu esqueci de fazer uma pergunta.
+Don't forget to ask a question. | Não esqueça de fazer uma pergunta.
+Do you want to ask a question? | Você quer fazer uma pergunta?
+We need to ask a question tomorrow. | Nós precisamos fazer uma pergunta amanhã.
+Could you ask a question? | Você poderia fazer uma pergunta?
+I need to solve this problem. | Eu preciso resolver este problema.
+I want to solve this problem. | Eu quero resolver este problema.
+I have to solve this problem. | Eu tenho que resolver este problema.
+I'm going to solve this problem today. | Eu vou resolver este problema hoje.
+Can you solve this problem, please? | Você pode resolver este problema, por favor?
+I'd like to solve this problem. | Eu gostaria de resolver este problema.
+I forgot to solve this problem. | Eu esqueci de resolver este problema.
+Don't forget to solve this problem. | Não esqueça de resolver este problema.
+Do you want to solve this problem? | Você quer resolver este problema?
+We need to solve this problem tomorrow. | Nós precisamos resolver este problema amanhã.
+Could you solve this problem? | Você poderia resolver este problema?
+I need to organize my desk. | Eu preciso organizar minha mesa.
+I want to organize my desk. | Eu quero organizar minha mesa.
+I have to organize my desk. | Eu tenho que organizar minha mesa.
+I'm going to organize my desk today. | Eu vou organizar minha mesa hoje.
+Can you organize my desk, please? | Você pode organizar minha mesa, por favor?
+I'd like to organize my desk. | Eu gostaria de organizar minha mesa.
+I forgot to organize my desk. | Eu esqueci de organizar minha mesa.
+Don't forget to organize my desk. | Não esqueça de organizar minha mesa.
+Do you want to organize my desk? | Você quer organizar minha mesa?
+We need to organize my desk tomorrow. | Nós precisamos organizar minha mesa amanhã.
+Could you organize my desk? | Você poderia organizar minha mesa?
+I need to plan the weekend. | Eu preciso planejar o fim de semana.
+I want to plan the weekend. | Eu quero planejar o fim de semana.
+I have to plan the weekend. | Eu tenho que planejar o fim de semana.
+I'm going to plan the weekend today. | Eu vou planejar o fim de semana hoje.
+Can you plan the weekend, please? | Você pode planejar o fim de semana, por favor?
+I'd like to plan the weekend. | Eu gostaria de planejar o fim de semana.
+I forgot to plan the weekend. | Eu esqueci de planejar o fim de semana.
+Don't forget to plan the weekend. | Não esqueça de planejar o fim de semana.
+Do you want to plan the weekend? | Você quer planejar o fim de semana?
+We need to plan the weekend tomorrow. | Nós precisamos planejar o fim de semana amanhã.
+Could you plan the weekend? | Você poderia planejar o fim de semana?
+I like reading. | Eu gosto de ler.
+I love reading. | Eu adoro ler.
+I don't like reading. | Eu não gosto de ler.
+Do you like reading? | Você gosta de ler?
+I prefer reading. | Eu prefiro ler.
+I like cooking. | Eu gosto de cozinhar.
+I love cooking. | Eu adoro cozinhar.
+I don't like cooking. | Eu não gosto de cozinhar.
+Do you like cooking? | Você gosta de cozinhar?
+I prefer cooking. | Eu prefiro cozinhar.
+I like traveling. | Eu gosto de viajar.
+I love traveling. | Eu adoro viajar.
+I don't like traveling. | Eu não gosto de viajar.
+Do you like traveling? | Você gosta de viajar?
+I prefer traveling. | Eu prefiro viajar.
+I like swimming. | Eu gosto de nadar.
+I love swimming. | Eu adoro nadar.
+I don't like swimming. | Eu não gosto de nadar.
+Do you like swimming? | Você gosta de nadar?
+I prefer swimming. | Eu prefiro nadar.
+I like dancing. | Eu gosto de dançar.
+I love dancing. | Eu adoro dançar.
+I don't like dancing. | Eu não gosto de dançar.
+Do you like dancing? | Você gosta de dançar?
+I prefer dancing. | Eu prefiro dançar.
+I like running. | Eu gosto de correr.
+I love running. | Eu adoro correr.
+I don't like running. | Eu não gosto de correr.
+Do you like running? | Você gosta de correr?
+I prefer running. | Eu prefiro correr.
+I like studying English. | Eu gosto de estudar inglês.
+I love studying English. | Eu adoro estudar inglês.
+I don't like studying English. | Eu não gosto de estudar inglês.
+Do you like studying English? | Você gosta de estudar inglês?
+I prefer studying English. | Eu prefiro estudar inglês.
+I like listening to music. | Eu gosto de ouvir música.
+I love listening to music. | Eu adoro ouvir música.
+I don't like listening to music. | Eu não gosto de ouvir música.
+Do you like listening to music? | Você gosta de ouvir música?
+I prefer listening to music. | Eu prefiro ouvir música.
+I like watching movies. | Eu gosto de assistir a filmes.
+I love watching movies. | Eu adoro assistir a filmes.
+I don't like watching movies. | Eu não gosto de assistir a filmes.
+Do you like watching movies? | Você gosta de assistir a filmes?
+I prefer watching movies. | Eu prefiro assistir a filmes.
+I like playing soccer. | Eu gosto de jogar futebol.
+I love playing soccer. | Eu adoro jogar futebol.
+I don't like playing soccer. | Eu não gosto de jogar futebol.
+Do you like playing soccer? | Você gosta de jogar futebol?
+I prefer playing soccer. | Eu prefiro jogar futebol.
+I like walking in the park. | Eu gosto de caminhar no parque.
+I love walking in the park. | Eu adoro caminhar no parque.
+I don't like walking in the park. | Eu não gosto de caminhar no parque.
+Do you like walking in the park? | Você gosta de caminhar no parque?
+I prefer walking in the park. | Eu prefiro caminhar no parque.
+I like working from home. | Eu gosto de trabalhar de casa.
+I love working from home. | Eu adoro trabalhar de casa.
+I don't like working from home. | Eu não gosto de trabalhar de casa.
+Do you like working from home? | Você gosta de trabalhar de casa?
+I prefer working from home. | Eu prefiro trabalhar de casa.
+I like meeting new people. | Eu gosto de conhecer pessoas novas.
+I love meeting new people. | Eu adoro conhecer pessoas novas.
+I don't like meeting new people. | Eu não gosto de conhecer pessoas novas.
+Do you like meeting new people? | Você gosta de conhecer pessoas novas?
+I prefer meeting new people. | Eu prefiro conhecer pessoas novas.
+I like learning new things. | Eu gosto de aprender coisas novas.
+I love learning new things. | Eu adoro aprender coisas novas.
+I don't like learning new things. | Eu não gosto de aprender coisas novas.
+Do you like learning new things? | Você gosta de aprender coisas novas?
+I prefer learning new things. | Eu prefiro aprender coisas novas.
+I like drinking coffee. | Eu gosto de tomar café.
+I love drinking coffee. | Eu adoro tomar café.
+I don't like drinking coffee. | Eu não gosto de tomar café.
+Do you like drinking coffee? | Você gosta de tomar café?
+I prefer drinking coffee. | Eu prefiro tomar café.
+I like waking up early. | Eu gosto de acordar cedo.
+I love waking up early. | Eu adoro acordar cedo.
+I don't like waking up early. | Eu não gosto de acordar cedo.
+Do you like waking up early? | Você gosta de acordar cedo?
+I prefer waking up early. | Eu prefiro acordar cedo.
+I like talking to friends. | Eu gosto de conversar com amigos.
+I love talking to friends. | Eu adoro conversar com amigos.
+I don't like talking to friends. | Eu não gosto de conversar com amigos.
+Do you like talking to friends? | Você gosta de conversar com amigos?
+I prefer talking to friends. | Eu prefiro conversar com amigos.
+I like writing emails. | Eu gosto de escrever e-mails.
+I love writing emails. | Eu adoro escrever e-mails.
+I don't like writing emails. | Eu não gosto de escrever e-mails.
+Do you like writing emails? | Você gosta de escrever e-mails?
+I prefer writing emails. | Eu prefiro escrever e-mails.
+I like driving. | Eu gosto de dirigir.
+I love driving. | Eu adoro dirigir.
+I don't like driving. | Eu não gosto de dirigir.
+Do you like driving? | Você gosta de dirigir?
+I prefer driving. | Eu prefiro dirigir.
+I like shopping. | Eu gosto de fazer compras.
+I love shopping. | Eu adoro fazer compras.
+I don't like shopping. | Eu não gosto de fazer compras.
+Do you like shopping? | Você gosta de fazer compras?
+I prefer shopping. | Eu prefiro fazer compras.
+I like singing. | Eu gosto de cantar.
+I love singing. | Eu adoro cantar.
+I don't like singing. | Eu não gosto de cantar.
+Do you like singing? | Você gosta de cantar?
+I prefer singing. | Eu prefiro cantar.
+I like painting. | Eu gosto de pintar.
+I love painting. | Eu adoro pintar.
+I don't like painting. | Eu não gosto de pintar.
+Do you like painting? | Você gosta de pintar?
+I prefer painting. | Eu prefiro pintar.
+I like taking photos. | Eu gosto de tirar fotos.
+I love taking photos. | Eu adoro tirar fotos.
+I don't like taking photos. | Eu não gosto de tirar fotos.
+Do you like taking photos? | Você gosta de tirar fotos?
+I prefer taking photos. | Eu prefiro tirar fotos.
+I like playing video games. | Eu gosto de jogar videogame.
+I love playing video games. | Eu adoro jogar videogame.
+I don't like playing video games. | Eu não gosto de jogar videogame.
+Do you like playing video games? | Você gosta de jogar videogame?
+I prefer playing video games. | Eu prefiro jogar videogame.
+I like spending time with my family. | Eu gosto de passar tempo com a minha família.
+I love spending time with my family. | Eu adoro passar tempo com a minha família.
+I don't like spending time with my family. | Eu não gosto de passar tempo com a minha família.
+Do you like spending time with my family? | Você gosta de passar tempo com a minha família?
+I prefer spending time with my family. | Eu prefiro passar tempo com a minha família.
+I'm tired today. | Eu estou cansado hoje.
+Are you tired? | Você está cansado?
+I'm not tired. | Eu não estou cansado.
+I'm happy today. | Eu estou feliz hoje.
+Are you happy? | Você está feliz?
+I'm not happy. | Eu não estou feliz.
+I'm busy today. | Eu estou ocupado hoje.
+Are you busy? | Você está ocupado?
+I'm not busy. | Eu não estou ocupado.
+I'm ready today. | Eu estou pronto hoje.
+Are you ready? | Você está pronto?
+I'm not ready. | Eu não estou pronto.
+I'm hungry today. | Eu estou com fome hoje.
+Are you hungry? | Você está com fome?
+I'm not hungry. | Eu não estou com fome.
+I'm thirsty today. | Eu estou com sede hoje.
+Are you thirsty? | Você está com sede?
+I'm not thirsty. | Eu não estou com sede.
+I'm sick today. | Eu estou doente hoje.
+Are you sick? | Você está doente?
+I'm not sick. | Eu não estou doente.
+I'm nervous today. | Eu estou nervoso hoje.
+Are you nervous? | Você está nervoso?
+I'm not nervous. | Eu não estou nervoso.
+I'm worried today. | Eu estou preocupado hoje.
+Are you worried? | Você está preocupado?
+I'm not worried. | Eu não estou preocupado.
+I'm excited today. | Eu estou animado hoje.
+Are you excited? | Você está animado?
+I'm not excited. | Eu não estou animado.
+I'm bored today. | Eu estou entediado hoje.
+Are you bored? | Você está entediado?
+I'm not bored. | Eu não estou entediado.
+I'm sleepy today. | Eu estou com sono hoje.
+Are you sleepy? | Você está com sono?
+I'm not sleepy. | Eu não estou com sono.
+I'm late today. | Eu estou atrasado hoje.
+Are you late? | Você está atrasado?
+I'm not late. | Eu não estou atrasado.
+I'm lost today. | Eu estou perdido hoje.
+Are you lost? | Você está perdido?
+I'm not lost. | Eu não estou perdido.
+I'm cold today. | Eu estou com frio hoje.
+Are you cold? | Você está com frio?
+I'm not cold. | Eu não estou com frio.
+I'm hot today. | Eu estou com calor hoje.
+Are you hot? | Você está com calor?
+I'm not hot. | Eu não estou com calor.
+I'm afraid today. | Eu estou com medo hoje.
+Are you afraid? | Você está com medo?
+I'm not afraid. | Eu não estou com medo.
+I'm in a hurry today. | Eu estou com pressa hoje.
+Are you in a hurry? | Você está com pressa?
+I'm not in a hurry. | Eu não estou com pressa.
+Good morning, how are you? | Bom dia, como você está?
+Good afternoon. | Boa tarde.
+Good evening. | Boa noite.
+I'm fine, thank you. | Estou bem, obrigado.
+And you? | E você?
+Nice to meet you. | Prazer em conhecer você.
+What's your name? | Qual é o seu nome?
+My name is Anderson. | Meu nome é Anderson.
+Where are you from? | De onde você é?
+I'm from Brazil. | Eu sou do Brasil.
+See you later. | Até mais tarde.
+See you tomorrow. | Até amanhã.
+Have a nice day. | Tenha um bom dia.
+Take care. | Se cuida.
+Welcome. | Bem-vindo.
+How old are you? | Quantos anos você tem?
+Where do you live? | Onde você mora?
+I live in São Paulo. | Eu moro em São Paulo.
+Do you have any brothers or sisters? | Você tem irmãos ou irmãs?
+I have one sister. | Eu tenho uma irmã.
+What do you do? | O que você faz?
+I work in human resources. | Eu trabalho com recursos humanos.
+I'm a lawyer. | Eu sou advogado.
+What do you do in your free time? | O que você faz no seu tempo livre?
+Can you help me with this? | Você pode me ajudar com isso?
+Can you help me, please? | Você pode me ajudar, por favor?
+Can you call me later? | Você pode me ligar mais tarde?
+Can you send me the address? | Você pode me mandar o endereço?
+Can you show me how? | Você pode me mostrar como?
+Can you wait for me? | Você pode esperar por mim?
+Can you give me a hand? | Você pode me dar uma ajuda?
+Could you help me, please? | Você poderia me ajudar, por favor?
+Excuse me, can I ask you something? | Com licença, posso te perguntar uma coisa?
+I have a question. | Eu tenho uma pergunta.
+I don't understand. | Eu não entendo.
+Can you repeat, please? | Você pode repetir, por favor?
+Can you speak more slowly? | Você pode falar mais devagar?
+What does this word mean? | O que essa palavra significa?
+How do you say this in English? | Como se diz isso em inglês?
+How do you spell that? | Como se soletra isso?
+Let me see. | Deixa eu ver.
+Let me think about it. | Deixa eu pensar a respeito.
+That's a good idea. | Essa é uma boa ideia.
+That sounds good. | Isso parece bom.
+I agree with you. | Eu concordo com você.
+I'm not sure. | Eu não tenho certeza.
+I think so. | Eu acho que sim.
+I don't think so. | Eu acho que não.
+It depends. | Depende.
+In my opinion, it's better. | Na minha opinião, é melhor.
+I like it a lot. | Eu gosto muito disso.
+I don't like it very much. | Eu não gosto muito disso.
+How much is it? | Quanto custa?
+It's ten reais. | São dez reais.
+Can I pay by card? | Posso pagar com cartão?
+Can I pay in cash? | Posso pagar em dinheiro?
+I would like a coffee, please. | Eu gostaria de um café, por favor.
+Do you have a smaller size? | Você tem um tamanho menor?
+Do you have a bigger size? | Você tem um tamanho maior?
+I'm just looking, thank you. | Só estou olhando, obrigado.
+Can I have the bill, please? | Pode trazer a conta, por favor?
+That's too expensive. | Isso é muito caro.
+It's cheap. | Está barato.
+Where is the bathroom? | Onde fica o banheiro?
+Where is the exit? | Onde fica a saída?
+How can I get to the station? | Como eu chego à estação?
+Go straight ahead. | Siga em frente.
+Turn left at the corner. | Vire à esquerda na esquina.
+Turn right at the lights. | Vire à direita no sinal.
+It's near here. | É perto daqui.
+It's far from here. | É longe daqui.
+It's on the right. | É à direita.
+It's on the left. | É à esquerda.
+Is it far? | É longe?
+I'm lost. | Eu estou perdido.
+I'd like a table for two. | Eu gostaria de uma mesa para dois.
+What do you recommend? | O que você recomenda?
+The food is delicious. | A comida está deliciosa.
+I don't eat meat. | Eu não como carne.
+Can I have some water, please? | Pode me trazer água, por favor?
+Enjoy your meal. | Bom apetite.
+What time is it? | Que horas são?
+It's three o'clock. | São três horas.
+It's half past two. | São duas e meia.
+What time does it open? | Que horas abre?
+What time does it close? | Que horas fecha?
+It's open until ten. | Fica aberto até as dez.
+Let's meet at six. | Vamos nos encontrar às seis.
+Are you free tomorrow? | Você está livre amanhã?
+I'm busy this afternoon. | Eu estou ocupado esta tarde.
+Let's go to the cinema. | Vamos ao cinema.
+What about Saturday? | Que tal sábado?
+I can't come today. | Eu não posso ir hoje.
+Maybe next week. | Talvez na próxima semana.
+What's the weather like today? | Como está o tempo hoje?
+It's sunny. | Está ensolarado.
+It's raining. | Está chovendo.
+It's very hot. | Está muito quente.
+It's cold today. | Está frio hoje.
+I think it will rain later. | Eu acho que vai chover mais tarde.
+How are you feeling? | Como você está se sentindo?
+I have a headache. | Eu estou com dor de cabeça.
+I need to see a doctor. | Eu preciso ir ao médico.
+I hope you feel better. | Espero que você melhore.
+Don't worry. | Não se preocupe.
+It's not a problem. | Não tem problema.
+I'm sorry, I'm late. | Desculpe, estou atrasado.
+Of course. | Claro.
+No problem at all. | Sem problema nenhum.
+Thank you very much. | Muito obrigado.
+You're welcome. | De nada.
+I'll call you back. | Eu te ligo de volta.
+Hold on a moment, please. | Aguarde um momento, por favor.
+Sorry, you have the wrong number. | Desculpe, você ligou para o número errado.
+I got your message. | Eu recebi sua mensagem.
+I'll text you the details. | Eu te mando os detalhes por mensagem.
+Let me know if you need anything. | Me avise se precisar de algo.
+Can you do me a favor? | Você pode me fazer um favor?
+I need more time. | Eu preciso de mais tempo.
+I'll do it now. | Eu vou fazer isso agora.
+It's almost ready. | Está quase pronto.
+I forgot my keys. | Eu esqueci minhas chaves.
+I lost my phone. | Eu perdi meu celular.
+This is easy. | Isso é fácil.
+This is difficult for me. | Isso é difícil para mim.
+I'm learning little by little. | Eu estou aprendendo aos poucos.
+I'm getting better. | Eu estou melhorando.
+Practice makes perfect. | A prática leva à perfeição.
+What did you do yesterday? | O que você fez ontem?
+I stayed at home. | Eu fiquei em casa.
+I watched a movie. | Eu assisti a um filme.
+I visited my family. | Eu visitei minha família.
+I went to the gym. | Eu fui à academia.
+It was a good day. | Foi um bom dia.
+What are you going to do tomorrow? | O que você vai fazer amanhã?
+I want to travel next month. | Eu quero viajar no próximo mês.
+I hope to learn fast. | Eu espero aprender rápido.
+Let's start now. | Vamos começar agora.
+I'm ready. | Eu estou pronto.
+Wait for me, please. | Espere por mim, por favor.
+I'm coming. | Estou indo.
+Almost there. | Quase lá.
+We're going to be late. | Nós vamos nos atrasar.
+That's all for today. | É tudo por hoje.
+Could you say that again? | Você poderia repetir isso?
+I didn't catch that. | Não entendi isso.
+Just a second. | Só um segundo.
+Here you are. | Aqui está.
+After you. | Você primeiro.
+Same to you. | Igualmente.
+Congratulations! | Parabéns!
+Good luck. | Boa sorte.
+Happy birthday. | Feliz aniversário.
+Cheers! | Saúde!
+It doesn't matter. | Não importa.
+Never mind. | Deixa pra lá.
+I'm on my way. | Estou a caminho.
+Are you sure? | Você tem certeza?
+Of course not. | Claro que não.
+That's right. | Isso mesmo.
+That's wrong. | Isso está errado.
+I think you're right. | Eu acho que você tem razão.
+Let's go. | Vamos.
+Hurry up, please. | Anda logo, por favor.
+Slow down. | Vai com calma.
+Be careful. | Tome cuidado.
+Watch out! | Cuidado!
+What's wrong? | O que houve?
+Are you okay? | Você está bem?
+I feel much better now. | Eu me sinto bem melhor agora.
+Speak up, please. | Fale mais alto, por favor.
+Could you write it down? | Você poderia anotar?
+Where do you work? | Onde você trabalha?
+How was your day? | Como foi o seu dia?
+It was very busy. | Foi muito corrido.
+What's your phone number? | Qual é o seu telefone?
+What's your email? | Qual é o seu e-mail?
+Can I help you? | Posso te ajudar?
+I'm looking for a pharmacy. | Estou procurando uma farmácia.
+Is there a bank near here? | Tem um banco perto daqui?
+Is there a problem? | Tem algum problema?
+There is a meeting at three. | Tem uma reunião às três.
+There is a message for you. | Tem uma mensagem para você.
+There are many people here. | Tem muita gente aqui.
+I have a lot of work today. | Eu tenho muito trabalho hoje.
+See you next time. | Até a próxima.
 Good morning, how are you? | Bom dia, como você está?
 I'm fine, thank you. | Estou bem, obrigado.
 Nice to meet you. | Prazer em conhecer você.
