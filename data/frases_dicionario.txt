@@ -1,3 +1,146 @@
+Good morning, how are you? | Bom dia, como você está?
+I'm fine, thank you. | Estou bem, obrigado.
+Nice to meet you. | Prazer em conhecer você.
+What's your name? | Qual é o seu nome?
+My name is Anderson. | Meu nome é Anderson.
+Where are you from? | De onde você é?
+I'm from Brazil. | Eu sou do Brasil.
+See you later. | Até mais tarde.
+Have a nice day. | Tenha um bom dia.
+Take care. | Se cuida.
+I get up at seven. | Eu acordo às sete.
+I have breakfast at home. | Eu tomo café da manhã em casa.
+I go to work by bus. | Eu vou para o trabalho de ônibus.
+I start work at nine. | Eu começo a trabalhar às nove.
+I have lunch at noon. | Eu almoço ao meio-dia.
+I finish work at six. | Eu termino o trabalho às seis.
+I go to bed late. | Eu vou dormir tarde.
+I study English every day. | Eu estudo inglês todos os dias.
+I usually drink coffee in the morning. | Eu costumo tomar café de manhã.
+On weekends I rest at home. | Nos fins de semana eu descanso em casa.
+What do you do? | O que você faz?
+I work in human resources. | Eu trabalho com recursos humanos.
+I'm a lawyer. | Eu sou advogado.
+I have a meeting today. | Eu tenho uma reunião hoje.
+Can you help me with this? | Você pode me ajudar com isso?
+I need to send an email. | Eu preciso enviar um e-mail.
+I will check and tell you. | Vou verificar e te aviso.
+Let me see. | Deixa eu ver.
+I don't understand. | Eu não entendo.
+Can you repeat, please? | Você pode repetir, por favor?
+Can you speak more slowly? | Você pode falar mais devagar?
+What does this word mean? | O que essa palavra significa?
+How do you say this in English? | Como se diz isso em inglês?
+I have a question. | Eu tenho uma pergunta.
+That's a good idea. | Essa é uma boa ideia.
+How much is it? | Quanto custa?
+It's ten reais. | São dez reais.
+Can I pay by card? | Posso pagar com cartão?
+I would like a coffee, please. | Eu gostaria de um café, por favor.
+Do you have a smaller size? | Você tem um tamanho menor?
+I'm just looking, thank you. | Só estou olhando, obrigado.
+Can I have the bill, please? | Pode trazer a conta, por favor?
+Where is the bathroom? | Onde fica o banheiro?
+How can I get to the station? | Como eu chego à estação?
+Go straight ahead. | Siga em frente.
+Turn left at the corner. | Vire à esquerda na esquina.
+It's near here. | É perto daqui.
+It's on the right. | É à direita.
+Is it far? | É longe?
+I'm lost. | Eu estou perdido.
+I'd like a table for two. | Eu gostaria de uma mesa para dois.
+What do you recommend? | O que você recomenda?
+I'm hungry. | Eu estou com fome.
+I'm thirsty. | Eu estou com sede.
+The food is delicious. | A comida está deliciosa.
+I don't eat meat. | Eu não como carne.
+Can I have some water, please? | Pode me trazer água, por favor?
+What time does it open? | Que horas abre?
+What time does it close? | Que horas fecha?
+It's open until ten. | Fica aberto até as dez.
+Let's meet at six. | Vamos nos encontrar às seis.
+Are you free tomorrow? | Você está livre amanhã?
+I'm busy this afternoon. | Eu estou ocupado esta tarde.
+Let's go to the cinema. | Vamos ao cinema.
+What about Saturday? | Que tal sábado?
+I can't come today. | Eu não posso ir hoje.
+Maybe next week. | Talvez na próxima semana.
+What's the weather like today? | Como está o tempo hoje?
+It's sunny. | Está ensolarado.
+It's raining. | Está chovendo.
+It's very hot. | Está muito quente.
+It's cold today. | Está frio hoje.
+I think it will rain later. | Eu acho que vai chover mais tarde.
+How are you feeling? | Como você está se sentindo?
+I'm tired. | Eu estou cansado.
+I'm a little sick. | Eu estou um pouco doente.
+I have a headache. | Eu estou com dor de cabeça.
+I need to see a doctor. | Eu preciso ir ao médico.
+I hope you feel better. | Espero que você melhore.
+Don't worry. | Não se preocupe.
+It's not a problem. | Não tem problema.
+I'm sorry, I'm late. | Desculpe, estou atrasado.
+Excuse me, can I ask you something? | Com licença, posso te perguntar uma coisa?
+Of course. | Claro.
+No problem at all. | Sem problema nenhum.
+Thank you very much. | Muito obrigado.
+You're welcome. | De nada.
+Can you call me later? | Você pode me ligar mais tarde?
+I'll call you back. | Eu te ligo de volta.
+Hold on a moment, please. | Aguarde um momento, por favor.
+Sorry, you have the wrong number. | Desculpe, você ligou para o número errado.
+Can you send me the address? | Você pode me mandar o endereço?
+I got your message. | Eu recebi sua mensagem.
+I'll text you the details. | Eu te mando os detalhes por mensagem.
+Let me know if you need anything. | Me avise se precisar de algo.
+I agree with you. | Eu concordo com você.
+I'm not sure. | Eu não tenho certeza.
+I think so. | Eu acho que sim.
+I don't think so. | Eu acho que não.
+That sounds good. | Isso parece bom.
+I like it a lot. | Eu gosto muito disso.
+I don't like it very much. | Eu não gosto muito disso.
+It depends. | Depende.
+In my opinion, it's better. | Na minha opinião, é melhor.
+Can you do me a favor? | Você pode me fazer um favor?
+Could you wait a minute? | Você poderia esperar um minuto?
+I need more time. | Eu preciso de mais tempo.
+Let me think about it. | Deixa eu pensar a respeito.
+I'll do it now. | Eu vou fazer isso agora.
+It's almost ready. | Está quase pronto.
+I forgot my keys. | Eu esqueci minhas chaves.
+I lost my phone. | Eu perdi meu celular.
+Can you show me how? | Você pode me mostrar como?
+This is easy. | Isso é fácil.
+This is difficult for me. | Isso é difícil para mim.
+I'm learning little by little. | Eu estou aprendendo aos poucos.
+I'm getting better. | Eu estou melhorando.
+Practice makes perfect. | A prática leva à perfeição.
+What did you do yesterday? | O que você fez ontem?
+I stayed at home. | Eu fiquei em casa.
+I watched a movie. | Eu assisti a um filme.
+I visited my family. | Eu visitei minha família.
+I went to the gym. | Eu fui à academia.
+It was a good day. | Foi um bom dia.
+What are you going to do tomorrow? | O que você vai fazer amanhã?
+I'm going to work in the morning. | Eu vou trabalhar de manhã.
+I'm going to study at night. | Eu vou estudar à noite.
+I want to travel next month. | Eu quero viajar no próximo mês.
+I hope to learn fast. | Eu espero aprender rápido.
+Let's start now. | Vamos começar agora.
+I'm ready. | Eu estou pronto.
+Wait for me, please. | Espere por mim, por favor.
+I'm coming. | Estou indo.
+Almost there. | Quase lá.
+We're going to be late. | Nós vamos nos atrasar.
+Where do you live? | Onde você mora?
+I live in São Paulo. | Eu moro em São Paulo.
+Do you have any brothers or sisters? | Você tem irmãos ou irmãs?
+I have one sister. | Eu tenho uma irmã.
+How old are you? | Quantos anos você tem?
+What do you do in your free time? | O que você faz no seu tempo livre?
+I like reading and walking. | Eu gosto de ler e caminhar.
+That's all for today. | É tudo por hoje.
 Effectively, you can | Basicamente, podemos
 think of as 50% of our effort is on scaling | pensar que 50% do nosso esforço é voltado para a expansão
 50% of it is on innovation | 50% é voltado para a inovação
