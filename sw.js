@@ -1,4 +1,4 @@
-const CACHE_NAME = "lousa-fluencia-ponte-v9-5";
+const CACHE_NAME = "lousa-fluencia-ponte-v9-6";
 const ASSETS = [
   "./",
   "./index.html",
