@@ -4,6 +4,7 @@ const ERROR_KEY = "lousaFluenciaPonte.errorBank.v1";
 const DICTIONARY_KEY = "lousaFluenciaPonte.importedDictionary.v1";
 const HOVER_SPEAK_KEY = "lousaFluenciaPonte.hoverSpeak.v1";
 const ONBOARDING_KEY = "lousaFluenciaPonte.onboardingDone.v1";
+const KEEPALIVE_WAV = "data:audio/wav;base64,UklGRiQZAABXQVZFZm10IBAAAAABAAEAQB8AAIA+AAACABAAZGF0YQAZAAAAAAgAEAAYAB8AJQAqAC0AMAAwADAALgAqACYAIAAZABIACQABAPr/8f/q/+L/3P/X/9P/0f/Q/9D/0v/V/9n/3//m/+3/9f/9/wUADQAVABwAIwAoACwALwAwADAALwAsACgAIgAcABQADAAEAP3/9P/s/+X/3v/Z/9T/0f/Q/9D/0f/U/9j/3f/j/+r/8v/6/wIACgASABoAIAAmACsALgAwADAALwAtACkAJAAeABcADwAHAAAA9//v/+j/4f/b/9b/0v/Q/8//0P/S/9b/2//h/+j/7//3/wAABwAPABcAHgAkACkALQAvADAAMAAuACsAJgAgABoAEgAKAAIA+v/y/+r/4//d/9j/1P/R/9D/0P/R/9T/2f/e/+X/7P/0//3/BAAMABQAHAAiACgALAAvADAAMAAvACwAKAAjABwAFQANAAUA/f/1/+3/5v/f/9n/1f/S/9D/0P/R/9P/1//c/+L/6v/x//r/AQAJABIAGQAgACYAKgAuADAAMAAwAC0AKgAlAB8AGAAQAAgAAAD4//D/6P/h/9v/1v/T/9D/0P/Q/9L/1v/a/+D/5//u//f///8GAA8AFgAeACQAKQAtAC8AMAAwAC4AKwAnACEAGgATAAsAAwD7//P/6//k/93/2P/U/9H/0P/Q/9H/1P/Y/97/5P/s//T//P8DAAwAFAAbACIAJwAsAC8AMAAwAC8ALAAoACMAHQAWAA4ABgD+//b/7v/m/+D/2v/V/9L/0P/Q/9H/0//X/9z/4v/p//H/+f8AAAkAEQAYAB8AJQAqAC4AMAAxADAALgAqACUAHwAYABEACQAAAPn/8f/p/+L/3P/X/9P/0f/Q/9D/0v/V/9r/4P/m/+7/9v/+/wYADgAWAB0AIwAoACwALwAwADAALwAsACcAIgAbABQADAADAPz/9P/s/+T/3v/Y/9T/0f/Q/9D/0f/U/9j/3f/k/+v/8//7/wMACwATABoAIQAnACsALgAwADAALwAtACkAJAAeABYADwAGAP//9//u/+f/4P/a/9b/0v/Q/9D/0P/T/9b/2//h/+j/8P/4/wAACAAQABgAHwAlACoALQAwADAAMAAuACoAJgAgABkAEgAJAAEA+v/x/+r/4v/c/9f/0//R/9D/0P/S/9X/2f/f/+b/7f/1//3/BQANABUAHAAjACgALAAvADAAMAAvACwAKAAiABwAFAAMAAQA/f/0/+z/5f/e/9n/1P/R/9D/0P/R/9T/2P/d/+P/6v/y//r/AgAKABIAGgAgACYAKwAuADAAMAAvAC0AKQAkAB4AFwAPAAcAAAD3/+//6P/h/9v/1v/S/9D/z//Q/9L/1v/b/+H/6P/v//f/AAAHAA8AFwAeACQAKQAtAC8AMAAwAC4AKwAmACAAGgASAAoAAgD6//L/6v/j/93/2P/U/9H/0P/Q/9H/1P/Z/97/5f/s//T//f8EAAwAFAAcACIAKAAsAC8AMAAwAC8ALAAoACMAHAAVAA0ABQD9//X/7f/m/9//2f/V/9L/0P/Q/9H/0//X/9z/4v/q//H/+v8BAAkAEgAZACAAJgAqAC4AMAAwADAALQAqACUAHwAYABAACAAAAPj/8P/o/+H/2//W/9P/0P/Q/9D/0v/W/9r/4P/n/+7/9////wYADwAWAB4AJAApAC0ALwAwADAALgArACcAIQAaABMACwADAPv/8//r/+T/3f/Y/9T/0f/Q/9D/0f/U/9j/3v/k/+z/9P/8/wMADAAUABsAIgAnACwALwAwADAALwAsACgAIwAdABYADgAGAP7/9v/u/+b/4P/a/9X/0v/Q/9D/0f/T/9f/3P/i/+n/8f/5/wAACQARABgAHwAlACoALgAwADEAMAAuACoAJQAfABgAEQAJAAAA+f/x/+n/4v/c/9f/0//R/9D/0P/S/9X/2v/g/+b/7v/2//7/BgAOABYAHQAjACgALAAvADAAMAAvACwAJwAiABsAFAAMAAMA/P/0/+z/5P/e/9j/1P/R/9D/0P/R/9T/2P/d/+T/6//z//v/AwALABMAGgAhACcAKwAuADAAMAAvAC0AKQAkAB4AFgAPAAYA///3/+7/5//g/9r/1v/S/9D/0P/Q/9P/1v/b/+H/6P/w//j/AAAIABAAGAAfACUAKgAtADAAMAAwAC4AKgAmACAAGQASAAkAAQD6//H/6v/i/9z/1//T/9H/0P/Q/9L/1f/Z/9//5v/t//X//f8FAA0AFQAcACMAKAAsAC8AMAAwAC8ALAAoACIAHAAUAAwABAD9//T/7P/l/97/2f/U/9H/0P/Q/9H/1P/Y/93/4//q//L/+v8CAAoAEgAaACAAJgArAC4AMAAwAC8ALQApACQAHgAXAA8ABwAAAPf/7//o/+H/2//W/9L/0P/P/9D/0v/W/9v/4f/o/+//9/8AAAcADwAXAB4AJAApAC0ALwAwADAALgArACYAIAAaABIACgACAPr/8v/q/+P/3f/Y/9T/0f/Q/9D/0f/U/9n/3v/l/+z/9P/9/wQADAAUABwAIgAoACwALwAwADAALwAsACgAIwAcABUADQAFAP3/9f/t/+b/3//Z/9X/0v/Q/9D/0f/T/9f/3P/i/+r/8f/6/wEACQASABkAIAAmACoALgAwADAAMAAtACoAJQAfABgAEAAIAAAA+P/w/+j/4f/b/9b/0//Q/9D/0P/S/9b/2v/g/+f/7v/3////BgAPABYAHgAkACkALQAvADAAMAAuACsAJwAhABoAEwALAAMA+//z/+v/5P/d/9j/1P/R/9D/0P/R/9T/2P/e/+T/7P/0//z/AwAMABQAGwAiACcALAAvADAAMAAvACwAKAAjAB0AFgAOAAYA/v/2/+7/5v/g/9r/1f/S/9D/0P/R/9P/1//c/+L/6f/x//n/AAAJABEAGAAfACUAKgAuADAAMQAwAC4AKgAlAB8AGAARAAkAAAD5//H/6f/i/9z/1//T/9H/0P/Q/9L/1f/a/+D/5v/u//b//v8GAA4AFgAdACMAKAAsAC8AMAAwAC8ALAAnACIAGwAUAAwAAwD8//T/7P/k/97/2P/U/9H/0P/Q/9H/1P/Y/93/5P/r//P/+/8DAAsAEwAaACEAJwArAC4AMAAwAC8ALQApACQAHgAWAA8ABgD///f/7v/n/+D/2v/W/9L/0P/Q/9D/0//W/9v/4f/o//D/+P8AAAgAEAAYAB8AJQAqAC0AMAAwADAALgAqACYAIAAZABIACQABAPr/8f/q/+L/3P/X/9P/0f/Q/9D/0v/V/9n/3//m/+3/9f/9/wUADQAVABwAIwAoACwALwAwADAALwAsACgAIgAcABQADAAEAP3/9P/s/+X/3v/Z/9T/0f/Q/9D/0f/U/9j/3f/j/+r/8v/6/wIACgASABoAIAAmACsALgAwADAALwAtACkAJAAeABcADwAHAAAA9//v/+j/4f/b/9b/0v/Q/8//0P/S/9b/2//h/+j/7//3/wAABwAPABcAHgAkACkALQAvADAAMAAuACsAJgAgABoAEgAKAAIA+v/y/+r/4//d/9j/1P/R/9D/0P/R/9T/2f/e/+X/7P/0//3/BAAMABQAHAAiACgALAAvADAAMAAvACwAKAAjABwAFQANAAUA/f/1/+3/5v/f/9n/1f/S/9D/0P/R/9P/1//c/+L/6v/x//r/AQAJABIAGQAgACYAKgAuADAAMAAwAC0AKgAlAB8AGAAQAAgAAAD4//D/6P/h/9v/1v/T/9D/0P/Q/9L/1v/a/+D/5//u//f///8GAA8AFgAeACQAKQAtAC8AMAAwAC4AKwAnACEAGgATAAsAAwD7//P/6//k/93/2P/U/9H/0P/Q/9H/1P/Y/97/5P/s//T//P8DAAwAFAAbACIAJwAsAC8AMAAwAC8ALAAoACMAHQAWAA4ABgD+//b/7v/m/+D/2v/V/9L/0P/Q/9H/0//X/9z/4v/p//H/+f8AAAkAEQAYAB8AJQAqAC4AMAAxADAALgAqACUAHwAYABEACQAAAPn/8f/p/+L/3P/X/9P/0f/Q/9D/0v/V/9r/4P/m/+7/9v/+/wYADgAWAB0AIwAoACwALwAwADAALwAsACcAIgAbABQADAADAPz/9P/s/+T/3v/Y/9T/0f/Q/9D/0f/U/9j/3f/k/+v/8//7/wMACwATABoAIQAnACsALgAwADAALwAtACkAJAAeABYADwAGAP//9//u/+f/4P/a/9b/0v/Q/9D/0P/T/9b/2//h/+j/8P/4/wAACAAQABgAHwAlACoALQAwADAAMAAuACoAJgAgABkAEgAJAAEA+v/x/+r/4v/c/9f/0//R/9D/0P/S/9X/2f/f/+b/7f/1//3/BQANABUAHAAjACgALAAvADAAMAAvACwAKAAiABwAFAAMAAQA/f/0/+z/5f/e/9n/1P/R/9D/0P/R/9T/2P/d/+P/6v/y//r/AgAKABIAGgAgACYAKwAuADAAMAAvAC0AKQAkAB4AFwAPAAcAAAD3/+//6P/h/9v/1v/S/9D/z//Q/9L/1v/b/+H/6P/v//f/AAAHAA8AFwAeACQAKQAtAC8AMAAwAC4AKwAmACAAGgASAAoAAgD6//L/6v/j/93/2P/U/9H/0P/Q/9H/1P/Z/97/5f/s//T//f8EAAwAFAAcACIAKAAsAC8AMAAwAC8ALAAoACMAHAAVAA0ABQD9//X/7f/m/9//2f/V/9L/0P/Q/9H/0//X/9z/4v/q//H/+v8BAAkAEgAZACAAJgAqAC4AMAAwADAALQAqACUAHwAYABAACAAAAPj/8P/o/+H/2//W/9P/0P/Q/9D/0v/W/9r/4P/n/+7/9////wYADwAWAB4AJAApAC0ALwAwADAALgArACcAIQAaABMACwADAPv/8//r/+T/3f/Y/9T/0f/Q/9D/0f/U/9j/3v/k/+z/9P/8/wMADAAUABsAIgAnACwALwAwADAALwAsACgAIwAdABYADgAGAP7/9v/u/+b/4P/a/9X/0v/Q/9D/0f/T/9f/3P/i/+n/8f/5/wAACQARABgAHwAlACoALgAwADEAMAAuACoAJQAfABgAEQAJAAAA+f/x/+n/4v/c/9f/0//R/9D/0P/S/9X/2v/g/+b/7v/2//7/BgAOABYAHQAjACgALAAvADAAMAAvACwAJwAiABsAFAAMAAMA/P/0/+z/5P/e/9j/1P/R/9D/0P/R/9T/2P/d/+T/6//z//v/AwALABMAGgAhACcAKwAuADAAMAAvAC0AKQAkAB4AFgAPAAYA///3/+7/5//g/9r/1v/S/9D/0P/Q/9P/1v/b/+H/6P/w//j/AAAIABAAGAAfACUAKgAtADAAMAAwAC4AKgAmACAAGQASAAkAAQD6//H/6v/i/9z/1//T/9H/0P/Q/9L/1f/Z/9//5v/t//X//f8FAA0AFQAcACMAKAAsAC8AMAAwAC8ALAAoACIAHAAUAAwABAD9//T/7P/l/97/2f/U/9H/0P/Q/9H/1P/Y/93/4//q//L/+v8CAAoAEgAaACAAJgArAC4AMAAwAC8ALQApACQAHgAXAA8ABwAAAPf/7//o/+H/2//W/9L/0P/P/9D/0v/W/9v/4f/o/+//9/8AAAcADwAXAB4AJAApAC0ALwAwADAALgArACYAIAAaABIACgACAPr/8v/q/+P/3f/Y/9T/0f/Q/9D/0f/U/9n/3v/l/+z/9P/9/wQADAAUABwAIgAoACwALwAwADAALwAsACgAIwAcABUADQAFAP3/9f/t/+b/3//Z/9X/0v/Q/9D/0f/T/9f/3P/i/+r/8f/6/wEACQASABkAIAAmACoALgAwADAAMAAtACoAJQAfABgAEAAIAAAA+P/w/+j/4f/b/9b/0//Q/9D/0P/S/9b/2v/g/+f/7v/3////BgAPABYAHgAkACkALQAvADAAMAAuACsAJwAhABoAEwALAAMA+//z/+v/5P/d/9j/1P/R/9D/0P/R/9T/2P/e/+T/7P/0//z/AwAMABQAGwAiACcALAAvADAAMAAvACwAKAAjAB0AFgAOAAYA/v/2/+7/5v/g/9r/1f/S/9D/0P/R/9P/1//c/+L/6f/x//n/AAAJABEAGAAfACUAKgAuADAAMQAwAC4AKgAlAB8AGAARAAkAAAD5//H/6f/i/9z/1//T/9H/0P/Q/9L/1f/a/+D/5v/u//b//v8GAA4AFgAdACMAKAAsAC8AMAAwAC8ALAAnACIAGwAUAAwAAwD8//T/7P/k/97/2P/U/9H/0P/Q/9H/1P/Y/93/5P/r//P/+/8DAAsAEwAaACEAJwArAC4AMAAwAC8ALQApACQAHgAWAA8ABgD///f/7v/n/+D/2v/W/9L/0P/Q/9D/0//W/9v/4f/o//D/+P8AAAgAEAAYAB8AJQAqAC0AMAAwADAALgAqACYAIAAZABIACQABAPr/8f/q/+L/3P/X/9P/0f/Q/9D/0v/V/9n/3//m/+3/9f/9/wUADQAVABwAIwAoACwALwAwADAALwAsACgAIgAcABQADAAEAP3/9P/s/+X/3v/Z/9T/0f/Q/9D/0f/U/9j/3f/j/+r/8v/6/wIACgASABoAIAAmACsALgAwADAALwAtACkAJAAeABcADwAHAAAA9//v/+j/4f/b/9b/0v/Q/8//0P/S/9b/2//h/+j/7//3/wAABwAPABcAHgAkACkALQAvADAAMAAuACsAJgAgABoAEgAKAAIA+v/y/+r/4//d/9j/1P/R/9D/0P/R/9T/2f/e/+X/7P/0//3/BAAMABQAHAAiACgALAAvADAAMAAvACwAKAAjABwAFQANAAUA/f/1/+3/5v/f/9n/1f/S/9D/0P/R/9P/1//c/+L/6v/x//r/AQAJABIAGQAgACYAKgAuADAAMAAwAC0AKgAlAB8AGAAQAAgAAAD4//D/6P/h/9v/1v/T/9D/0P/Q/9L/1v/a/+D/5//u//f///8GAA8AFgAeACQAKQAtAC8AMAAwAC4AKwAnACEAGgATAAsAAwD7//P/6//k/93/2P/U/9H/0P/Q/9H/1P/Y/97/5P/s//T//P8DAAwAFAAbACIAJwAsAC8AMAAwAC8ALAAoACMAHQAWAA4ABgD+//b/7v/m/+D/2v/V/9L/0P/Q/9H/0//X/9z/4v/p//H/+f8AAAkAEQAYAB8AJQAqAC4AMAAxADAALgAqACUAHwAYABEACQAAAPn/8f/p/+L/3P/X/9P/0f/Q/9D/0v/V/9r/4P/m/+7/9v/+/wYADgAWAB0AIwAoACwALwAwADAALwAsACcAIgAbABQADAADAPz/9P/s/+T/3v/Y/9T/0f/Q/9D/0f/U/9j/3f/k/+v/8//7/wMACwATABoAIQAnACsALgAwADAALwAtACkAJAAeABYADwAGAP//9//u/+f/4P/a/9b/0v/Q/9D/0P/T/9b/2//h/+j/8P/4/wAACAAQABgAHwAlACoALQAwADAAMAAuACoAJgAgABkAEgAJAAEA+v/x/+r/4v/c/9f/0//R/9D/0P/S/9X/2f/f/+b/7f/1//3/BQANABUAHAAjACgALAAvADAAMAAvACwAKAAiABwAFAAMAAQA/f/0/+z/5f/e/9n/1P/R/9D/0P/R/9T/2P/d/+P/6v/y//r/AgAKABIAGgAgACYAKwAuADAAMAAvAC0AKQAkAB4AFwAPAAcAAAD3/+//6P/h/9v/1v/S/9D/z//Q/9L/1v/b/+H/6P/v//f/AAAHAA8AFwAeACQAKQAtAC8AMAAwAC4AKwAmACAAGgASAAoAAgD6//L/6v/j/93/2P/U/9H/0P/Q/9H/1P/Z/97/5f/s//T//f8EAAwAFAAcACIAKAAsAC8AMAAwAC8ALAAoACMAHAAVAA0ABQD9//X/7f/m/9//2f/V/9L/0P/Q/9H/0//X/9z/4v/q//H/+v8BAAkAEgAZACAAJgAqAC4AMAAwADAALQAqACUAHwAYABAACAAAAPj/8P/o/+H/2//W/9P/0P/Q/9D/0v/W/9r/4P/n/+7/9////wYADwAWAB4AJAApAC0ALwAwADAALgArACcAIQAaABMACwADAPv/8//r/+T/3f/Y/9T/0f/Q/9D/0f/U/9j/3v/k/+z/9P/8/wMADAAUABsAIgAnACwALwAwADAALwAsACgAIwAdABYADgAGAP7/9v/u/+b/4P/a/9X/0v/Q/9D/0f/T/9f/3P/i/+n/8f/5/wAACQARABgAHwAlACoALgAwADEAMAAuACoAJQAfABgAEQAJAAAA+f/x/+n/4v/c/9f/0//R/9D/0P/S/9X/2v/g/+b/7v/2//7/BgAOABYAHQAjACgALAAvADAAMAAvACwAJwAiABsAFAAMAAMA/P/0/+z/5P/e/9j/1P/R/9D/0P/R/9T/2P/d/+T/6//z//v/AwALABMAGgAhACcAKwAuADAAMAAvAC0AKQAkAB4AFgAPAAYA///3/+7/5//g/9r/1v/S/9D/0P/Q/9P/1v/b/+H/6P/w//j/";
 const DEFAULT_DICTIONARY_URL = "https://raw.githubusercontent.com/andersonoab/aprenderIngles/refs/heads/main/frases_unicas_1000.txt";
 
 const fallbackPhrases = [
@@ -40,6 +41,7 @@ const state = {
   guidedToken: 0,
   walkMode: false,
   wakeLock: null,
+  walkSkip: false,
   noSleep: null,
   speechResumeInterval: null,
   hoverSpeakEnabled: loadJson(HOVER_SPEAK_KEY, true),
@@ -879,7 +881,17 @@ function registerAudioDelegation() {
   document.addEventListener("visibilitychange", () => {
     if (document.visibilityState === "visible" && state.walkMode) {
       requestWakeLock();
-      if ("speechSynthesis" in window && window.speechSynthesis.paused) window.speechSynthesis.resume();
+      if ("speechSynthesis" in window) {
+        try { if (window.speechSynthesis.paused) window.speechSynthesis.resume(); } catch (e) {}
+      }
+      // Reativa o audio de midia caso o navegador o tenha pausado em background
+      if (state.noSleep && state.noSleep.audio) {
+        const p = state.noSleep.audio.play();
+        if (p && p.catch) p.catch(() => {});
+      }
+      if ("mediaSession" in navigator) {
+        try { navigator.mediaSession.playbackState = "playing"; } catch (e) {}
+      }
     }
   });
 
@@ -1572,17 +1584,52 @@ function activateTab(tabName) {
 async function speakText(text, lang = "en-US", rate = 1, options = {}) {
   const value = String(text || "").trim();
   if (!value || !("speechSynthesis" in window)) return false;
+  const synth = window.speechSynthesis;
   const cancel = options.cancel !== false;
-  if (cancel) window.speechSynthesis.cancel();
+  if (cancel) synth.cancel();
 
   return new Promise(resolve => {
+    let done = false;
+    let watchdog = null;
+    let tickle = null;
+
+    const finish = result => {
+      if (done) return;
+      done = true;
+      if (watchdog) clearTimeout(watchdog);
+      if (tickle) clearInterval(tickle);
+      resolve(result);
+    };
+
     const utterance = new SpeechSynthesisUtterance(value);
     utterance.lang = lang;
     utterance.rate = rate;
     utterance.pitch = 1;
-    utterance.onend = () => resolve(true);
-    utterance.onerror = () => resolve(false);
-    window.speechSynthesis.speak(utterance);
+    utterance.onend = () => finish(true);
+    utterance.onerror = () => finish(false);
+
+    // Watchdog: estima a duracao e libera o loop mesmo se onend nao disparar
+    // (bug classico do Chrome desktop, em que a fala para e o evento some).
+    const estimateMs = Math.max(2500, (value.length * 95) / Math.max(0.5, rate) + 1500);
+    watchdog = setTimeout(() => {
+      try { synth.cancel(); } catch (e) {}
+      finish(true);
+    }, estimateMs);
+
+    // Anti-pausa: alguns navegadores pausam a sintese sozinhos; o resume
+    // periodico durante a propria fala evita o travamento de ~15s.
+    tickle = setInterval(() => {
+      if (done) return;
+      try { if (synth.paused) synth.resume(); } catch (e) {}
+    }, 3000);
+
+    try {
+      synth.speak(utterance);
+      // Em alguns engines a fila inicia pausada; o resume destrava.
+      setTimeout(() => { try { if (synth.paused) synth.resume(); } catch (e) {} }, 120);
+    } catch (e) {
+      finish(false);
+    }
   });
 }
 
@@ -1607,8 +1654,10 @@ async function playGuidedSequence(phrase, token, mode = "guided") {
 
   for (const item of sequence) {
     if (!isAudioTokenActive(token)) return false;
+    if (mode === "walk" && state.walkSkip) { state.walkSkip = false; return true; }
     setAudioStatus(`${mode === "walk" ? "Caminhada" : "Leitura guiada"}: ${item.label}.`);
     await speakText(item.text, item.lang, item.rate, { cancel: false });
+    if (mode === "walk" && state.walkSkip) { state.walkSkip = false; return true; }
     await wait(mode === "walk" ? 550 : 350);
   }
   return true;
@@ -1743,8 +1792,8 @@ function startSpeechResumer() {
   if (state.speechResumeInterval) return;
   state.speechResumeInterval = setInterval(() => {
     if (!("speechSynthesis" in window)) return;
-    if (window.speechSynthesis.paused) window.speechSynthesis.resume();
-  }, 4000);
+    try { if (window.speechSynthesis.paused) window.speechSynthesis.resume(); } catch (e) {}
+  }, 500);
 }
 
 function stopSpeechResumer() {
@@ -1755,27 +1804,34 @@ function stopSpeechResumer() {
 
 function startNoSleepAudio() {
   if (state.noSleep) return;
+  // Elemento de midia REAL em loop: e o que mantem a "sessao de midia" ativa,
+  // segurando os timers e permitindo continuar com a tela apagada (Android).
   try {
-    const AudioCtx = window.AudioContext || window.webkitAudioContext;
-    if (!AudioCtx) return;
-    const ctx = new AudioCtx();
-    const oscillator = ctx.createOscillator();
-    const gain = ctx.createGain();
-    gain.gain.value = 0.0001;
-    oscillator.connect(gain);
-    gain.connect(ctx.destination);
-    oscillator.start();
-    ctx.resume?.();
-    state.noSleep = { ctx, oscillator, gain };
+    const audio = document.createElement("audio");
+    audio.loop = true;
+    audio.playsInline = true;
+    audio.setAttribute("playsinline", "");
+    audio.preload = "auto";
+    audio.volume = 1; // o WAV ja e quase inaudivel (~-56 dB)
+    audio.src = KEEPALIVE_WAV;
+    const p = audio.play();
+    if (p && p.catch) p.catch(() => {});
+    state.noSleep = { audio };
+    setupMediaSession();
   } catch (error) {
+    // Fallback: oscilador via WebAudio (nao dirige MediaSession, mas ajuda)
     try {
-      const audio = document.createElement("audio");
-      audio.loop = true;
-      audio.playsInline = true;
-      audio.volume = 0.01;
-      audio.src = "data:audio/wav;base64,UklGRiQAAABXQVZFZm10IBAAAAABAAEAQB8AAIA+AAACABAAZGF0YQAAAAA=";
-      audio.play().catch(() => {});
-      state.noSleep = { audio };
+      const AudioCtx = window.AudioContext || window.webkitAudioContext;
+      if (!AudioCtx) return;
+      const ctx = new AudioCtx();
+      const oscillator = ctx.createOscillator();
+      const gain = ctx.createGain();
+      gain.gain.value = 0.0001;
+      oscillator.connect(gain);
+      gain.connect(ctx.destination);
+      oscillator.start();
+      ctx.resume && ctx.resume();
+      state.noSleep = { ctx, oscillator, gain };
     } catch (fallbackError) {}
   }
 }
@@ -1787,10 +1843,55 @@ function stopNoSleepAudio() {
     if (state.noSleep.ctx) state.noSleep.ctx.close();
     if (state.noSleep.audio) {
       state.noSleep.audio.pause();
-      state.noSleep.audio.src = "";
+      state.noSleep.audio.removeAttribute("src");
+      state.noSleep.audio.load();
     }
   } catch (error) {}
   state.noSleep = null;
+  clearMediaSession();
+}
+
+// MediaSession: trata o treino como reproducao de midia (controles na tela de
+// bloqueio, menos throttling em background). Os handlers permitem pausar/avancar.
+function setupMediaSession() {
+  if (!("mediaSession" in navigator)) return;
+  try {
+    if (window.MediaMetadata) {
+      navigator.mediaSession.metadata = new MediaMetadata({
+        title: "Modo caminhada",
+        artist: "Lousa da Fluência",
+        album: "Treino de inglês"
+      });
+    }
+    navigator.mediaSession.playbackState = "playing";
+    const safe = (action, fn) => {
+      try { navigator.mediaSession.setActionHandler(action, fn); } catch (e) {}
+    };
+    safe("play", () => {
+      if (state.noSleep && state.noSleep.audio) state.noSleep.audio.play().catch(() => {});
+      if ("speechSynthesis" in window) { try { window.speechSynthesis.resume(); } catch (e) {} }
+    });
+    safe("pause", () => stopWalkingMode());
+    safe("stop", () => stopWalkingMode());
+    safe("nexttrack", () => advanceWalk());
+    safe("previoustrack", () => advanceWalk());
+  } catch (error) {}
+}
+
+function clearMediaSession() {
+  if (!("mediaSession" in navigator)) return;
+  try {
+    navigator.mediaSession.playbackState = "none";
+    ["play", "pause", "stop", "nexttrack", "previoustrack"].forEach(action => {
+      try { navigator.mediaSession.setActionHandler(action, null); } catch (e) {}
+    });
+  } catch (error) {}
+}
+
+// Forca o avanco imediato para a proxima frase no modo caminhada.
+function advanceWalk() {
+  state.walkSkip = true;
+  if ("speechSynthesis" in window) { try { window.speechSynthesis.cancel(); } catch (e) {} }
 }
 
 function exportProgress() {

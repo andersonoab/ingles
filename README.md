@@ -41,10 +41,15 @@ Exemplo:
 
 ## Modo caminhada e recursos de áudio
 
-- Modo caminhada com leitura contínua e tema escuro.
-- Tentativa de Wake Lock para manter a tela ativa.
-- Áudio silencioso de apoio para reduzir pausa/suspensão em alguns navegadores.
-- Retomada do `speechSynthesis` quando o navegador pausa a fala.
+- Modo caminhada com leitura contínua em loop e tema escuro.
+- Leitura nunca trava: cada fala tem um watchdog que libera o loop mesmo quando o
+  navegador engole o evento `onend` (bug clássico do Chrome no desktop).
+- Para continuar com a tela apagada: elemento de áudio de mídia real em loop +
+  MediaSession (controles na tela de bloqueio, menos suspensão em segundo plano).
+  No Android costuma seguir tocando; no iOS, a fala TTS em background é limitada
+  pela própria plataforma e o recomendado é manter a tela ligada.
+- Wake Lock para manter a tela acesa, readquirido ao voltar do segundo plano.
+- Resume periódico do `speechSynthesis` para contornar a pausa automática.
 - Leitura guiada: inglês natural, inglês devagar, português, ponte e inglês final.
 - Tocar palavra, bloco ou frase ao passar o mouse, tocar na tela ou pressionar
   Enter/Espaço sobre o item.
